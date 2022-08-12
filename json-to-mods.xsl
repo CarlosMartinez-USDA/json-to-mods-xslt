@@ -17,7 +17,7 @@
     <!--includes-->
     <xsl:include href="commons/common.xsl"/>
     <xsl:include href="commons/functions.xsl"/>
-    <xsl:include href="commons/usfs_naming_func_temp.xsl"/>
+    <xsl:include href="commons/usfs_naming_functions.xsl"/>
     <xsl:include href="commons/params-cm.xsl"/>
 
     <!--white space control-->
@@ -562,16 +562,15 @@
                     <titleInfo>
                         <title>
                             <xsl:choose>
-                                <xsl:when test="./string[@key = 'citation']">  
-                                    <xsl:value-of select="f:substring-after-last-match(./string[@key = 'citation'], '\s{2}')"/>
+                                <xsl:when test="./string[@key = 'pub_publication']">
+                                    <xsl:value-of select="substring-before(./string[@key = 'pub_publicaiton'], '.')"/>
                                 </xsl:when>
-                             <!--   <xsl:when test="./string[@key = 'pub_publication']"> 
-                                    <xsl:value-of select="substring-before(., '.')"/>
-                                </xsl:when>-->
-                                <!-- <xsl:value-of select="tokenize(substring-after($citation,'  '), '\(|\)|\d+|\-|\.')"/>
-                                    <xsl:value-of select="f:substring-after-last-match(./string[@key = 'citation'], '\s{2}')"/>-->
-                               
-           <!-- <xsl:value-of select="tokenize(substring-after($citation,'  '), '\(|\)|\d+|\-|\.')"/> --> 
+                                <xsl:when test="./string[@key = 'citation']">
+                                    <xsl:value-of select="translate(substring-after($citation,'  '), '0123456789()-.: ', ' ')"/>
+                                </xsl:when>
+                                <xsl:otherwise>
+                                    <xsl:value-of select="f:substring-after-last-match(./string[@key = 'citation'], '\s{2}')"/>
+                                </xsl:otherwise>
                             </xsl:choose>
                         </title>
                     </titleInfo>
@@ -580,7 +579,7 @@
             </xsl:otherwise>
         </xsl:choose>
     </xsl:template>
-
+                
     <xd:doc>
         <xd:desc/>
         <xd:param name="arg"/>

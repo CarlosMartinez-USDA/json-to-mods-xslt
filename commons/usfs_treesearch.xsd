@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" targetNamespace="http://usfs_treesearch" xmlns:usfs="http://usfs_treesearch" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <xs:import namespace="http://www.w3.org/2001/XMLSchema-instance" schemaLocation="xsi.xsd"/>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" targetNamespace="http://usfs_treesearch" xmlns:usfs="http://usfs_treesearch">
   <xs:element name="treesearch">
     <xs:complexType>
       <xs:sequence>
         <xs:element ref="usfs:researchStations"/>
         <xs:element ref="usfs:treesearchPublications"/>
       </xs:sequence>
-      <xs:attribute ref="xsi:schemaLocation" use="required"/>
     </xs:complexType>
   </xs:element>
   <xs:element name="researchStations">

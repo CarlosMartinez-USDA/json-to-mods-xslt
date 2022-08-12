@@ -24,40 +24,12 @@
         'Resource Bulletin (RB)', 'Research Map (RMAP)', 'Research Note (RN)', 'Research Paper (RP)', 'Resource Update (RU)')"/>
     
     <xsl:variable name="tree_nodes">
-        <xsl:copy-of select="document('./usfs_treesearch.xml')/usfs:treesearch/usfs:researchStations/usfs:station"/>
-    </xsl:variable>  
-    
-    <xsl:variable name="series_nodes">
         <xsl:copy-of select="document('./usfs_treesearch.xml')"/>
     </xsl:variable>  
+       
     
- <!--non-naming functions-->   
-    <xd:doc>
-        <xd:desc/>
-        <xd:param name="specialChars"/>
-    </xd:doc>
-    <xsl:function name="usfs:escapedSpecialChars" as="xs:string" xmlns:usfs="http://usfs_treesearch">
-        <xsl:param name="specialChars" as="xs:string?"/>
-        <xsl:sequence select="
-            replace($specialChars,
-            '(\.|\[|\]|\\|\||\-|\^|\$|\?|\*|\+|\{|\}|\(|\))', '\\$1')
-            "/>
-    </xsl:function>
-   
-    <xd:doc>
-        <xd:desc/>
-        <xd:param name="pub_info"/>
-    </xd:doc>
-    <xsl:function name="usfs:reverse-string" as="xs:string">
-    <xsl:param name="pub_info" as="xs:string?"/>
-    <xsl:sequence select="
-        codepoints-to-string(reverse(string-to-codepoints($pub_info)))
-        "/>
+<!-- station_id -->
     
-    </xsl:function>
-    
-    
-<!--Stations-->     
 <xd:doc scope="component">
     <xd:desc>
         <xd:p><xd:b>Function: </xd:b>f:acronymToName</xd:p>
@@ -68,8 +40,9 @@
 </xd:doc>      
     <xsl:function name="usfs:acronymToName"  as="xs:string?" xmlns:usfs="http://usfs_treesearch">
     <xsl:param name="acronym"/>
-    <xsl:if test="$acronym != ''"/>
-        <xsl:sequence select="$tree_nodes[usfs:acronym = $acronym]/usfs:name"/>
+    <xsl:if test="$acronym != ''">
+        <xsl:sequence select="$tree_nodes/usfs:treesearch/usfs:researchStations/usfs:station[usfs:acronym = $acronym]/usfs:name"/>
+    </xsl:if>
 </xsl:function>
 
 <xd:doc scope="component">
@@ -82,11 +55,12 @@
 </xd:doc>      
 <xsl:function name="usfs:acronymToAddress" as="xs:string?" xmlns:usfs="http://usfs_treesearch">
     <xsl:param name="acronym"/>
-    <xsl:if test="$acronym != ''"/>
-    <xsl:sequence select="$tree_nodes[usfs:acronym = $acronym]/usfs:address"/>
+    <xsl:if test="$acronym != ''">
+    <xsl:sequence select="$tree_nodes/usfs:treesearch/usfs:researchStations/usfs:station[usfs:acronym = $acronym]/usfs:address"/>
+    </xsl:if>
 </xsl:function>
 
-<!--Research Units-->
+    <!-- unit_id -->  
     
 <xd:doc scope="component">
     <xd:desc>
@@ -98,22 +72,39 @@
 </xd:doc>      
 <xsl:function name="usfs:unitNumberToName" as="xs:string?" xmlns:usfs="http://usfs_treesearch">
     <xsl:param name="unitNum"/>    
-    <xsl:if test="$unitNum != ''"/>
-    <xsl:value-of select="$tree_nodes/usfs:researchUnits/usfs:researchUnit[usfs:unitNumber=$unitNum]/usfs:unitName"/> 
+    <xsl:if test="$unitNum != ''">
+    <xsl:value-of select="$tree_nodes/usfs:treesearch/usfs:researchStations/usfs:station/usfs:researchUnits/usfs:unit[usfs:unitNumber=$unitNum]/usfs:unitName"/>
+    </xsl:if>
 </xsl:function>
+    
+  
+    <xd:doc scope="component">
+        <xd:desc>
+            <xd:p><xd:b>Function: </xd:b>f:unitAcronymToName</xd:p>
+            <xd:p><xd:b>Usage: </xd:b>f:acronymToName(string[@key = 'station_id'])</xd:p>
+            <xd:p><xd:b>Purpose: </xd:b>Tests for matching unit_acronym and retrieves full name of research_unit.</xd:p>            
+        </xd:desc>
+        <xd:param name="unitAcronym"/>
+    </xd:doc>      
+    <xsl:function name="usfs:unitAcronymToName" as="xs:string?" xmlns:usfs="http://usfs_treesearch">
+        <xsl:param name="unitAcronym"/>
+        <xsl:if test="$unitAcronym != ''">
+            <xsl:sequence select="$tree_nodes/usfs:treesearch/usfs:researchStations/usfs:station/usfs:researchUnits/usfs:unit[usfs:unitAcronym= $unitAcronym]/usfs:unitName"/>
+        </xsl:if>
+    </xsl:function>
     
     <xd:doc scope="component">
         <xd:desc>
-            <xd:p><xd:b>Function: </xd:b>usfs:unitNumToName</xd:p>
-            <xd:p><xd:b>Usage: </xd:b>usfs:unitNumToName(string[@key = 'unit_id'])</xd:p>
-            <xd:p><xd:b>Purpose: </xd:b>Convert ISO 639-2b three-letter codes into ISO 639-1 two-letter codes.</xd:p>            
+            <xd:p><xd:b>Function: </xd:b>usfs:unitAcronymnToAddress</xd:p>
+            <xd:p><xd:b>Usage: </xd:b>usfs:unitAcronymnToAddress(string[@key = 'unit_id'])</xd:p>
+            <xd:p><xd:b>Purpose: </xd:b>Tests for a matching unit_id acronyym when found retrieves the unit_address</xd:p>            
         </xd:desc>
         <xd:param name="unitNum">four-digit number code to match against</xd:param>    
     </xd:doc>      
-    <xsl:function name="usfs:unitNumberToAddress" as="xs:string?" xmlns:usfs="http://usfs_treesearch">
+    <xsl:function name="usfs:unitAcronymnToAddress" as="xs:string?" xmlns:usfs="http://usfs_treesearch">
         <xsl:param name="unitNum"/>    
         <xsl:if test="$unitNum != ''">
-        <xsl:value-of select="$tree_nodes/usfs:researchUnits/usfs:researchUnit[usfs:unitNumber=$unitNum]/usfs:unitAddress"/> 
+        <xsl:value-of select="$tree_nodes/usfs:treesearch/usfs:researchStations/usfs:station/usfs:researchUnits/usfs:unit[usfs:unitNumber=$unitNum]/usfs:unitAddress"/>
         </xsl:if>
     </xsl:function>
     
@@ -128,7 +119,7 @@
     <xsl:function name="usfs:unitAcronymToAddress" as="xs:string?" xmlns:usfs="http://usfs_treesearch">
         <xsl:param name="unitAcronym"/>    
         <xsl:if test="$unitAcronym != ''">
-        <xsl:value-of select="$tree_nodes/usfs:researchUnits/usfs:researchUnit[usfs:unitAcronym=$unitAcronym]/usfs:unitAddress"/> 
+            <xsl:value-of select="$tree_nodes/usfs:treesearch/usfs:researchStations/usfs:station/usfs:researchUnits/usfs:unit[usfs:unitAcronym=$unitAcronym]/usfs:unitAddress"/> 
         </xsl:if>
     </xsl:function>
     
@@ -140,26 +131,13 @@
         </xd:desc>
         <xd:param name="unitNum">four-digit number code to match against</xd:param>    
     </xd:doc>      
-    <xsl:function name="usfs:unitAcronymnToAddress" as="xs:string?" xmlns:usfs="http://usfs_treesearch">
+    <xsl:function name="usfs:unitNumberToAddress" as="xs:string?" xmlns:usfs="http://usfs_treesearch">
         <xsl:param name="unitNum"/>    
-        <xsl:if test="$unitNum != ''"/>
-        <xsl:value-of select="$tree_nodes/usfs:researchUnits/usfs:researchUnit[usfs:unitNumber=$unitNum]/usfs:unitAddress"/> 
+        <xsl:if test="$unitNum != ''">
+            <xsl:value-of select="$tree_nodes/usfs:treesearch/usfs:researchStations/usfs:station/usfs:researchUnits/usfs:unit[usfs:unitNumber=$unitNum]/usfs:unitAddress"/> 
+        </xsl:if>
     </xsl:function>
     
-<xd:doc scope="component">
-    <xd:desc>
-        <xd:p><xd:b>Function: </xd:b>f:unitAcronymToName</xd:p>
-        <xd:p><xd:b>Usage: </xd:b>f:acronymToName(string[@key = 'station_id'])</xd:p>
-        <xd:p><xd:b>Purpose: </xd:b>function to match a three-letter acronym to a full research station name.</xd:p>            
-    </xd:desc>
-    <xd:param name="unitAcronym"/>
-</xd:doc>      
-<xsl:function name="usfs:unitAcronymToName" as="xs:string?" xmlns:usfs="http://usfs_treesearch">
-    <xsl:param name="unitAcronym"/>
-    <xsl:if test="$unitAcronym != ''"/>
-    <xsl:sequence select="$tree_nodes/usfs:researchUnits/usfs:researchUnit[usfs:unitAcronym= $unitAcronym]/usfs:unitName"/>
-</xsl:function>
-
  <!-- Series &amp; Scholarly Publications -->
     
 <xd:doc scope="component">
@@ -168,17 +146,17 @@
         <xd:p><xd:b>Usage: </xd:b>f:unitNumToName(string[@key = 'unit_id'])</xd:p>
         <xd:p><xd:b>Purpose: </xd:b>Convert ISO 639-2b three-letter codes into ISO 639-1 two-letter codes.</xd:p>            
     </xd:desc>
-    <xd:param name="typeOfTitle"/>
+    <xd:param name="pubTitle"/>
 </xd:doc>
 <xsl:function name="usfs:seriesToAbbrv" as="xs:string?" xmlns:usfs="http://usfs_treesearch">
-    <xsl:param name="typeOfTitle"/>
-    <xsl:if test="$typeOfTitle != ''"/>
-    <xsl:sequence select="$series_nodes/usfs:treesearch/usfs:treesearchPublications/usfs:treePub[usfs:pubTitle = $typeOfTitle]/usfs:abbrv"/>
+    <xsl:param name="pubTitle"/>
+    <xsl:if test="$pubTitle != ''">
+        <xsl:sequence select="$tree_nodes/usfs:treesearch/usfs:treesearchPublications/usfs:treePub[usfs:pubTitle = $pubTitle]/usfs:abbrv"/>
+    </xsl:if>
 </xsl:function>
-
-<xd:doc scope="component">njnb
-
-
+    
+<!-- pub_type_desc -->
+<xd:doc scope="component">  
     <xd:desc>
         <xd:p><xd:b>Function: </xd:b>f:seriesToAbbrv</xd:p>
         <xd:p><xd:b>Usage: </xd:b>f:seriesToAbbrv(:unitNumToName(string[@key = 'unit_id'])</xd:p>
@@ -188,14 +166,15 @@
 </xd:doc>      
     <xsl:function name="usfs:pub_type_desc" as="xs:string" xmlns:usfs="http://usfs_treesearch">
     <xsl:param name="pub_title"/>
-    <xsl:if test="$pub_title != ''"/>
+    <xsl:if test="$pub_title != ''">
     <xsl:choose>
-        <xsl:when test="matches($pub_title,$series_nodes/usfs:treesearch/usfs:treeSeries/usfs:seriesPub[@type='series'])">
-            <xsl:sequence select="$series_nodes/usfs:treesearch/usfs:treeSeries/usfs:seriesPub[usfs:treePub = $pub_title]/usfs:abbrv"/>
+        <xsl:when test="matches($pub_title,$tree_nodes/usfs:treesearch/usfs:treesearchPublications/usfs:treePub[@type='series'])">
+            <xsl:sequence select="$tree_nodes/usfs:treesearch/usfs:treeSeries/usfs:seriesPub[usfs:treePub = $pub_title]/usfs:abbrv"/>
         </xsl:when>
         <xsl:otherwise>
-            <xsl:sequence select="$series_nodes/usfs:treesearch/usfs:treeSeries/usfs:seriesPub[usfs:treePub= $pub_title]"/> 
+            <xsl:sequence select="$tree_nodes/usfs:treesearch/usfs:treeSeries/usfs:seriesPub[usfs:treePub= $pub_title]"/> 
         </xsl:otherwise>
     </xsl:choose>
+    </xsl:if>
 </xsl:function>
 </xsl:stylesheet>
