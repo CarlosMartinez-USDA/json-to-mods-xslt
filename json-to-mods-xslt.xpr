@@ -6,8 +6,36 @@
             <serialized xml:space="preserve">
                 <serializableOrderedMap>
                     <entry>
+                        <String>enable.sys.param.entities.expansion.in.other.entities</String>
+                        <Boolean>true</Boolean>
+                    </entry>
+                    <entry>
+                        <String>key.xml.parser.option.pane</String>
+                        <Boolean>true</Boolean>
+                    </entry>
+                    <entry>
                         <String>scenario.associations</String>
                         <scenarioAssociation-array>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>workingDir/A-14209.json</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>json-to-mods-xslt</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
                                     <String>workingDir/A-30551.json</String>
@@ -1850,26 +1878,6 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>workingDir/A-14209.json</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>json-to-mods-xslt</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioStorageLocations">
-                                    <list>
-                                        <Byte>2</Byte>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
                                     <String>workingDir/A-13977.json</String>
                                 </field>
                                 <field name="scenarioIds">
@@ -2104,5 +2112,18 @@
     </meta>
     <projectTree name="json-to-mods-xslt.xpr">
         <folder path="."/>
+        <file name="workingDir/A-14209.json"/>
+        <file name="workingDir/A-25081.json"/>
+        <file name="workingDir/A-28976.json"/>
+        <file name="workingDir/A-3077.json"/>
+        <file name="workingDir/A-A-29554_1.xml"/>
+        <file name="workingDir/merged_08-12-2022-07-16.json"/>
+        <file name="workingDir/N-A-25081_1.xml"/>
+        <file name="workingDir/N-A-29796_1.xml"/>
+        <file name="workingDir/N-A-30551_1.xml"/>
+        <file name="../../HomeDrive/users/carlos.martinez25.08.2020/Contacts/Desktop/XML%20Projects/pubmed_170101.dtd"/>
+        <file name="../../XML_projects/AMB-Metadata-Team-master/AMB-Metadata-Team-master/README.md"/>
+        <file name="../../HomeDrive/users/carlos.martinez25.08.2020/Contacts/Desktop/xsl/recordSchema_is_mods.xml"/>
+        <file name="commons/usfs_treesearch.xml"/>
     </projectTree>
 </project>

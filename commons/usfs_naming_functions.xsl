@@ -77,11 +77,26 @@
     </xsl:if>
 </xsl:function>
     
+    <xd:doc scope="component">
+        <xd:desc>
+            <xd:p><xd:b>Function: </xd:b>usfs:unitNumberToAddress</xd:p>
+            <xd:p><xd:b>Usage: </xd:b>usfs:unitNumberToAddress(string[@key = 'unit_id'])</xd:p>
+            <xd:p><xd:b>Purpose: </xd:b>Tests for a matching 4 digit numbers contained in unit_id. When found retrieves the unit_address</xd:p>            
+        </xd:desc>
+        <xd:param name="unitNum">Acronym of unit_name</xd:param>    
+    </xd:doc>      
+    <xsl:function name="usfs:unitAcronymnToAddress" as="xs:string?" xmlns:usfs="http://usfs_treesearch">
+        <xsl:param name="unitNum"/>    
+        <xsl:if test="$unitNum != ''">
+            <xsl:value-of select="$tree_nodes/usfs:treesearch/usfs:researchStations/usfs:station/usfs:researchUnits/usfs:unit[usfs:unitNumber=$unitNum]/usfs:unitAddress"/>
+        </xsl:if>
+    </xsl:function>
+    
   
     <xd:doc scope="component">
         <xd:desc>
-            <xd:p><xd:b>Function: </xd:b>f:unitAcronymToName</xd:p>
-            <xd:p><xd:b>Usage: </xd:b>f:acronymToName(string[@key = 'station_id'])</xd:p>
+            <xd:p><xd:b>Function: </xd:b>usfs:unitAcronymToName</xd:p>
+            <xd:p><xd:b>Usage: </xd:b>usfs:acronymToName(string[@key = 'unit_id'])</xd:p>
             <xd:p><xd:b>Purpose: </xd:b>Tests for matching unit_acronym and retrieves full name of research_unit.</xd:p>            
         </xd:desc>
         <xd:param name="unitAcronym"/>
@@ -93,26 +108,12 @@
         </xsl:if>
     </xsl:function>
     
-    <xd:doc scope="component">
-        <xd:desc>
-            <xd:p><xd:b>Function: </xd:b>usfs:unitAcronymnToAddress</xd:p>
-            <xd:p><xd:b>Usage: </xd:b>usfs:unitAcronymnToAddress(string[@key = 'unit_id'])</xd:p>
-            <xd:p><xd:b>Purpose: </xd:b>Tests for a matching unit_id acronyym when found retrieves the unit_address</xd:p>            
-        </xd:desc>
-        <xd:param name="unitNum">four-digit number code to match against</xd:param>    
-    </xd:doc>      
-    <xsl:function name="usfs:unitAcronymnToAddress" as="xs:string?" xmlns:usfs="http://usfs_treesearch">
-        <xsl:param name="unitNum"/>    
-        <xsl:if test="$unitNum != ''">
-        <xsl:value-of select="$tree_nodes/usfs:treesearch/usfs:researchStations/usfs:station/usfs:researchUnits/usfs:unit[usfs:unitNumber=$unitNum]/usfs:unitAddress"/>
-        </xsl:if>
-    </xsl:function>
     
     <xd:doc scope="component">
         <xd:desc>
-            <xd:p><xd:b>Function: </xd:b>usfs:unitNumToName</xd:p>
-            <xd:p><xd:b>Usage: </xd:b>usfs:unitNumToName(string[@key = 'unit_id'])</xd:p>
-            <xd:p><xd:b>Purpose: </xd:b>Convert ISO 639-2b three-letter codes into ISO 639-1 two-letter codes.</xd:p>            
+            <xd:p><xd:b>Function: </xd:b>usfs:unitAcronymToAddress</xd:p>
+            <xd:p><xd:b>Usage: </xd:b>usfs:unitAcronymToName(string[@key = 'unit_id'])</xd:p>
+            <xd:p><xd:b>Purpose: </xd:b>if unit_id contains an acronym, and if a unitAddress exists it is taken in place of the station address</xd:p>            
         </xd:desc>
         <xd:param name="unitAcronym">four-digit number code to match against</xd:param>    
     </xd:doc>      
@@ -125,7 +126,7 @@
     
     <xd:doc scope="component">
         <xd:desc>
-            <xd:p><xd:b>Function: </xd:b>usfs:unitNumToName</xd:p>
+            <xd:p><xd:b>Function: </xd:b>usfs:unitNumbertoAddress</xd:p>
             <xd:p><xd:b>Usage: </xd:b>usfs:unitNumToName(string[@key = 'unit_id'])</xd:p>
             <xd:p><xd:b>Purpose: </xd:b>Convert ISO 639-2b three-letter codes into ISO 639-1 two-letter codes.</xd:p>            
         </xd:desc>
@@ -158,8 +159,8 @@
 <!-- pub_type_desc -->
 <xd:doc scope="component">  
     <xd:desc>
-        <xd:p><xd:b>Function: </xd:b>f:seriesToAbbrv</xd:p>
-        <xd:p><xd:b>Usage: </xd:b>f:seriesToAbbrv(:unitNumToName(string[@key = 'unit_id'])</xd:p>
+        <xd:p><xd:b>Function: </xd:b>usfs:pub_type_desc</xd:p>
+        <xd:p><xd:b>Usage: </xd:b>usfs:pub_type_desc(unitNumToName(string[@key = 'unit_id'])</xd:p>
         <xd:p><xd:b>Purpose: </xd:b>Convert ISO 639-2b three-letter codes into ISO 639-1 two-letter codes.</xd:p>            
     </xd:desc>
     <xd:param name="pub_title"/>
@@ -168,7 +169,7 @@
     <xsl:param name="pub_title"/>
     <xsl:if test="$pub_title != ''">
     <xsl:choose>
-        <xsl:when test="matches($pub_title,$tree_nodes/usfs:treesearch/usfs:treesearchPublications/usfs:treePub[@type='series'])">
+        <xsl:when test="matches($pub_title,$tree_nodes/usfs:treesearch/usfs:treesearchPublications/usfs:treePub[@type='series']/usfs:pubTitle)">
             <xsl:sequence select="$tree_nodes/usfs:treesearch/usfs:treeSeries/usfs:seriesPub[usfs:treePub = $pub_title]/usfs:abbrv"/>
         </xsl:when>
         <xsl:otherwise>

@@ -37,7 +37,7 @@
 <!--        <xsl:for-each select="/array[1]/map/string[@key = 'product_id']">-->
        
             <xsl:result-document method="xml" omit-xml-declaration="yes" encoding="utf-8" format="archive"
-                href="{replace(base-uri(),'(.*/)(.*)(\.xml|\.json)','$1')}A-{replace(base-uri(),'(.*/)(.*)(\.xml|\.json)','$2')}_{position()}.xml">
+                href="{replace(base-uri(),'(.*/)(.*)(\.xml|\.json)','$1')}A-{replace(base-uri(),'(.*/)(.*)(\.xml|\.json)','$2')}_{position()}.json">
                 <xsl:value-of select="."/>
             </xsl:result-document>
        
@@ -562,11 +562,11 @@
                     <titleInfo>
                         <title>
                             <xsl:choose>
-                                <xsl:when test="./string[@key = 'pub_publication']">
-                                    <xsl:value-of select="substring-before(./string[@key = 'pub_publicaiton'], '.')"/>
-                                </xsl:when>
                                 <xsl:when test="./string[@key = 'citation']">
                                     <xsl:value-of select="translate(substring-after($citation,'  '), '0123456789()-.: ', ' ')"/>
+                                </xsl:when>
+                                <xsl:when test="./string[@key = 'pub_publication']">
+                                    <xsl:value-of select="substring-before(./string[@key = 'pub_publication'], '.')"/>
                                 </xsl:when>
                                 <xsl:otherwise>
                                     <xsl:value-of select="f:substring-after-last-match(./string[@key = 'citation'], '\s{2}')"/>
