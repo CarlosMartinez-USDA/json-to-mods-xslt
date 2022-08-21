@@ -947,8 +947,7 @@
         <xd:param name="pub_publication"/>
     </xd:doc>
     <xsl:template match="/fn:map/fn:string[@key = 'pub_publication']"
-        xpath-default-namespace="http://www.w3.org/2005/xpath-functions" mode="pub_pages"
-        name="pub_publication">
+        xpath-default-namespace="http://www.w3.org/2005/xpath-functions" mode="pub_pages">
         <xsl:param name="pub_publication"/>
         <xsl:variable name="lastNumber"
             select="string(tokenize(/fn:map/fn:string[@key = 'pub_publication'], '[^\d]+')[.][last()])"/>
@@ -1202,7 +1201,7 @@
 
     <xd:doc scope="component">
         <xd:desc>
-            <xd:p><xd:b>vendorName</xd:b>Metadata supplier name (e.g., Brill,
+            <xd:p><xd:b>vendor Name</xd:b>Metadata supplier name (e.g., Brill,
                 Springer,Elsevier)</xd:p>
             <xd:p><xd:b>filename_ext</xd:b>Filename from source metadata (eg.
                 filename.xml,filename.json or filename.zip)</xd:p>
@@ -1228,3 +1227,4 @@
         </extension>
     </xsl:template>
 </xsl:stylesheet>
+f
