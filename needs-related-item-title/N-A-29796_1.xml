@@ -46,7 +46,8 @@
    </language>
    <relatedItem type="host">
       <titleInfo>
-         <title>Carll, Charles; TenWolde, Anton; Munson, Robert. 2007. Moisture performance of a contemporary wood-frame house operated at design indoor humidity levels. In  Proceedings, ASHRAE thermal performance of the exterior envelopes of whole buildings X   U.S. Department of Energy, Oak Ridge National Laboratory  Buildings X Conference, 2007 December 2-7. Atlanta, Ga.  American Society for Heating, Refrigerating, and Air-Conditioning Engineers, Inc. 14 p.</title>
+         <title><!--test 5: substring-after-last-match, citation, two white spaces-->
+Carll, Charles; TenWolde, Anton; Munson, Robert. 2007. Moisture performance of a contemporary wood-frame house operated at design indoor humidity levels. In: Proceedings, ASHRAE thermal performance of the exterior envelopes of whole buildings X : U.S. Department of Energy, Oak Ridge National Laboratory: Buildings X Conference, 2007 December 2-7. Atlanta, Ga.: American Society for Heating, Refrigerating, and Air-Conditioning Engineers, Inc. 14 p.</title>
       </titleInfo>
       <part>
          <text type="year">2008</text>
