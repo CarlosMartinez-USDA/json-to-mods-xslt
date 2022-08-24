@@ -586,44 +586,44 @@
                 <relatedItem type="host">
                     <titleInfo>
                         <title>
-                            <xsl:variable name="regex" as="xs:string" select="string-join('.', ',')"/>
+                            <xsl:variable name="regex" as="xs:string" select="string-join(',', '.')"/>
+                            <xsl:variable name="substring" select="tokenize(., ':')"/>
+                            <xsl:variable name="delims" select="tokenize(./string[@key = 'pub_publication'],string(concat('.',',')))"/>
                             <xsl:choose>
 
                                 <!-- pub_publication -->
 
-                                <!-- test 1: pub_publication, substring_before, period -->
+                              <!--   test 1: pub_publication, substring_before, period
 
                                 <xsl:when test="./string[@key = 'pub_publication'] != 'null' or ''">
-                                    <xsl:value-of
-                                        select="substring-before(./string[@key = 'pub_publication'], '.')"/>
+                                    <xsl:value-of select="replace(./string[@key = 'pub_publication'],'(^.*)(\.|,)(.*$)', '$1')"/>
                                     <xsl:text>&#xa;</xsl:text>
                                     <xsl:comment>test 1: pub_publication substring_before period</xsl:comment>
-                                </xsl:when>
-
-                                <!-- test 2: pub_publication, tokenize, any non-alphanumeric character and digits -->
-
-                                <xsl:when test="./string[@key = 'pub_publication'] != 'null' or ''">
-
-                                    <xsl:comment>test 2: pub_publication tokenize any non-alphanumeric character and digits</xsl:comment>
+                                    </xsl:when>-->
+                                <!--  test 2: pub_publication, tokenize, any non-alphanumeric character and digits -->
+                                
+                                <xsl:when test="./string[@key = 'pub_publication'] != 'null' or ''">                                 
+                                    <xsl:value-of select="tokenize(./string[@key = 'pub_publication'], '\W+\d+')" />
                                     <xsl:text>&#xa;</xsl:text>
-                                    <xsl:value-of
-                                        select="tokenize(./string[@key = 'pub_publication'], '\W+\d+')"/>
-
-                                </xsl:when>
-
-                                <!-- test 3: pub_publication, substring-before, comma -->
-
-                                <xsl:when test="./string[@key = 'pub_publication'] != 'null' or ''">
-                                    <xsl:comment>test 3: pub_publication substring before comma</xsl:comment>
+                                    <xsl:comment>test 2: pub_publication tokenize any non-alphanumeric character and digits</xsl:comment>
+                                </xsl:when> 
+                                
+                              <!--  <xsl:when test="./string[@key = 'pub_publication'] != 'null' or ''">
+                                    <xsl:comment>test 3: pub_publication, substring-before, comma</xsl:comment>
                                     <xsl:text>&#xa;</xsl:text>
                                     <xsl:value-of
                                         select="substring-before(./string[@key = 'pub_publication'], ',')"
                                     />
                                 </xsl:when>
+-->
+                        
+                              
+                                <!-- test 3: pub_publication, substring-before, comma -->
+
 
                                 <!-- citattion -->
 
-                                <!-- test 4: pub_publication, translate, digits all numbers and charactes-->
+                                <!-- test 4: pub_publication, translate, digits all numbers and charactes
 
                                 <xsl:when test="./string[@key = 'pub_publication'] != 'null' or ''">
                                     <xsl:comment>test 4: pub_publication translate digits all numbers and charactes</xsl:comment>
@@ -631,7 +631,7 @@
                                     <xsl:value-of
                                         select="translate(./string[@key = 'pub_publication'], '01234556789(),.-():', ' ')"
                                     />
-                                </xsl:when>
+                                </xsl:when>-->
 
                                 <!-- test 5: substring-after-last-match, citation, two white spaces -->
 
@@ -639,7 +639,8 @@
 
                                     <xsl:comment>test 5: substring-after-last-match, citation, two white spaces</xsl:comment>
                                     <xsl:text>&#xa;</xsl:text>
-                                    <xsl:value-of
+                                    <xsl:
+                                        <xsl:value-of select="substring(replace('(^.*\w+\.)(p\.$),')"
                                         select="f:substring-after-last-match(./string[@key = 'citation'], '\s{2}')"
                                     />
                                 </xsl:when>
@@ -647,7 +648,7 @@
                                 <!-- test 6: citation, tokenize, colon -->
 
                                 <xsl:when test="./string[@key = 'citation']">
-                                    <xsl:comment>test 6: substring-after-last-match, citation, two white spaces</xsl:comment>
+                                    <xsl:comment>test 6: citation, tokenize, colon</xsl:comment>
                                     <xsl:text>&#xa;</xsl:text>
                                     <xsl:value-of
                                         select="tokenize(./string[@key = 'citation'], ':')"/>
