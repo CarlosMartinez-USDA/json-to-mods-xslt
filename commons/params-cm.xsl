@@ -43,6 +43,6 @@
     <xsl:variable name="vendor"><xsl:text>United States. Forest service</xsl:text></xsl:variable>
     <xsl:variable name="archive_file" select="tokenize(document-uri(.), '/')[last()]"/>
     <xsl:variable name="original_filename" select="replace(base-uri(), '(.*/)(.*)(\.xml|\.json)', '$2')"/>
-    <xsl:variable name="working_dir" select="substring-before(base-uri(),tokenize(document-uri(.), '/')[last()])"/>
+    <xsl:variable name="working_dir" select="substring-before(saxon:system-id(),tokenize(document-uri(.), '/')[last()])"/>
 </xsl:stylesheet>
 

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <usfs:treesearch xmlns="http://usfs_treesearch" xmlns:usfs="http://usfs_treesearch">
     <researchStations>
         <!--Northern Reserach Station-->
@@ -205,7 +205,13 @@
                     <unitName>Communities &amp; Forest Management Team</unitName>
                     <unitAcronym type="station_unit">CFMT</unitAcronym>
                     <unitAddress>Portland Forestry Sciences Laboratory, 620 SW Main Street, Ste 400, Portland, OR 97205</unitAddress>
-                </unit>        
+                </unit> 
+                <unit stationAcronym="PNW">
+                    <unitNumber>4869</unitNumber>
+                    <unitName>Resource Monitoring and Assessment</unitName>
+                    <unitAcronym type="station_unit">RMA</unitAcronym>
+                    <unitAddress>Portland Forestry Sciences Laboratory, 620 SW Main, Suite 502, Portland, OR 97205-3028</unitAddress>
+                </unit>       
                 <unit stationAcronym="PNW">
                     <unitNumber>2600</unitNumber>
                     <unitName>Station Director Office</unitName>
@@ -310,12 +316,12 @@
                 <unit stationAcronym="SRS">
                     <unitNumber>4353</unitNumber>
                     <unitName>Center for Forest Watershed Research</unitName>
-                    <subresearchUnits>
+                    <subResearchUnits>
                         <subUnit>Coweeta Hydrologic Laboratory </subUnit>
                         <subUnit>Center for Forested Wetlands Research </subUnit>
                         <subUnit>Coldwater Streams and Trout Habitat </subUnit>
                         <subUnit>Center for Aquatic Technology Transfer </subUnit>
-                    </subresearchUnits>
+                    </subResearchUnits>
                     <isPartOf>Forest Assessment and Synthesis</isPartOf>
                 </unit>
                 <unit stationAcronym="SRS">
@@ -336,10 +342,10 @@
                 <unit stationAcronym="SRS">
                     <unitNumber>4952</unitNumber>
                     <unitName>Integrating Human and Natural Systems</unitName>
-                    <subresearchUnits>
+                    <subResearchUnits>
                         <subUnit>Urban Forestry South</subUnit>
                         <subUnit>InterfaceSouth</subUnit>
-                    </subresearchUnits>
+                    </subResearchUnits>
                     <isPartOf>Forest Assessment and Synthesis</isPartOf>
                 </unit>
                 <unit stationAcronym="SRS">

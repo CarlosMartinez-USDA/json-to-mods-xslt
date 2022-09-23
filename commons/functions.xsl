@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.loc.gov/mods/v3"
     xmlns:fn="http://www.w3.org/2005/xpath-functions"
@@ -28,7 +28,7 @@
         <xd:desc/>
         <xd:param name="month-name"/>
     </xd:doc>
-    <xsl:function name="f:monthNumFromName" as="xs:string" xmlns:functx="http://functions">
+    <xsl:function name="f:monthNumFromName" as="xs:string" xmlns:f="http://functions">
         <xsl:param name="month-name" as="xs:string"/>
         <xsl:variable name="months" as="xs:string*"
             select="'jan', 'feb', 'mar', 'apr', 'may', 'jun', 'jul', 'aug', 'sep', 'oct', 'nov', 'dec'"/>
