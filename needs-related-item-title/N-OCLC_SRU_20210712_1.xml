@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim"
+             xmlns:saxon="http://icl.com/saxon"
+             xmlns="http://www.loc.gov/MARC21/slim"
+             xmlns:oclcterms="http://purl.org/oclc/terms/"
+             xmlns:dc="http://purl.org/dc/elements/1.1/"
+             xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/"
+             xmlns:zs="http://www.loc.gov/zing/srw/"
+             xmlns:xlink="http://www.w3.org/1999/xlink"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="http://www.loc.gov/MARC21/slim https://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+   <leader>00000cam a2200000 a 4500</leader>
+   <controlfield tag="001">35019315</controlfield>
+   <controlfield tag="008">960702s1995 caua b f000 0 eng </controlfield>
+   <datafield ind1=" " ind2=" " tag="010">
+      <subfield code="a"> 96169383 </subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">DNAL</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">DLC</subfield>
+      <subfield code="d">AGL</subfield>
+      <subfield code="d">CAW</subfield>
+      <subfield code="d">YAM</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">BTCTA</subfield>
+      <subfield code="d">AGL</subfield>
+      <subfield code="d">OCLCO</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">CNLAK</subfield>
+      <subfield code="d">OCLCF</subfield>
+      <subfield code="d">AGM</subfield>
+      <subfield code="d">WAU</subfield>
+      <subfield code="d">WURST</subfield>
+      <subfield code="d">OCL</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="019">
+      <subfield code="a">973943017</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="042">
+      <subfield code="a">lccopycat</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="043">
+      <subfield code="a">n-usp--</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="4" tag="050">
+      <subfield code="a">SD11</subfield>
+      <subfield code="b">.P3a no. 157</subfield>
+      <subfield code="a">QL737.C25</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="3" tag="055">
+      <subfield code="a">SD 356.52*</subfield>
+   </datafield>
+   <datafield ind1="0" ind2=" " tag="070">
+      <subfield code="a">aSD11.A325</subfield>
+      <subfield code="b">no.157</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="072">
+      <subfield code="a">P000</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="072">
+      <subfield code="a">K001</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="082">
+      <subfield code="a">634.9/0979 s</subfield>
+      <subfield code="a">639.97/97665</subfield>
+      <subfield code="2">21</subfield>
+   </datafield>
+   <datafield ind1="0" ind2=" " tag="086">
+      <subfield code="a">A 13.88:PSW-GTR-157</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">American marten, fisher, lynx, and wolverine :</subfield>
+      <subfield code="b">survey methods for their detection /</subfield>
+      <subfield code="c">technical editors, William J. Zielinski, Thomas E. Kucera.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">Albany, Calif. :</subfield>
+      <subfield code="b">Pacific Southwest Research Station,</subfield>
+      <subfield code="c">[1995]</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">vi, 163 pages :</subfield>
+      <subfield code="b">illustrations (some color) ;</subfield>
+      <subfield code="c">28 cm.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="336">
+      <subfield code="a">text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="337">
+      <subfield code="a">unmediated</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="338">
+      <subfield code="a">volume</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="490">
+      <subfield code="a">General technical report PSW ;</subfield>
+      <subfield code="v">GTR-157</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">"August 1995"--Page 2 of cover.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Survey forms inserted in pocket.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="504">
+      <subfield code="a">Includes bibliographical references.</subfield>
+   </datafield>
+   <datafield ind1="0" ind2=" " tag="505">
+      <subfield code="a">Introduction to detection and survey methods / William J. Zielinski
+              and Thomas E. Kucera -- Definition and distribution of sample units / William J.
+              Zielinski, Thomas E. Kucera, and James C. Halfpenny -- Photographic bait stations /
+              Thomas E. Kucera, Art M. Soukkala, and William J. Zielinski -- Track plates / William
+              J. Zielinski -- Snow tracking / James C. Halfpenny, Richard W. Thompson, Susan C.
+              Morse, Tim Holden, and Paul Rezendes.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">American marten</subfield>
+      <subfield code="x">Detection</subfield>
+      <subfield code="z">West (U.S.)</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Fisher (Mammal)</subfield>
+      <subfield code="x">Detection</subfield>
+      <subfield code="z">West (U.S.)</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Lynx</subfield>
+      <subfield code="x">Detection</subfield>
+      <subfield code="z">West (U.S.)</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Wolverine</subfield>
+      <subfield code="x">Detection</subfield>
+      <subfield code="z">West (U.S.)</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Mammal surveys</subfield>
+      <subfield code="z">West (U.S.)</subfield>
+      <subfield code="x">Methodology.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Tracking and trailing</subfield>
+      <subfield code="z">West (U.S.)</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="3" tag="650">
+      <subfield code="a">Martes americana.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="3" tag="650">
+      <subfield code="a">Martes martes.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="3" tag="650">
+      <subfield code="a">Gulo gulo.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="3" tag="650">
+      <subfield code="a">Wildlife management.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="3" tag="650">
+      <subfield code="a">Surveys.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="3" tag="650">
+      <subfield code="a">Methodology.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="3" tag="650">
+      <subfield code="a">Martes pennanti.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="3" tag="650">
+      <subfield code="a">Lynx canadensis.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Mammal surveys</subfield>
+      <subfield code="x">Methodology.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01006940</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Tracking and trailing.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01153656</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="651">
+      <subfield code="a">West United States.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01243255</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="653">
+      <subfield code="a">bescherming</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="653">
+      <subfield code="a">protection</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="653">
+      <subfield code="a">dieren</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="653">
+      <subfield code="a">animals</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="653">
+      <subfield code="a">uitsterven</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="653">
+      <subfield code="a">extinction</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="653">
+      <subfield code="a">bedreigde soorten</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="653">
+      <subfield code="a">endangered species</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="653">
+      <subfield code="a">conservering</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="653">
+      <subfield code="a">conservation</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="653">
+      <subfield code="a">mustelidae</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="653">
+      <subfield code="a">felidae</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="653">
+      <subfield code="a">vs</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="653">
+      <subfield code="a">usa</subfield>
+   </datafield>
+   <datafield ind1="1" ind2="0" tag="653">
+      <subfield code="a">Wildlife Conservation and Management</subfield>
+   </datafield>
+   <datafield ind1="1" ind2="0" tag="653">
+      <subfield code="a">Wildbescherming en -beheer</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Zielinski, William J.</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Kucera, Thomas E.</subfield>
+   </datafield>
+   <datafield ind1="2" ind2=" " tag="710">
+      <subfield code="a">Pacific Southwest Research Station.</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="8" tag="776">
+      <subfield code="i">Online version:</subfield>
+      <subfield code="t">American marten, fisher, lynx, and wolverine.</subfield>
+      <subfield code="d">Albany, Calif. : Pacific Southwest Research Station,
+              [1995]</subfield>
+      <subfield code="w">(OCoLC)624431145</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="830">
+      <subfield code="a">General technical report PSW ;</subfield>
+      <subfield code="v">157.</subfield>
+   </datafield>
+   <datafield ind1="4" ind2="1" tag="856">
+      <subfield code="u">http://www.fs.fed.us/psw/publications/documents/gtr-157/</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="938">
+      <subfield code="a">Baker and Taylor</subfield>
+      <subfield code="b">BTCP</subfield>
+      <subfield code="n">96169383</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">AU@</subfield>
+      <subfield code="b">000043398764</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">NLGGC</subfield>
+      <subfield code="b">190484535</subfield>
+   </datafield>
+</marc:record>

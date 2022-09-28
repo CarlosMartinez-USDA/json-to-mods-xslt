@@ -1,8 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <!--This stylesheet contains naming functions for The United States Forest Service's research stations and publications cited and mentioned within the Treesearch database-->
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     xmlns="http://www.loc.gov/mods/v3"
+    xmlns:f="http://functions"
     xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl"
     xmlns:usfs="http://usfs_treesearch"
     exclude-result-prefixes="xs xd usfs"
@@ -26,7 +27,34 @@
     <xsl:variable name="tree_nodes">
         <xsl:copy-of select="document('./usfs_treesearch.xml')"/>
     </xsl:variable>  
-       
+   
+    <!-- f:substring-after-last-match -->
+    <xd:doc>
+        <xd:desc>function to select the substring within the "citation" key value, containing the
+            host journal's title</xd:desc>
+        <xd:param name="arg"/>
+        <xd:param name="regex"/>
+    </xd:doc>
+    <xsl:function name="f:substring-after-last-match" as="xs:string">
+        <xsl:param name="arg" as="xs:string?"/>
+        <xsl:param name="regex" as="xs:string"/>
+        <xsl:sequence select="replace($arg, concat('^.*', $regex), '')"/>
+    </xsl:function>
+<!--    f:substring-before-match-->
+    <xd:doc>
+        <xd:desc> f:substring-before-match </xd:desc>
+        <xd:param name="arg"/>
+        <xd:param name="regex"/>
+    </xd:doc>
+    <xsl:function name="f:substring-before-match" as="xs:string">
+        <xsl:param name="arg" as="xs:string?"/>
+        <xsl:param name="regex" as="xs:string"/>
+        
+        <xsl:sequence select="
+            tokenize($arg,$regex)[1]
+            "/>
+        
+    </xsl:function>
     
 <!-- station_id -->
     

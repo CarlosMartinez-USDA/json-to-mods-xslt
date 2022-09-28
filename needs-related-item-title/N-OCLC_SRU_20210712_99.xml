@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim"
+             xmlns:saxon="http://icl.com/saxon"
+             xmlns="http://www.loc.gov/MARC21/slim"
+             xmlns:oclcterms="http://purl.org/oclc/terms/"
+             xmlns:dc="http://purl.org/dc/elements/1.1/"
+             xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/"
+             xmlns:zs="http://www.loc.gov/zing/srw/"
+             xmlns:xlink="http://www.w3.org/1999/xlink"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="http://www.loc.gov/MARC21/slim https://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+   <leader>00000cam a2200000 a 4500</leader>
+   <controlfield tag="001">34659551</controlfield>
+   <controlfield tag="008">960501s1996 oru b f000 0 eng </controlfield>
+   <datafield ind1=" " ind2=" " tag="010">
+      <subfield code="a"> 96144311 </subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">DNAL</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">DLC</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">BTCTA</subfield>
+      <subfield code="d">OSO</subfield>
+      <subfield code="d">VT2</subfield>
+      <subfield code="d">OCLCF</subfield>
+      <subfield code="d">GPO</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCLCO</subfield>
+      <subfield code="d">OCLCA</subfield>
+      <subfield code="d">AGM</subfield>
+      <subfield code="d">OCL</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="042">
+      <subfield code="a">lccopycat</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="043">
+      <subfield code="a">n-usp--</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="050">
+      <subfield code="a">Z5991</subfield>
+      <subfield code="b">.R554 1996</subfield>
+      <subfield code="a">SD144</subfield>
+   </datafield>
+   <datafield ind1="0" ind2=" " tag="070">
+      <subfield code="a">aSD11.A46</subfield>
+      <subfield code="b">no.366</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="072">
+      <subfield code="a">E200 K001 E500</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="4" tag="082">
+      <subfield code="a">333.75/15/016</subfield>
+      <subfield code="2">19</subfield>
+   </datafield>
+   <datafield ind1="0" ind2=" " tag="086">
+      <subfield code="a">A 13.88:PNW-GTR-366</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Richardson, Catherine Woods.</subfield>
+   </datafield>
+   <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Stability and change in forest-based communities :</subfield>
+      <subfield code="b">a selected bibliography /</subfield>
+      <subfield code="c">[Catherine Woods Richardson, compiler].</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">Portland, Or. (333 S.W. First Ave., P.O. Box 3890, Portland
+              97208-3890) :</subfield>
+      <subfield code="b">U.S. Dept. of Agriculture, Forest Service, Pacific Northwest Research
+              Station,</subfield>
+      <subfield code="c">[1996]</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">36 pages ;</subfield>
+      <subfield code="c">28 cm.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="336">
+      <subfield code="a">text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="337">
+      <subfield code="a">unmediated</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="338">
+      <subfield code="a">volume</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="490">
+      <subfield code="a">General technical report PNW ;</subfield>
+      <subfield code="v">GTR-366</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Cover title.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">"March 1996."</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Forest management</subfield>
+      <subfield code="z">Northwest, Pacific</subfield>
+      <subfield code="v">Bibliography.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Forest management</subfield>
+      <subfield code="x">Social aspects</subfield>
+      <subfield code="z">Northwest, Pacific</subfield>
+      <subfield code="v">Bibliography.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Forest policy</subfield>
+      <subfield code="z">Northwest, Pacific</subfield>
+      <subfield code="v">Bibliography.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Forest policy</subfield>
+      <subfield code="x">Social aspects</subfield>
+      <subfield code="z">Northwest, Pacific</subfield>
+      <subfield code="v">Bibliography.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Forest products industry</subfield>
+      <subfield code="z">Northwest, Pacific</subfield>
+      <subfield code="v">Bibliography.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Forest products industry</subfield>
+      <subfield code="x">Social aspects</subfield>
+      <subfield code="z">Northwest, Pacific</subfield>
+      <subfield code="v">Bibliography.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Rural development</subfield>
+      <subfield code="z">Northwest, Pacific</subfield>
+      <subfield code="v">Bibliography.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Forest management.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00932231</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Forest management</subfield>
+      <subfield code="x">Social aspects.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00932262</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Forest policy.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00932311</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Forest policy</subfield>
+      <subfield code="x">Social aspects.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00932326</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Forest products industry.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00932372</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Forest products industry</subfield>
+      <subfield code="x">Social aspects.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00932422</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Rural development.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01101498</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="651">
+      <subfield code="a">Pacific Northwest.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01242543</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="3" tag="650">
+      <subfield code="a">Rural communities.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="3" tag="650">
+      <subfield code="a">Forest economics.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="3" tag="650">
+      <subfield code="a">Economic impact.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="3" tag="650">
+      <subfield code="a">Forest products industry.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Bibliographies.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01919895</subfield>
+   </datafield>
+   <datafield ind1="2" ind2=" " tag="710">
+      <subfield code="a">Pacific Northwest Research Station (Portland, Or.)</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="8" tag="776">
+      <subfield code="i">Online version:</subfield>
+      <subfield code="a">Richardson, Catherine Woods.</subfield>
+      <subfield code="t">Stability and change in forest-based communities</subfield>
+      <subfield code="w">(OCoLC)679606232</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="8" tag="776">
+      <subfield code="i">Microfiche version:</subfield>
+      <subfield code="a">Richardson, Catherine Woods.</subfield>
+      <subfield code="t">Stability and change in forest-based communities</subfield>
+      <subfield code="w">(OCoLC)37839859</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="830">
+      <subfield code="a">General technical report PNW ;</subfield>
+      <subfield code="v">366.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="938">
+      <subfield code="a">Baker and Taylor</subfield>
+      <subfield code="b">BTCP</subfield>
+      <subfield code="n">96144311</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">AU@</subfield>
+      <subfield code="b">000013506002</subfield>
+   </datafield>
+</marc:record>

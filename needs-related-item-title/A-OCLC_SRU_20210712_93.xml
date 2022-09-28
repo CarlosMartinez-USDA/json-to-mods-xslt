@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim"
+        xmlns:oclcterms="http://purl.org/oclc/terms/"
+        xmlns:dc="http://purl.org/dc/elements/1.1/"
+        xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <leader>00000cam a2200000 a 4500</leader>
+   <controlfield tag="001">33868062</controlfield>
+   <controlfield tag="008">951207s1995 dcuab b f000 0 eng d</controlfield>
+   <datafield ind1=" " ind2=" " tag="010">
+      <subfield code="a"> 96103061 </subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">DNAL</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">DLC</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">BTCTA</subfield>
+      <subfield code="d">OCLCG</subfield>
+      <subfield code="d">OCLCO</subfield>
+      <subfield code="d">OCLCA</subfield>
+      <subfield code="d">OCLCF</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCLCA</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="042">
+      <subfield code="a">lccopycat</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="043">
+      <subfield code="a">n-usp--</subfield>
+      <subfield code="a">n-cn-bc</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="4" tag="050">
+      <subfield code="a">HD1751</subfield>
+      <subfield code="b">.A91854 no. 720</subfield>
+      <subfield code="a">S494.5.W3</subfield>
+   </datafield>
+   <datafield ind1="0" ind2=" " tag="070">
+      <subfield code="a">A281.9</subfield>
+      <subfield code="b">Ag8A no.720</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="072">
+      <subfield code="a">E100 P210</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="082">
+      <subfield code="a">338.1 s</subfield>
+      <subfield code="a">333.91/3/09795</subfield>
+      <subfield code="2">20</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">Economic analysis of selected water policy options for the Pacific
+              Northwest :</subfield>
+      <subfield code="b">an Economic Research Service Report /</subfield>
+      <subfield code="c">Glenn D. Schaible [and others].</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">Washington, D.C. :</subfield>
+      <subfield code="b">U.S. Dept. of Agriculture, Economic Research Service,</subfield>
+      <subfield code="c">[1995]</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">ix, 53 pages :</subfield>
+      <subfield code="b">illustrations, map ;</subfield>
+      <subfield code="c">28 cm.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="336">
+      <subfield code="a">text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="337">
+      <subfield code="a">unmediated</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="338">
+      <subfield code="a">volume</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="490">
+      <subfield code="a">Agricultural economic report ;</subfield>
+      <subfield code="v">no. 720</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Cover title.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">"June 1995"--Page [i].</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="504">
+      <subfield code="a">Includes bibliographical references (pages 29-31).</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Water-supply, Agricultural</subfield>
+      <subfield code="x">Economic aspects</subfield>
+      <subfield code="z">Northwest, Pacific.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Water conservation</subfield>
+      <subfield code="x">Economic aspects</subfield>
+      <subfield code="z">Northwest, Pacific.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Water diversion</subfield>
+      <subfield code="x">Economic aspects</subfield>
+      <subfield code="z">Northwest, Pacific.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Irrigation farming</subfield>
+      <subfield code="x">Economic aspects</subfield>
+      <subfield code="z">Northwest, Pacific.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Irrigation farming</subfield>
+      <subfield code="x">Economic aspects.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00979621</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Water conservation</subfield>
+      <subfield code="x">Economic aspects.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01171614</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Water diversion</subfield>
+      <subfield code="x">Economic aspects.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01171705</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Water-supply, Agricultural</subfield>
+      <subfield code="x">Economic aspects.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01172478</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="651">
+      <subfield code="a">Pacific Northwest.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01242543</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Schaible, Glenn D.</subfield>
+      <subfield code="q">(Glenn David)</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="710">
+      <subfield code="a">United States.</subfield>
+      <subfield code="b">Department of Agriculture.</subfield>
+      <subfield code="b">Economic Research Service.</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="8" tag="776">
+      <subfield code="i">Online version:</subfield>
+      <subfield code="t">Economic analysis of selected water policy options for the Pacific
+              Northwest.</subfield>
+      <subfield code="d">Washington, D.C. : U.S. Dept. of Agriculture, Economic Research
+              Service, [1995]</subfield>
+      <subfield code="w">(OCoLC)1103215902</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="830">
+      <subfield code="a">Agricultural economic report ;</subfield>
+      <subfield code="v">no. 720.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="938">
+      <subfield code="a">Baker and Taylor</subfield>
+      <subfield code="b">BTCP</subfield>
+      <subfield code="n">96103061</subfield>
+   </datafield>
+</record>

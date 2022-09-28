@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim"
+        xmlns:oclcterms="http://purl.org/oclc/terms/"
+        xmlns:dc="http://purl.org/dc/elements/1.1/"
+        xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <leader>00000cas a2200000 a 4500</leader>
+   <controlfield tag="001">31431937</controlfield>
+   <controlfield tag="008">941109c19899999caufr p 0 a0eng c</controlfield>
+   <datafield ind1=" " ind2=" " tag="010">
+      <subfield code="a">sn 96015378 </subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">WCA</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">WCA</subfield>
+      <subfield code="d">AGL</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">GPO</subfield>
+      <subfield code="d">DLC</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCLCF</subfield>
+      <subfield code="d">OCLCO</subfield>
+      <subfield code="d">GZM</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="012">
+      <subfield code="i">9608</subfield>
+   </datafield>
+   <datafield ind1="0" ind2=" " tag="022">
+      <subfield code="a">1940-0489</subfield>
+      <subfield code="l">1940-0470</subfield>
+      <subfield code="2">1</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="037">
+      <subfield code="b">Volunteer Monitor, 1318 Masonic Ave., San Francisco, CA
+              94117-4012</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="042">
+      <subfield code="a">pcc</subfield>
+      <subfield code="a">nsdp</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="043">
+      <subfield code="a">n-us---</subfield>
+   </datafield>
+   <datafield ind1="1" ind2="0" tag="050">
+      <subfield code="a">ISSN RECORD</subfield>
+   </datafield>
+   <datafield ind1="1" ind2="4" tag="050">
+      <subfield code="a">TD223</subfield>
+      <subfield code="b">.V66x</subfield>
+   </datafield>
+   <datafield ind1="0" ind2=" " tag="070">
+      <subfield code="a">TD223</subfield>
+      <subfield code="b">.V658</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="072">
+      <subfield code="a">P200</subfield>
+   </datafield>
+   <datafield ind1="1" ind2="0" tag="082">
+      <subfield code="a">363</subfield>
+      <subfield code="2">14</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="4" tag="222">
+      <subfield code="a">The volunteer monitor</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="4" tag="245">
+      <subfield code="a">The volunteer monitor :</subfield>
+      <subfield code="b">the national newsletter of volunteer water quality
+              monitoring.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="1" tag="264">
+      <subfield code="a">San Francisco, CA :</subfield>
+      <subfield code="b">Volunteer Monitor,</subfield>
+      <subfield code="c">1989-</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">volumes :</subfield>
+      <subfield code="b">illustrations ;</subfield>
+      <subfield code="c">28 cm</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="310">
+      <subfield code="a">Semiannual,</subfield>
+      <subfield code="b">1992-</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="321">
+      <subfield code="a">Annual,</subfield>
+      <subfield code="b">1989-1991</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="336">
+      <subfield code="a">text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="337">
+      <subfield code="a">unmediated</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="338">
+      <subfield code="a">volume</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+   </datafield>
+   <datafield ind1="0" ind2=" " tag="362">
+      <subfield code="a">[Vol. 1, no. 1] (fall 1989)-</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Title from caption.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="530">
+      <subfield code="a">Some issues also available via the Internet at the EPA web site.
+              Address as of 07/31/07: http://www.epa.gov/volunteer/vm%5Findex.html.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="588">
+      <subfield code="a">Latest issue consulted: Vol. 5, no. 1 (spring 1993).</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Water quality management</subfield>
+      <subfield code="z">United States</subfield>
+      <subfield code="x">Citizen participation</subfield>
+      <subfield code="v">Periodicals.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Volunteer workers in environmental protection</subfield>
+      <subfield code="z">United States</subfield>
+      <subfield code="v">Periodicals.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Volunteer workers in environmental protection.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01169072</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Water quality management</subfield>
+      <subfield code="x">Citizen participation.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01171902</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="651">
+      <subfield code="a">United States.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01204155</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Periodicals.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01411641</subfield>
+   </datafield>
+   <datafield ind1="2" ind2=" " tag="710">
+      <subfield code="a">Volunteer Monitor (Firm)</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="8" tag="776">
+      <subfield code="i">Online version:</subfield>
+      <subfield code="t">Volunteer monitor</subfield>
+      <subfield code="x">1940-0470</subfield>
+      <subfield code="w">(DLC) 2007230518</subfield>
+      <subfield code="w">(OCoLC)162128010</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="850">
+      <subfield code="a">DNAL</subfield>
+   </datafield>
+   <datafield ind1="4" ind2="1" tag="856">
+      <subfield code="u">http://www.epa.gov/volunteer/vm_index.html</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">AU@</subfield>
+      <subfield code="b">000012745361</subfield>
+   </datafield>
+</record>

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim"
+             xmlns:saxon="http://icl.com/saxon"
+             xmlns="http://www.loc.gov/MARC21/slim"
+             xmlns:oclcterms="http://purl.org/oclc/terms/"
+             xmlns:dc="http://purl.org/dc/elements/1.1/"
+             xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/"
+             xmlns:zs="http://www.loc.gov/zing/srw/"
+             xmlns:xlink="http://www.w3.org/1999/xlink"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="http://www.loc.gov/MARC21/slim https://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+   <leader>00000cam a2200000 a 4500</leader>
+   <controlfield tag="001">32681050</controlfield>
+   <controlfield tag="008">950620s1994 orua b f000 0 eng d</controlfield>
+   <datafield ind1=" " ind2=" " tag="010">
+      <subfield code="a"> 95170416 </subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">OrCEPA</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">DLC</subfield>
+      <subfield code="d">AGL</subfield>
+      <subfield code="d">BTCTA</subfield>
+      <subfield code="d">GPO</subfield>
+      <subfield code="d">OSO</subfield>
+      <subfield code="d">OCLCF</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">AGM</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">AU@</subfield>
+      <subfield code="b">000011473533</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="042">
+      <subfield code="a">lccopycat</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="043">
+      <subfield code="a">n-us-or</subfield>
+      <subfield code="a">n-us-wa</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="4" tag="050">
+      <subfield code="a">SD413.O7</subfield>
+      <subfield code="b">J64 1994</subfield>
+   </datafield>
+   <datafield ind1="0" ind2=" " tag="070">
+      <subfield code="a">aSD11.A46</subfield>
+      <subfield code="b">no.339</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="072">
+      <subfield code="a">K200</subfield>
+   </datafield>
+   <datafield ind1="0" ind2=" " tag="086">
+      <subfield code="a">A 13.88:PNW-GTR-339</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Johnson, Charles G.</subfield>
+   </datafield>
+   <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Forest health in the Blue Mountains :</subfield>
+      <subfield code="b">a plant ecologist's perspective on ecosystem processes and biological
+              diversity /</subfield>
+      <subfield code="c">Charles G. Johnson, Jr.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">Portland, Or. (333 S.W. First Ave., P.O. Box 3890, Portland 97208)
+              :</subfield>
+      <subfield code="b">USDA Forest Service, Pacific Northwest Research Station,</subfield>
+      <subfield code="c">[1994]</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">23 pages :</subfield>
+      <subfield code="b">color illustrations ;</subfield>
+      <subfield code="c">28 cm.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="336">
+      <subfield code="a">text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="337">
+      <subfield code="a">unmediated</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="338">
+      <subfield code="a">volume</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="490">
+      <subfield code="a">Forest health in the blue mountains</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="490">
+      <subfield code="a">General technical report PNW ;</subfield>
+      <subfield code="v">GTR-339</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">"September 1994."</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="504">
+      <subfield code="a">Includes bibliographical references (pages 22-23).</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Forest management</subfield>
+      <subfield code="z">Blue Mountains (Or. and Wash.)</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Landscape ecology</subfield>
+      <subfield code="z">Blue Mountains (Or. and Wash.)</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Forest management.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00932231</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Landscape ecology.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00991909</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="651">
+      <subfield code="a">United States</subfield>
+      <subfield code="z">Blue Mountains.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01310344</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="3" tag="650">
+      <subfield code="a">Forest decline.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="3" tag="650">
+      <subfield code="a">Ecosystems.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="3" tag="650">
+      <subfield code="a">Species diversity.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="3" tag="650">
+      <subfield code="a">Landscape ecology.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="3" tag="650">
+      <subfield code="a">Ecological succession.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="3" tag="650">
+      <subfield code="a">Prescribed burning.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="3" tag="650">
+      <subfield code="a">Pest control.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="3" tag="651">
+      <subfield code="a">Washington (State).</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="3" tag="651">
+      <subfield code="a">Oregon.</subfield>
+   </datafield>
+   <datafield ind1="2" ind2=" " tag="710">
+      <subfield code="a">Pacific Northwest Research Station (Portland, Or.)</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="8" tag="776">
+      <subfield code="i">Online version:</subfield>
+      <subfield code="a">Johnson, Charles G.</subfield>
+      <subfield code="t">Forest health in the Blue Mountains.</subfield>
+      <subfield code="h">1 online resource (23 p.)</subfield>
+      <subfield code="w">(OCoLC)469097881</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="8" tag="776">
+      <subfield code="i">Microfiche:</subfield>
+      <subfield code="a">Johnson, Charles G.</subfield>
+      <subfield code="t">Forest health in the Blue Mountains.</subfield>
+      <subfield code="h">1 microfiche</subfield>
+      <subfield code="w">(OCoLC)31806612</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="830">
+      <subfield code="a">Forest health in the Blue Mountains.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="830">
+      <subfield code="a">General technical report PNW ;</subfield>
+      <subfield code="v">339.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="938">
+      <subfield code="a">Baker and Taylor</subfield>
+      <subfield code="b">BTCP</subfield>
+      <subfield code="n">95170416</subfield>
+   </datafield>
+</marc:record>

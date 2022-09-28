@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim"
+        xmlns:oclcterms="http://purl.org/oclc/terms/"
+        xmlns:dc="http://purl.org/dc/elements/1.1/"
+        xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <leader>00000cas a2200000 a 4500</leader>
+   <controlfield tag="001">34099496</controlfield>
+   <controlfield tag="008">960129c19949999enkar 0 0eng </controlfield>
+   <datafield ind1=" " ind2=" " tag="010">
+      <subfield code="a">sn 96015118 </subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">AGL</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">AGL</subfield>
+      <subfield code="d">OCL</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">CUV</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCLCF</subfield>
+      <subfield code="d">AGL</subfield>
+      <subfield code="d">OCLCO</subfield>
+      <subfield code="d">EUW</subfield>
+      <subfield code="d">OCLCO</subfield>
+      <subfield code="d">OCLCQ</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="019">
+      <subfield code="a">877622995</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="022">
+      <subfield code="y">0263-4600</subfield>
+      <subfield code="y">0566-8700</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="042">
+      <subfield code="a">pcc</subfield>
+   </datafield>
+   <datafield ind1="0" ind2=" " tag="070">
+      <subfield code="a">HV4701.U54</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="072">
+      <subfield code="a">L800</subfield>
+   </datafield>
+   <datafield ind1="2" ind2=" " tag="110">
+      <subfield code="a">Universities Federation for Animal Welfare.</subfield>
+   </datafield>
+   <datafield ind1="1" ind2="0" tag="240">
+      <subfield code="a">Annual report (1994)</subfield>
+   </datafield>
+   <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Annual report /</subfield>
+      <subfield code="c">Universities Federation for Animal Welfare.</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="246">
+      <subfield code="a">UFAW report</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="246">
+      <subfield code="a">Universities Federation for Animal Welfare report</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="246">
+      <subfield code="i">At head of title on 2013/2014 issue:</subfield>
+      <subfield code="a">Science in the service of animal welfare</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">Potters Bar, Herts, UK :</subfield>
+      <subfield code="b">The Federation,</subfield>
+      <subfield code="c">1994-</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">volumes :</subfield>
+      <subfield code="b">illustrations ;</subfield>
+      <subfield code="c">22 cm</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="310">
+      <subfield code="a">Annual</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="336">
+      <subfield code="a">text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="337">
+      <subfield code="a">unmediated</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="338">
+      <subfield code="a">volume</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+   </datafield>
+   <datafield ind1="0" ind2=" " tag="362">
+      <subfield code="a">1993-4-</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Title from cover.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="515">
+      <subfield code="a">Report year ends 31 Mar.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="530">
+      <subfield code="a">Also issued online.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="588">
+      <subfield code="a">Latest issue consulted: 2013/2014.</subfield>
+   </datafield>
+   <datafield ind1="2" ind2="0" tag="610">
+      <subfield code="a">Universities Federation for Animal Welfare</subfield>
+      <subfield code="v">Periodicals.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Animal welfare</subfield>
+      <subfield code="v">Periodicals.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="2" tag="650">
+      <subfield code="a">Animal Welfare.</subfield>
+   </datafield>
+   <datafield ind1="2" ind2="7" tag="610">
+      <subfield code="a">Universities Federation for Animal Welfare.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00522185</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Animal welfare.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00809431</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Periodicals.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01411641</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Annual reports.</subfield>
+      <subfield code="2">rbgenr</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="780">
+      <subfield code="a">Universities Federation for Animal Welfare.</subfield>
+      <subfield code="t">Report &amp; accounts</subfield>
+      <subfield code="x">0263-4600</subfield>
+      <subfield code="w">(DLC)sn 96015119</subfield>
+      <subfield code="w">(OCoLC)3910635</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="850">
+      <subfield code="a">DNAL</subfield>
+   </datafield>
+   <datafield ind1="4" ind2="1" tag="856">
+      <subfield code="u">http://www.ufaw.org.uk/online-public.php</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">AU@</subfield>
+      <subfield code="b">000022745455</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">AU@</subfield>
+      <subfield code="b">000050748900</subfield>
+   </datafield>
+</record>

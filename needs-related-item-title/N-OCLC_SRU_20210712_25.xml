@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim"
+             xmlns:saxon="http://icl.com/saxon"
+             xmlns="http://www.loc.gov/MARC21/slim"
+             xmlns:oclcterms="http://purl.org/oclc/terms/"
+             xmlns:dc="http://purl.org/dc/elements/1.1/"
+             xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/"
+             xmlns:zs="http://www.loc.gov/zing/srw/"
+             xmlns:xlink="http://www.w3.org/1999/xlink"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="http://www.loc.gov/MARC21/slim https://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+   <leader>00000cas a2200000 a 4500</leader>
+   <controlfield tag="001">34991753</controlfield>
+   <controlfield tag="006">m o d </controlfield>
+   <controlfield tag="007">cr cn|||||||||</controlfield>
+   <controlfield tag="008">960626c19949999dcuqx p o 0 0eng </controlfield>
+   <datafield ind1=" " ind2=" " tag="010">
+      <subfield code="a">sn 96015053 </subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">AGL</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">AGL</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">AGL</subfield>
+      <subfield code="d">HEBIS</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCLCO</subfield>
+      <subfield code="d">OCLCF</subfield>
+      <subfield code="d">OCLCQ</subfield>
+   </datafield>
+   <datafield ind1="7" ind2=" " tag="016">
+      <subfield code="a">1439513-7</subfield>
+      <subfield code="2">DE-600</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="042">
+      <subfield code="a">pcc</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="043">
+      <subfield code="a">d------</subfield>
+   </datafield>
+   <datafield ind1="0" ind2=" " tag="070">
+      <subfield code="a">S494.5.S86C45</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="072">
+      <subfield code="a">A000</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="072">
+      <subfield code="a">J700</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="072">
+      <subfield code="a">E300</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="072">
+      <subfield code="a">A500</subfield>
+   </datafield>
+   <datafield ind1="0" ind2=" " tag="130">
+      <subfield code="a">CGIAR news (1994 : Online)</subfield>
+   </datafield>
+   <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">CGIAR news /</subfield>
+      <subfield code="c">Consultative Group on International Agricultural Research.</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="246">
+      <subfield code="i">Title on list of issues page:</subfield>
+      <subfield code="a">CGIAR newsletters</subfield>
+   </datafield>
+   <datafield ind1="3" ind2=" " tag="246">
+      <subfield code="a">Consultative Group on International Agricultural Research
+              news</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">[Washington, D.C.] :</subfield>
+      <subfield code="b">The Group,</subfield>
+      <subfield code="c">1994-</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="310">
+      <subfield code="a">3 or 4 times a year,</subfield>
+      <subfield code="b">1996-</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="321">
+      <subfield code="a">Irregular,</subfield>
+      <subfield code="b">1994-1995</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="336">
+      <subfield code="a">text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="337">
+      <subfield code="a">computer</subfield>
+      <subfield code="b">c</subfield>
+      <subfield code="2">rdamedia</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="338">
+      <subfield code="a">online resource</subfield>
+      <subfield code="b">cr</subfield>
+      <subfield code="2">rdacarrier</subfield>
+   </datafield>
+   <datafield ind1="0" ind2=" " tag="362">
+      <subfield code="a">Vol. 1, no. 1 (Oct. 1994)-</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Title from caption.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="515">
+      <subfield code="a">Vol. 1, no. 1 is only issue published in 1994; v. 2, no. 2 is only
+              issue published in 1995.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="530">
+      <subfield code="a">Also issued in print.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="538">
+      <subfield code="a">Mode of access: World Wide Web browser.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="588">
+      <subfield code="a">Latest issue consulted: Vol. 3, no. 2 (May 1996).</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Sustainable agriculture</subfield>
+      <subfield code="z">Developing countries</subfield>
+      <subfield code="v">Periodicals.</subfield>
+   </datafield>
+   <datafield ind1="2" ind2="0" tag="610">
+      <subfield code="a">Consultative Group on International Agricultural Research</subfield>
+      <subfield code="v">Periodicals.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Agriculture</subfield>
+      <subfield code="x">International cooperation</subfield>
+      <subfield code="v">Periodicals.</subfield>
+   </datafield>
+   <datafield ind1="2" ind2="7" tag="610">
+      <subfield code="a">Consultative Group on International Agricultural Research.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00526600</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Agriculture</subfield>
+      <subfield code="x">International cooperation.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00801551</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Sustainable agriculture.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01139712</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="651">
+      <subfield code="a">Developing countries.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01242969</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Periodicals.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01411641</subfield>
+   </datafield>
+   <datafield ind1="2" ind2=" " tag="710">
+      <subfield code="a">Consultative Group on International Agricultural Research.</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="776">
+      <subfield code="t">CGIAR news (1994)</subfield>
+      <subfield code="w">(DLC)sn 95020166</subfield>
+      <subfield code="w">(OCoLC)31775176</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="780">
+      <subfield code="t">CGIAR highlights (Online)</subfield>
+      <subfield code="w">(DLC)sn 96015052</subfield>
+      <subfield code="w">(OCoLC)34992181</subfield>
+   </datafield>
+   <datafield ind1="4" ind2=" " tag="856">
+      <subfield code="u">http://www.cgiar.org/publications/newsletters/index.html</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">AU@</subfield>
+      <subfield code="b">000012678913</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">AU@</subfield>
+      <subfield code="b">000045735698</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">HEBIS</subfield>
+      <subfield code="b">071270027</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">NZ1</subfield>
+      <subfield code="b">12143401</subfield>
+   </datafield>
+</marc:record>

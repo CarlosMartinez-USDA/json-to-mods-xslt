@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim"
+        xmlns:oclcterms="http://purl.org/oclc/terms/"
+        xmlns:dc="http://purl.org/dc/elements/1.1/"
+        xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <leader>00000cam a2200000 a 4500</leader>
+   <controlfield tag="001">32899462</controlfield>
+   <controlfield tag="008">950731s1995 orub b f000 0 eng d</controlfield>
+   <datafield ind1=" " ind2=" " tag="010">
+      <subfield code="a"> 95187887 </subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">CSfA</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">DLC</subfield>
+      <subfield code="d">BTCTA</subfield>
+      <subfield code="d">AGL</subfield>
+      <subfield code="d">OSO</subfield>
+      <subfield code="d">OCLCF</subfield>
+      <subfield code="d">GPO</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCL</subfield>
+      <subfield code="d">OCLCO</subfield>
+      <subfield code="d">OCLCA</subfield>
+      <subfield code="d">AGM</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="019">
+      <subfield code="a">33268906</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="042">
+      <subfield code="a">lccopycat</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="043">
+      <subfield code="a">n-usp--</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="4" tag="050">
+      <subfield code="a">QL653.N95</subfield>
+      <subfield code="b">B56 1995</subfield>
+   </datafield>
+   <datafield ind1="0" ind2=" " tag="070">
+      <subfield code="a">aSD11.A46</subfield>
+      <subfield code="b">no.337</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="072">
+      <subfield code="a">L300</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="072">
+      <subfield code="a">K001</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="082">
+      <subfield code="a">597.6/09795</subfield>
+      <subfield code="2">20</subfield>
+   </datafield>
+   <datafield ind1="0" ind2=" " tag="086">
+      <subfield code="a">A 13.88:PNW-GTR-337</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="4" tag="245">
+      <subfield code="a">The biology of amphibians and reptiles in old-growth forests in the
+              Pacific Northwest /</subfield>
+      <subfield code="c">Andrew R. Blaustein [and others].</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">Corvallis, Or. :</subfield>
+      <subfield code="b">U.S. Dept. of Agriculture, Forest Service, Pacific Northwest Research
+              Station,</subfield>
+      <subfield code="c">[1995]</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">98 pages :</subfield>
+      <subfield code="b">maps ;</subfield>
+      <subfield code="c">28 cm.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="336">
+      <subfield code="a">text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="337">
+      <subfield code="a">unmediated</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="338">
+      <subfield code="a">volume</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="490">
+      <subfield code="a">General technical report PNW ;</subfield>
+      <subfield code="v">GTR-337</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Cover title.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">"March 1995."</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="504">
+      <subfield code="a">Includes bibliographical references (pages 66-85).</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Amphibian populations</subfield>
+      <subfield code="z">Northwest, Pacific.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Reptiles</subfield>
+      <subfield code="z">Northwest, Pacific.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Forest animals</subfield>
+      <subfield code="z">Northwest, Pacific.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Old growth forests</subfield>
+      <subfield code="z">Northwest, Pacific.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Amphibian populations.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00807897</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Forest animals.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00932036</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Old growth forests.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01045384</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Reptiles.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01095020</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="651">
+      <subfield code="a">Pacific Northwest.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01242543</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="3" tag="650">
+      <subfield code="a">Amphibia.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="3" tag="650">
+      <subfield code="a">Reptiles.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="3" tag="650">
+      <subfield code="a">Endangered species.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="3" tag="650">
+      <subfield code="a">Community ecology.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="3" tag="650">
+      <subfield code="a">Life history.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="3" tag="650">
+      <subfield code="a">Population dynamics.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="3" tag="650">
+      <subfield code="a">Habitat destruction.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="3" tag="650">
+      <subfield code="a">Old-growth forests.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="3" tag="651">
+      <subfield code="a">Oregon.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="3" tag="651">
+      <subfield code="a">Washington (State).</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Blaustein, Andrew R.</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="8" tag="776">
+      <subfield code="i">Online version:</subfield>
+      <subfield code="t">Biology of amphibians and reptiles in old-growth forests in the
+              Pacific Northwest.</subfield>
+      <subfield code="d">Corvallis, Or. : U.S. Dept. of Agriculture, Forest Service, Pacific
+              Northwest Research Station, [1995]</subfield>
+      <subfield code="w">(OCoLC)681184662</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="8" tag="776">
+      <subfield code="i">Microfiche version:</subfield>
+      <subfield code="t">Biology of amphibians and reptiles in old-growth forests in the
+              Pacific Northwest</subfield>
+      <subfield code="w">(OCoLC)33118432</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="830">
+      <subfield code="a">General technical report PNW ;</subfield>
+      <subfield code="v">337.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="938">
+      <subfield code="a">Baker and Taylor</subfield>
+      <subfield code="b">BTCP</subfield>
+      <subfield code="n">95187887 //r96</subfield>
+   </datafield>
+</record>

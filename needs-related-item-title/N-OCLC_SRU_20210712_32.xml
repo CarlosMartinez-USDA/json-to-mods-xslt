@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim"
+             xmlns:saxon="http://icl.com/saxon"
+             xmlns="http://www.loc.gov/MARC21/slim"
+             xmlns:oclcterms="http://purl.org/oclc/terms/"
+             xmlns:dc="http://purl.org/dc/elements/1.1/"
+             xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/"
+             xmlns:zs="http://www.loc.gov/zing/srw/"
+             xmlns:xlink="http://www.w3.org/1999/xlink"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="http://www.loc.gov/MARC21/slim https://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+   <leader>00000cas a2200000 a 4500</leader>
+   <controlfield tag="001">35369633</controlfield>
+   <controlfield tag="008">960905c19uu9999iauwn p s0 0eng </controlfield>
+   <datafield ind1=" " ind2=" " tag="010">
+      <subfield code="a">sn 96015403 </subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">AGL</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">AGL</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCLCO</subfield>
+      <subfield code="d">OCLCA</subfield>
+      <subfield code="d">OCLCF</subfield>
+      <subfield code="d">OCLCO</subfield>
+      <subfield code="d">OCLCA</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="012">
+      <subfield code="i">9609</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">NZ1</subfield>
+      <subfield code="b">2018463</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">AU@</subfield>
+      <subfield code="b">000012843893</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="042">
+      <subfield code="a">pcc</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="043">
+      <subfield code="a">n-us-ia</subfield>
+   </datafield>
+   <datafield ind1="0" ind2=" " tag="070">
+      <subfield code="a">SB317.5.H678</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="072">
+      <subfield code="a">F110</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="072">
+      <subfield code="a">F830</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="072">
+      <subfield code="a">F821</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">Horticulture &amp; home pest news.</subfield>
+   </datafield>
+   <datafield ind1="3" ind2=" " tag="246">
+      <subfield code="a">Horticulture and home pest news</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">Ames, Iowa :</subfield>
+      <subfield code="b">Iowa State University, University Extension</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">v. :</subfield>
+      <subfield code="b">ill. ;</subfield>
+      <subfield code="c">28 cm.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="310">
+      <subfield code="a">Weekly (monthly, Oct.-Mar.)</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">"IC."</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="530">
+      <subfield code="a">Issues for 1992- also available on WWW.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="588">
+      <subfield code="a">Description based on: Jan. 13, 1995; title from caption.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="588">
+      <subfield code="a">Latest issue consulted: June 30, 1995.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Horticulture</subfield>
+      <subfield code="z">Iowa</subfield>
+      <subfield code="v">Periodicals.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Plant diseases</subfield>
+      <subfield code="z">Iowa</subfield>
+      <subfield code="v">Periodicals.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Household pests</subfield>
+      <subfield code="z">Iowa</subfield>
+      <subfield code="v">Periodicals.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Periodicals.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01411641</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Horticulture.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00960791</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Household pests.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00962136</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Plant diseases.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01065378</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="651">
+      <subfield code="a">Iowa.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01205835</subfield>
+   </datafield>
+   <datafield ind1="2" ind2=" " tag="710">
+      <subfield code="a">Iowa State University.</subfield>
+      <subfield code="b">University Extension.</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="780">
+      <subfield code="t">Horticulture and home pest newsletter</subfield>
+      <subfield code="w">(DLC)sn 96012679</subfield>
+      <subfield code="w">(OCoLC)15732760</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="850">
+      <subfield code="a">DNAL</subfield>
+   </datafield>
+   <datafield ind1="4" ind2=" " tag="856">
+      <subfield code="u">http://www.ipm.iastate.edu/ipm/hortnews</subfield>
+   </datafield>
+</marc:record>

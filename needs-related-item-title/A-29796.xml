@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<JSON>
+    <product_id>1754</product_id>
+    <ac22_approved_for_public>1</ac22_approved_for_public>
+    <primary_station>FPL</primary_station>
+    <historical_station>OTHER</historical_station>
+    <entrystatus>Published to Web</entrystatus>
+    <product_type_id>1</product_type_id>
+    <product_type_desc>Publication</product_type_desc>
+    <product_subtype_id>null</product_subtype_id>
+    <product_subtype_desc>null</product_subtype_desc>
+    <referee_status_id>2</referee_status_id>
+    <status_name>Informally Refereed (Peer-Reviewed)</status_name>
+    <pub_type_id>53</pub_type_id>
+    <pub_type_desc>Miscellaneous Publication</pub_type_desc>
+    <title>Moisture performance of a contemporary wood-frame house operated at design indoor
+        humidity levels</title>
+    <product_year> 2007</product_year>
+    <abstract>null</abstract>
+    <citation>Carll, Charles; TenWolde, Anton; Munson, Robert. 2007. Moisture performance of a
+        contemporary wood-frame house operated at design indoor humidity levels. In: Proceedings,
+        ASHRAE thermal performance of the exterior envelopes of whole buildings X : U.S. Department
+        of Energy, Oak Ridge National Laboratory: Buildings X Conference, 2007 December 2-7.
+        Atlanta, Ga.: American Society for Heating, Refrigerating, and Air-Conditioning Engineers,
+        Inc. 14 p.</citation>
+    <keywords/>
+    <doi>null</doi>
+    <url_binary_file>https://www.fpl.fs.fed.us/documnts/pdf2007/fpl_2007_carll002.pdf</url_binary_file>
+    <binary_filesize>469 KB</binary_filesize>
+    <url_landing_page>https://www.fs.usda.gov/treesearch/pubs/29796</url_landing_page>
+    <treesearch_pub_id>29796</treesearch_pub_id>
+    <pub_parent_id>null</pub_parent_id>
+    <pub_child_number>null</pub_child_number>
+    <pub_parent_ind>0</pub_parent_ind>
+    <pub_publication>null</pub_publication>
+    <proceedings_ind>0</proceedings_ind>
+    <pub_volume>null</pub_volume>
+    <pub_issue>null</pub_issue>
+    <pub_page>null</pub_page>
+    <pub_page_start>null</pub_page_start>
+    <pub_page_end>null</pub_page_end>
+    <pub_source>T</pub_source>
+    <geographic_terms>null</geographic_terms>
+    <issn_id>null</issn_id>
+    <is_early_release>0</is_early_release>
+    <created_on>16-APR-2008 12:20:15</created_on>
+    <modified_on>19-NOV-2008 00:00:00</modified_on>
+    <send_to_reviewer_ind>A</send_to_reviewer_ind>
+    <publish_to_web_ind>Y</publish_to_web_ind>
+    <send_to_reviewer>null</send_to_reviewer>
+    <child_publications/>
+    <national_research_taxonomy_elements/>
+    <pub_authors>
+        <name>Carll, Charles</name>
+        <station_id>FPL</station_id>
+        <unit_id>4723</unit_id>
+        <team_id/>
+        <alias>cgcarll</alias>
+        <user_id>77</user_id>
+        <is_employee_active>0</is_employee_active>
+        <is_researcher>1</is_researcher>
+        <author_order>1</author_order>
+    </pub_authors>
+    <pub_authors>
+        <name>TenWolde, Anton</name>
+        <station_id/>
+        <unit_id/>
+        <team_id/>
+        <alias/>
+        <user_id/>
+        <is_employee_active>0</is_employee_active>
+        <is_researcher>0</is_researcher>
+        <author_order>2</author_order>
+    </pub_authors>
+    <pub_authors>
+        <name>Munson, Robert</name>
+        <station_id>FPL</station_id>
+        <unit_id>4716</unit_id>
+        <team_id/>
+        <alias>ramunson</alias>
+        <user_id>28</user_id>
+        <is_employee_active>0</is_employee_active>
+        <is_researcher>0</is_researcher>
+        <author_order>3</author_order>
+    </pub_authors>
+    <current_organizational_memberships>
+        <name>Carll, Charles</name>
+        <station_id>FPL</station_id>
+        <unit_id>4723</unit_id>
+        <team_id/>
+        <alias>cgcarll</alias>
+        <user_id>77</user_id>
+        <is_employee_active>0</is_employee_active>
+        <is_researcher>1</is_researcher>
+        <author_order>1</author_order>
+    </current_organizational_memberships>
+    <current_organizational_memberships>
+        <name>TenWolde, Anton</name>
+        <station_id/>
+        <unit_id/>
+        <team_id/>
+        <alias/>
+        <user_id/>
+        <is_employee_active>0</is_employee_active>
+        <is_researcher>0</is_researcher>
+        <author_order>2</author_order>
+    </current_organizational_memberships>
+    <current_organizational_memberships>
+        <name>Munson, Robert</name>
+        <station_id>FPL</station_id>
+        <unit_id>4716</unit_id>
+        <team_id/>
+        <alias>ramunson</alias>
+        <user_id>28</user_id>
+        <is_employee_active>0</is_employee_active>
+        <is_researcher>0</is_researcher>
+        <author_order>3</author_order>
+    </current_organizational_memberships>
+    <strategic_program_areas/>
+    <cris_projects/>
+    <experimental_forests/>
+    <eco_regions/>
+    <latlongs/>
+    <usnatforests/>
+    <countystates/>
+</JSON>

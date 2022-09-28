@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim"
+             xmlns:saxon="http://icl.com/saxon"
+             xmlns="http://www.loc.gov/MARC21/slim"
+             xmlns:oclcterms="http://purl.org/oclc/terms/"
+             xmlns:dc="http://purl.org/dc/elements/1.1/"
+             xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/"
+             xmlns:zs="http://www.loc.gov/zing/srw/"
+             xmlns:xlink="http://www.w3.org/1999/xlink"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="http://www.loc.gov/MARC21/slim https://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+   <leader>00000cam a22000007a 4500</leader>
+   <controlfield tag="001">35853992</controlfield>
+   <controlfield tag="008">961106s1995 ksu s000 0 eng d</controlfield>
+   <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">KKS</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">KKS</subfield>
+      <subfield code="d">AGL</subfield>
+      <subfield code="d">OCLCQ</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="4" tag="050">
+      <subfield code="a">S544.3.K3</subfield>
+      <subfield code="b">K334 no.999 1995</subfield>
+   </datafield>
+   <datafield ind1="0" ind2=" " tag="070">
+      <subfield code="a">S544.3.K2K3</subfield>
+      <subfield code="b">no.999 1995</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="072">
+      <subfield code="a">E200</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">O'Brien, Daniel M.</subfield>
+   </datafield>
+   <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Center-pivot-irrigated dry-edible beans /</subfield>
+      <subfield code="c">Daniel M. O'Brien, James D. Sartwelle III.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="250">
+      <subfield code="a">Rev.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">Manhattan, Kan. :</subfield>
+      <subfield code="b">Cooperative Extension Service, Kansas State University,</subfield>
+      <subfield code="c">1995.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">1 sheet ;</subfield>
+      <subfield code="c">28 cm</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="336">
+      <subfield code="a">text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="337">
+      <subfield code="a">unmediated</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="338">
+      <subfield code="a">sheet</subfield>
+      <subfield code="b">nb</subfield>
+      <subfield code="2">rdacarrier</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="490">
+      <subfield code="a">Kansas farm management &amp; marketing handbook</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="490">
+      <subfield code="a">KSU farm management guide</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="490">
+      <subfield code="a">MF / Cooperative Extension Service, Kansas State University
+              ;</subfield>
+      <subfield code="v">999</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Cover title.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="530">
+      <subfield code="a">Latest electronic full-text version available at
+              http://www.oznet.ksu.edu/library/agec2/mf999.pdf (Adobe Acrobat reader
+              required).</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Sartwelle, James D.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="830">
+      <subfield code="a">Kansas farm management &amp; marketing handbook.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="830">
+      <subfield code="a">KSU farm management guide.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="830">
+      <subfield code="a">MF (Kansas State University. Cooperative Extension Service)
+              ;</subfield>
+      <subfield code="v">999.</subfield>
+   </datafield>
+   <datafield ind1="4" ind2=" " tag="856">
+      <subfield code="u">http://www.oznet.ksu.edu/library/agec2/mf999.pdf</subfield>
+      <subfield code="z">Latest electronic full-text version.</subfield>
+   </datafield>
+</marc:record>

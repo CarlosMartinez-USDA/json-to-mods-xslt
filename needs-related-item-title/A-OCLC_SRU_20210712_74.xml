@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim"
+        xmlns:oclcterms="http://purl.org/oclc/terms/"
+        xmlns:dc="http://purl.org/dc/elements/1.1/"
+        xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <leader>00000cam a2200000Ia 4500</leader>
+   <controlfield tag="001">34717011</controlfield>
+   <controlfield tag="008">960513s1995 dcua b f000 0 eng d</controlfield>
+   <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">WCA</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">WCA</subfield>
+      <subfield code="d">AGL</subfield>
+      <subfield code="d">SJZ</subfield>
+      <subfield code="d">AGL</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCLCF</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCLCO</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="043">
+      <subfield code="a">n-us---</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="4" tag="050">
+      <subfield code="a">TD193.5</subfield>
+      <subfield code="b">.G85 1995</subfield>
+   </datafield>
+   <datafield ind1="0" ind2=" " tag="070">
+      <subfield code="a">TD770.G95</subfield>
+      <subfield code="b">1995</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="072">
+      <subfield code="a">W000</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="072">
+      <subfield code="a">D500</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="088">
+      <subfield code="a">EPA/832-B-93-005</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="2" tag="245">
+      <subfield code="a">A guide to the biosolids risk assessments for the EPA Part 503
+              rule.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">Washington, DC :</subfield>
+      <subfield code="b">U.S. Environmental Protection Agency, Office of Wastewater
+              Management,</subfield>
+      <subfield code="c">1995.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">viii, 144 pages :</subfield>
+      <subfield code="b">illustrations ;</subfield>
+      <subfield code="c">28 cm</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="336">
+      <subfield code="a">text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="337">
+      <subfield code="a">unmediated</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="338">
+      <subfield code="a">volume</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">"September 1995."</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="504">
+      <subfield code="a">Includes bibliographical references (pages 121-125).</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">"EPA/832-B-93-005."</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="530">
+      <subfield code="a">Also available via remote access.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Sewage sludge</subfield>
+      <subfield code="x">Law and legislation</subfield>
+      <subfield code="z">United States.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Sewage disposal</subfield>
+      <subfield code="x">Law and legislation</subfield>
+      <subfield code="z">United States.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Sewage sludge as fertilizer</subfield>
+      <subfield code="x">Law and legislation</subfield>
+      <subfield code="z">United States.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Sewage disposal</subfield>
+      <subfield code="x">Law and legislation.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01113884</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Sewage sludge as fertilizer</subfield>
+      <subfield code="x">Law and legislation.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01114059</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Sewage sludge</subfield>
+      <subfield code="x">Law and legislation.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01114041</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="651">
+      <subfield code="a">United States.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01204155</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="710">
+      <subfield code="a">United States.</subfield>
+      <subfield code="b">Environmental Protection Agency.</subfield>
+      <subfield code="b">Office of Wastewater Management.</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="8" tag="776">
+      <subfield code="i">Online version:</subfield>
+      <subfield code="t">Guide to the biosolids risk assessments for the EPA Part 503
+              rule.</subfield>
+      <subfield code="d">Washington, DC : U.S. Environmental Protection Agency, Office of
+              Wastewater Management, 1995</subfield>
+      <subfield code="w">(OCoLC)1031346515</subfield>
+   </datafield>
+   <datafield ind1="4" ind2="1" tag="856">
+      <subfield code="u">http://www.epa.gov/cgi-bin/claritgw?op-Display&amp;document=clserv:epa-cinn:3426;&amp;rank=4&amp;tem</subfield>
+   </datafield>
+</record>

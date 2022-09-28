@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim"
+             xmlns:saxon="http://icl.com/saxon"
+             xmlns="http://www.loc.gov/MARC21/slim"
+             xmlns:oclcterms="http://purl.org/oclc/terms/"
+             xmlns:dc="http://purl.org/dc/elements/1.1/"
+             xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/"
+             xmlns:zs="http://www.loc.gov/zing/srw/"
+             xmlns:xlink="http://www.w3.org/1999/xlink"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="http://www.loc.gov/MARC21/slim https://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+   <leader>00000cmm a2200000Ia 4500</leader>
+   <controlfield tag="001">35086749</controlfield>
+   <controlfield tag="008">960716m19949999nyu o d eng </controlfield>
+   <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">AGL</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">AGL</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">DRB</subfield>
+      <subfield code="d">OCLCO</subfield>
+      <subfield code="d">OCLCF</subfield>
+      <subfield code="d">OCLCO</subfield>
+      <subfield code="d">OCLCQ</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="4" tag="050">
+      <subfield code="a">QP551</subfield>
+   </datafield>
+   <datafield ind1="0" ind2=" " tag="070">
+      <subfield code="a">QP551.P76</subfield>
+      <subfield code="b">1994</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="072">
+      <subfield code="a">X300</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">Protein Data Bank, Brookhaven National Laboratory.</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="246">
+      <subfield code="i">HTML source title:</subfield>
+      <subfield code="a">PDB WWW home page</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">[Upton, N.Y.] :</subfield>
+      <subfield code="b">Brookhaven National Laboratory,</subfield>
+      <subfield code="c">[1994?]-</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="538">
+      <subfield code="a">Mode of access: WWW browser.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="516">
+      <subfield code="a">Text (electronic publication).</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Caption title.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">May be accessed through Molecules R us forms interface.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="520">
+      <subfield code="a">An archive of experimentally determined three-dimensional structures
+              of biological macromolecules. The archives contain atomic coordinates, bibliographic
+              citations, primary and secondary structure information, as well as crystallographic
+              structure factors and NMR experimental data.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Proteins</subfield>
+      <subfield code="x">Structure</subfield>
+      <subfield code="v">Databases.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Proteins</subfield>
+      <subfield code="x">Structure.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01079759</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Databases.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01411643</subfield>
+   </datafield>
+   <datafield ind1="2" ind2=" " tag="710">
+      <subfield code="a">Brookhaven National Laboratory.</subfield>
+      <subfield code="b">Protein Data Bank.</subfield>
+   </datafield>
+   <datafield ind1="0" ind2=" " tag="740">
+      <subfield code="a">Molecules R us.</subfield>
+   </datafield>
+   <datafield ind1="4" ind2=" " tag="856">
+      <subfield code="3">Molecules R us</subfield>
+      <subfield code="u">http://molbio.info.nih.gov/cgi-bin/pdb</subfield>
+   </datafield>
+   <datafield ind1="4" ind2=" " tag="856">
+      <subfield code="u">http://www.pdb.bnl.gov/</subfield>
+   </datafield>
+</marc:record>

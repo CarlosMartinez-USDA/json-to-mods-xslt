@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<report xmlns="http://www.oxygenxml.com/ns/report">
+<incident>
+<engine>Saxon-EE 9.9.1.7</engine>
+<severity>fatal</severity>
+<problemID>SXXP0003</problemID>
+<description>XML document structures must start and end within the same entity.</description>
+<systemID>C:\Users\Carlos.Martinez\OneDrive - USDA\Desktop\json-to-mods-xslt\workingDir\A-29794.json</systemID>
+<operationDescription>
+<scenario>json-to-mods-xslt</scenario>
+<xmllFile>C:\Users\Carlos.Martinez\OneDrive - USDA\Desktop\json-to-mods-xslt\workingDir\A-29794.json</xmllFile>
+<xslFile>C:\Users\Carlos.Martinez\OneDrive - USDA\Desktop\json-to-mods-xslt\json-to-mods.xsl</xslFile>
+</operationDescription>
+<location>
+<start>
+<line>146</line>
+<column>2</column>
+</start>
+</location>
+<additionalInfo>http://www.saxonica.com/html/documentation/javadoc/net/sf/saxon/trans/SaxonErrorCode.html#SXXP0003</additionalInfo>
+</incident>
+</report>

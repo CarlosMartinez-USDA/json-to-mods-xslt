@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim"
+        xmlns:oclcterms="http://purl.org/oclc/terms/"
+        xmlns:dc="http://purl.org/dc/elements/1.1/"
+        xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <leader>00000cam a2200000 i 4500</leader>
+   <controlfield tag="001">25168855</controlfield>
+   <controlfield tag="008">920127s1957 dcuabf b 001 0 eng d</controlfield>
+   <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">SHM</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="e">rda</subfield>
+      <subfield code="c">SHM</subfield>
+      <subfield code="d">EBV</subfield>
+      <subfield code="d">AGL</subfield>
+      <subfield code="d">OCL</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">LVB</subfield>
+      <subfield code="d">WRJ</subfield>
+      <subfield code="d">DEBBG</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCLCF</subfield>
+      <subfield code="d">OCLCO</subfield>
+      <subfield code="d">OCLCA</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCLCO</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCLCA</subfield>
+      <subfield code="d">VI#</subfield>
+      <subfield code="d">OCLCO</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCLCO</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="043">
+      <subfield code="a">n-us---</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="4" tag="050">
+      <subfield code="a">S21</subfield>
+      <subfield code="b">.A35 1957</subfield>
+   </datafield>
+   <datafield ind1="0" ind2=" " tag="070">
+      <subfield code="a">1</subfield>
+      <subfield code="b">Ag84Y 1957</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="072">
+      <subfield code="a">J600</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="4" tag="082">
+      <subfield code="a">631.4</subfield>
+      <subfield code="2">23</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="110">
+      <subfield code="a">United States.</subfield>
+      <subfield code="b">Department of Agriculture,</subfield>
+      <subfield code="e">author.</subfield>
+   </datafield>
+   <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Soil.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="1" tag="264">
+      <subfield code="a">Washington, D.C. :</subfield>
+      <subfield code="b">U.S. Dept. of Agriculture,</subfield>
+      <subfield code="c">[1957]</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">xiii, 784 pages, 8 unnumbered pages of plates :</subfield>
+      <subfield code="b">illustrations, maps ;</subfield>
+      <subfield code="c">24 cm.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="336">
+      <subfield code="a">text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="337">
+      <subfield code="a">unmediated</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="338">
+      <subfield code="a">volume</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="490">
+      <subfield code="a">Yearbook of agriculture ;</subfield>
+      <subfield code="v">1957</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Also issued as House Document no. 30, 85th Congress, 1st
+              Session.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="504">
+      <subfield code="a">Includes bibliographical references and index.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Agriculture</subfield>
+      <subfield code="z">United States.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Soil management.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Soil science.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="6" tag="650">
+      <subfield code="a">Sols</subfield>
+      <subfield code="x">Aménagement.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Agriculture.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00801355</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Soil management.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01124446</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Soil science.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01124601</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="651">
+      <subfield code="a">United States.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01204155</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Boden</subfield>
+      <subfield code="2">gnd</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Landwirtschaft</subfield>
+      <subfield code="2">gnd</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="651">
+      <subfield code="a">USA</subfield>
+      <subfield code="2">gnd</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="651">
+      <subfield code="a">USA.</subfield>
+      <subfield code="2">swd</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="830">
+      <subfield code="a">Yearbook of agriculture ;</subfield>
+      <subfield code="v">1957.</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">DEBBG</subfield>
+      <subfield code="b">BV010287504</subfield>
+   </datafield>
+</record>

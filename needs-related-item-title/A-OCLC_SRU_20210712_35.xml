@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim"
+        xmlns:oclcterms="http://purl.org/oclc/terms/"
+        xmlns:dc="http://purl.org/dc/elements/1.1/"
+        xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <leader>00000cam a2200000Ia 4500</leader>
+   <controlfield tag="001">33213883</controlfield>
+   <controlfield tag="008">950927s1995 dcuab f000 0 eng </controlfield>
+   <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">AGL</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">AGL</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCLCO</subfield>
+      <subfield code="d">OCLCA</subfield>
+      <subfield code="d">OCLCF</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCLCO</subfield>
+      <subfield code="d">OCLCA</subfield>
+      <subfield code="d">OCL</subfield>
+      <subfield code="d">VPI</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="043">
+      <subfield code="a">n-us---</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="4" tag="050">
+      <subfield code="a">HD1525</subfield>
+      <subfield code="b">.M354 1998</subfield>
+   </datafield>
+   <datafield ind1="0" ind2=" " tag="070">
+      <subfield code="a">1</subfield>
+      <subfield code="b">Ag84Ab no.714</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="072">
+      <subfield code="a">E200</subfield>
+   </datafield>
+   <datafield ind1="0" ind2=" " tag="086">
+      <subfield code="a">A 1.75:714</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Majchrowicz, T. Alexander.</subfield>
+   </datafield>
+   <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">U.S. farm and farm-related employment in 1991 /</subfield>
+      <subfield code="c">T. Alexander Majchrowicz, Jacqueline L. Salsgiver.</subfield>
+   </datafield>
+   <datafield ind1="1" ind2="7" tag="246">
+      <subfield code="a">U.S. farm &amp; farm-related employment, 1991</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">Washington, DC :</subfield>
+      <subfield code="b">U.S. Dept. of Agriculture, Economic Research Service,</subfield>
+      <subfield code="c">[1995]</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">9 pages :</subfield>
+      <subfield code="b">illustrations, map ;</subfield>
+      <subfield code="c">28 cm.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="336">
+      <subfield code="a">text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="337">
+      <subfield code="a">unmediated</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="338">
+      <subfield code="a">volume</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="490">
+      <subfield code="a">Agriculture information bulletin ;</subfield>
+      <subfield code="v">no. 714</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Caption title.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">"April 1995."</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Agricultural laborers</subfield>
+      <subfield code="z">United States.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Agricultural industries</subfield>
+      <subfield code="z">United States.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="651">
+      <subfield code="a">United States</subfield>
+      <subfield code="x">Economic conditions</subfield>
+      <subfield code="y">1981-2001.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Agricultural industries.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00800842</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Agricultural laborers.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00800949</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Economic history.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00901974</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="651">
+      <subfield code="a">United States.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01204155</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="648">
+      <subfield code="a">1981-2001</subfield>
+      <subfield code="2">fast</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Salsgiver, Jacqueline.</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="710">
+      <subfield code="a">United States.</subfield>
+      <subfield code="b">Department of Agriculture.</subfield>
+      <subfield code="b">Economic Research Service.</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="8" tag="776">
+      <subfield code="i">Online version:</subfield>
+      <subfield code="a">Majchrowicz, T. Alexander.</subfield>
+      <subfield code="t">U.S. farm and farm-related employment in 1991.</subfield>
+      <subfield code="d">Washington, DC : U.S. Dept. of Agriculture, Economic Research
+              Service, [1995]</subfield>
+      <subfield code="w">(OCoLC)755108413</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="830">
+      <subfield code="a">Agriculture information bulletin ;</subfield>
+      <subfield code="v">no. 714.</subfield>
+   </datafield>
+</record>

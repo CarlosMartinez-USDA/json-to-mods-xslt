@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim"
+             xmlns:saxon="http://icl.com/saxon"
+             xmlns="http://www.loc.gov/MARC21/slim"
+             xmlns:oclcterms="http://purl.org/oclc/terms/"
+             xmlns:dc="http://purl.org/dc/elements/1.1/"
+             xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/"
+             xmlns:zs="http://www.loc.gov/zing/srw/"
+             xmlns:xlink="http://www.w3.org/1999/xlink"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="http://www.loc.gov/MARC21/slim https://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+   <leader>00000cas a2200000 a 4500</leader>
+   <controlfield tag="001">33223434</controlfield>
+   <controlfield tag="006">m o d </controlfield>
+   <controlfield tag="007">cr cnu||||||||</controlfield>
+   <controlfield tag="008">950929c19209999fluqr pso o 0 a0eng c</controlfield>
+   <datafield ind1=" " ind2=" " tag="010">
+      <subfield code="a">sn 95026670 </subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">FUG</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="e">pn</subfield>
+      <subfield code="c">FUG</subfield>
+      <subfield code="d">AGL</subfield>
+      <subfield code="d">OCL</subfield>
+      <subfield code="d">AGL</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCL</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">CGU</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">MYG</subfield>
+      <subfield code="d">EYM</subfield>
+      <subfield code="d">NSD</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">DLC</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCLCO</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">BUF</subfield>
+      <subfield code="d">OCLCF</subfield>
+      <subfield code="d">OCLCO</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">DEBBG</subfield>
+      <subfield code="d">GILDS</subfield>
+      <subfield code="d">OCLCA</subfield>
+      <subfield code="d">INARC</subfield>
+      <subfield code="d">FUG</subfield>
+      <subfield code="d">VT2</subfield>
+      <subfield code="d">OCLCO</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="012">
+      <subfield code="i">9509</subfield>
+      <subfield code="l">1</subfield>
+   </datafield>
+   <datafield ind1="7" ind2=" " tag="016">
+      <subfield code="a">1439588-5</subfield>
+      <subfield code="2">DE-600</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="019">
+      <subfield code="a">44364839</subfield>
+      <subfield code="a">51894287</subfield>
+      <subfield code="a">980193448</subfield>
+      <subfield code="a">1099119906</subfield>
+   </datafield>
+   <datafield ind1="0" ind2=" " tag="022">
+      <subfield code="a">1938-5102</subfield>
+      <subfield code="l">0015-4040</subfield>
+      <subfield code="2">1</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">AU@</subfield>
+      <subfield code="b">000040824614</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">AU@</subfield>
+      <subfield code="b">000043823877</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">AU@</subfield>
+      <subfield code="b">000044061250</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">AU@</subfield>
+      <subfield code="b">000044918420</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">AU@</subfield>
+      <subfield code="b">000045705120</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">NZ1</subfield>
+      <subfield code="b">12447901</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">NZ1</subfield>
+      <subfield code="b">16279369</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">NZ1</subfield>
+      <subfield code="b">1770365</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">OCLCS</subfield>
+      <subfield code="b">3131</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">OCLCS</subfield>
+      <subfield code="b">OP-13798</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">ZWZ</subfield>
+      <subfield code="b">115434496</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">DEBBG</subfield>
+      <subfield code="b">BV012490600</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="037">
+      <subfield code="b">BioOne, 21 Dupont Circle NW, Ste 800, Washington, DC 20036</subfield>
+   </datafield>
+   <datafield ind1="0" ind2=" " tag="041">
+      <subfield code="a">eng</subfield>
+      <subfield code="b">spa</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="042">
+      <subfield code="a">pcc</subfield>
+      <subfield code="a">nsdp</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="043">
+      <subfield code="a">n-us-fl</subfield>
+   </datafield>
+   <datafield ind1="1" ind2="0" tag="050">
+      <subfield code="a">ISSN RECORD</subfield>
+   </datafield>
+   <datafield ind1="1" ind2="4" tag="050">
+      <subfield code="a">QL461</subfield>
+      <subfield code="b">.F6</subfield>
+   </datafield>
+   <datafield ind1="0" ind2=" " tag="070">
+      <subfield code="a">QL461.F66</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="072">
+      <subfield code="a">L000</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="072">
+      <subfield code="a">L001</subfield>
+   </datafield>
+   <datafield ind1="1" ind2="0" tag="082">
+      <subfield code="a">595</subfield>
+      <subfield code="2">14</subfield>
+   </datafield>
+   <datafield ind1="0" ind2=" " tag="130">
+      <subfield code="a">Florida entomologist (Online)</subfield>
+   </datafield>
+   <datafield ind1="0" ind2=" " tag="210">
+      <subfield code="a">Fla. entomol.</subfield>
+      <subfield code="b">(Online)</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="4" tag="222">
+      <subfield code="a">The Florida entomologist</subfield>
+      <subfield code="b">(Online)</subfield>
+   </datafield>
+   <datafield ind1="1" ind2="4" tag="245">
+      <subfield code="a">The Florida entomologist.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">Gainesville, Fla. :</subfield>
+      <subfield code="b">Florida Entomological Society,</subfield>
+      <subfield code="c">1920-</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="310">
+      <subfield code="a">Quarterly</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="336">
+      <subfield code="a">text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="337">
+      <subfield code="a">computer</subfield>
+      <subfield code="b">c</subfield>
+      <subfield code="2">rdamedia</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="338">
+      <subfield code="a">online resource</subfield>
+      <subfield code="b">cr</subfield>
+      <subfield code="2">rdacarrier</subfield>
+   </datafield>
+   <datafield ind1="0" ind2=" " tag="362">
+      <subfield code="a">Vol. 4, no. 1 (July 1920)-</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Place of publication varies.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Title from caption (JSTOR, viewed Sept. 13, 2006).</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="538">
+      <subfield code="a">Mode of access: World Wide Web.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">In English; summaries in Spanish.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="550">
+      <subfield code="a">Official organ of the Florida Entomological Society; online
+              publication a joint project of the Florida Entomological Society and the Florida
+              Center for Library Automation.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="588">
+      <subfield code="a">Latest issue consulted: Vol. 87, no. 4 (Dec. 2004) (JSTOR, viewed
+              Sept. 13, 2006).</subfield>
+   </datafield>
+   <datafield ind1="2" ind2="0" tag="610">
+      <subfield code="a">Florida Entomological Society</subfield>
+      <subfield code="v">Periodicals.</subfield>
+   </datafield>
+   <datafield ind1="2" ind2="7" tag="610">
+      <subfield code="a">Florida Entomological Society.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00597263</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Entomology</subfield>
+      <subfield code="v">Periodicals.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Insects</subfield>
+      <subfield code="z">Florida</subfield>
+      <subfield code="v">Periodicals.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Entomology.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00912735</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Insects.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00974074</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="651">
+      <subfield code="a">Florida.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01205150</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Periodicals.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01411641</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Periodicals.</subfield>
+      <subfield code="2">lcgft</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="655">
+      <subfield code="a">Electronic journals.</subfield>
+   </datafield>
+   <datafield ind1="2" ind2=" " tag="710">
+      <subfield code="a">Florida Entomological Society.</subfield>
+   </datafield>
+   <datafield ind1="2" ind2=" " tag="710">
+      <subfield code="a">Florida Center for Library Automation.</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="8" tag="776">
+      <subfield code="i">Print version:</subfield>
+      <subfield code="t">Florida entomologist</subfield>
+      <subfield code="x">0015-4040</subfield>
+      <subfield code="w">(DLC) 25025367</subfield>
+      <subfield code="w">(OCoLC)1569453</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="780">
+      <subfield code="t">Florida buggist (Online)</subfield>
+      <subfield code="x">2163-632X</subfield>
+      <subfield code="w">(DLC) 2004242187</subfield>
+      <subfield code="w">(OCoLC)54733147</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="850">
+      <subfield code="a">FU</subfield>
+   </datafield>
+   <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="3">BioOne</subfield>
+      <subfield code="u">http://www.bioone.org/bioone/?request=get-journals-list&amp;issn=0015-4040</subfield>
+   </datafield>
+   <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="3">Florida Center for Library Automation</subfield>
+      <subfield code="u">http://bibpurl.oclc.org/web/7138</subfield>
+      <subfield code="u">http://www.fcla.edu/FlaEnt/</subfield>
+   </datafield>
+   <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="3">JSTOR</subfield>
+      <subfield code="u">http://www.jstor.org/journals/00154040.html</subfield>
+   </datafield>
+   <datafield ind1="4" ind2=" " tag="856">
+      <subfield code="u">http://firstsearch.oclc.org</subfield>
+   </datafield>
+   <datafield ind1="4" ind2=" " tag="856">
+      <subfield code="u">http://firstsearch.oclc.org/journal=0015-4040;screen=info;ECOIP</subfield>
+   </datafield>
+   <datafield ind1="4" ind2=" " tag="856">
+      <subfield code="u">http://ufdc.ufl.edu/UF00098813</subfield>
+      <subfield code="y">University of Florida Digital Collections, Full view</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="938">
+      <subfield code="a">Internet Archive</subfield>
+      <subfield code="b">INAR</subfield>
+      <subfield code="n">n1floridaentomol05gainuoft</subfield>
+   </datafield>
+</marc:record>

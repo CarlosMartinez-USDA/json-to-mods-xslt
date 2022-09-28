@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim"
+             xmlns:saxon="http://icl.com/saxon"
+             xmlns="http://www.loc.gov/MARC21/slim"
+             xmlns:oclcterms="http://purl.org/oclc/terms/"
+             xmlns:dc="http://purl.org/dc/elements/1.1/"
+             xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/"
+             xmlns:zs="http://www.loc.gov/zing/srw/"
+             xmlns:xlink="http://www.w3.org/1999/xlink"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="http://www.loc.gov/MARC21/slim https://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+   <leader>00000cas a2200000 a 4500</leader>
+   <controlfield tag="001">29781254</controlfield>
+   <controlfield tag="008">940210c19959999dcuar s f0 a0eng c</controlfield>
+   <datafield ind1=" " ind2=" " tag="010">
+      <subfield code="a"> 95640695 </subfield>
+      <subfield code="z">sn 94027627 </subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">GPO</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">GPO</subfield>
+      <subfield code="d">CLU</subfield>
+      <subfield code="d">DLC</subfield>
+      <subfield code="d">IUL</subfield>
+      <subfield code="d">WAU</subfield>
+      <subfield code="d">DLC</subfield>
+      <subfield code="d">GPO</subfield>
+      <subfield code="d">AGL</subfield>
+      <subfield code="d">DLC</subfield>
+      <subfield code="d">GPO</subfield>
+      <subfield code="d">DLC</subfield>
+      <subfield code="d">IUL</subfield>
+      <subfield code="d">GPO</subfield>
+      <subfield code="d">NLM</subfield>
+      <subfield code="d">GPO</subfield>
+      <subfield code="d">SYS</subfield>
+      <subfield code="d">GPO</subfield>
+      <subfield code="d">MYG</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">GPO</subfield>
+      <subfield code="d">NLGGC</subfield>
+      <subfield code="d">NSD</subfield>
+      <subfield code="d">GPO</subfield>
+      <subfield code="d">UWC</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">IUL</subfield>
+      <subfield code="d">GPO</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCLCF</subfield>
+      <subfield code="d">NKM</subfield>
+      <subfield code="d">OCLCO</subfield>
+      <subfield code="d">DLC</subfield>
+      <subfield code="d">GPO</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCLCO</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">AGL</subfield>
+      <subfield code="d">GPO</subfield>
+      <subfield code="d">NLC</subfield>
+      <subfield code="d">ORU</subfield>
+      <subfield code="d">JDP</subfield>
+      <subfield code="d">OCLCO</subfield>
+      <subfield code="d">OCLCA</subfield>
+      <subfield code="d">GPO</subfield>
+      <subfield code="d">INU</subfield>
+      <subfield code="d">FUG</subfield>
+      <subfield code="d">GPO</subfield>
+      <subfield code="d">RLA</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">IUL</subfield>
+      <subfield code="d">GPO</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="012">
+      <subfield code="l">a</subfield>
+   </datafield>
+   <datafield ind1="7" ind2=" " tag="016">
+      <subfield code="a">9606566</subfield>
+      <subfield code="2">DNLM</subfield>
+   </datafield>
+   <datafield ind1="7" ind2=" " tag="016">
+      <subfield code="a">SR0088254</subfield>
+      <subfield code="2">DNLM</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="016">
+      <subfield code="a">(AMICUS)000013653702</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="019">
+      <subfield code="a">187448390</subfield>
+      <subfield code="a">962872520</subfield>
+      <subfield code="a">978906006</subfield>
+      <subfield code="a">999381176</subfield>
+      <subfield code="a">1033014489</subfield>
+      <subfield code="a">1045617213</subfield>
+      <subfield code="a">1052940500</subfield>
+      <subfield code="a">1055005070</subfield>
+      <subfield code="a">1084965433</subfield>
+      <subfield code="a">1132894336</subfield>
+      <subfield code="a">1193981477</subfield>
+      <subfield code="a">1201597594</subfield>
+      <subfield code="a">1201637904</subfield>
+      <subfield code="a">1201638307</subfield>
+   </datafield>
+   <datafield ind1="0" ind2=" " tag="022">
+      <subfield code="a">1934-0028</subfield>
+      <subfield code="l">1934-0028</subfield>
+      <subfield code="2">1</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="042">
+      <subfield code="a">pcc</subfield>
+      <subfield code="a">nsdp</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="043">
+      <subfield code="a">n-us---</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="050">
+      <subfield code="a">HJ2050</subfield>
+      <subfield code="b">.U554a</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="060">
+      <subfield code="a">HJ 2050 U58</subfield>
+   </datafield>
+   <datafield ind1="0" ind2=" " tag="070">
+      <subfield code="a">HJ2050</subfield>
+      <subfield code="b">.U55</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="072">
+      <subfield code="a">E100</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="074">
+      <subfield code="a">0855-B</subfield>
+      <subfield code="z">0853</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="082">
+      <subfield code="a">353.0072/2/05</subfield>
+      <subfield code="2">20</subfield>
+   </datafield>
+   <datafield ind1="0" ind2=" " tag="086">
+      <subfield code="a">PREX 2.8/5:</subfield>
+      <subfield code="z">PREX 2.8:996/ANALYT.</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="110">
+      <subfield code="a">United States.</subfield>
+      <subfield code="b">Office of Management and Budget.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="222">
+      <subfield code="a">Budget of the United States Government. Analytical
+              perspectives</subfield>
+   </datafield>
+   <datafield ind1="1" ind2="0" tag="240">
+      <subfield code="a">Budget of the United States Government (Department
+              edition).</subfield>
+      <subfield code="p">Analytical perspectives</subfield>
+   </datafield>
+   <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Budget of the United States Government.</subfield>
+      <subfield code="p">Analytical perspectives.</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="246">
+      <subfield code="i">Some issues have title:</subfield>
+      <subfield code="a">Budget of the U.S. Government.</subfield>
+      <subfield code="p">Analytical perspectives.</subfield>
+   </datafield>
+   <datafield ind1="3" ind2="0" tag="246">
+      <subfield code="a">Analytical perspectives</subfield>
+   </datafield>
+   <datafield ind1="3" ind2=" " tag="246">
+      <subfield code="a">Analytical perspectives, budget of the United States
+              Government</subfield>
+   </datafield>
+   <datafield ind1="3" ind2=" " tag="246">
+      <subfield code="a">Analytical perspectives, budget of the U.S. Government</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="246">
+      <subfield code="i">Fiscal year 2019 also has title:</subfield>
+      <subfield code="a">American budget.</subfield>
+      <subfield code="p">Analytical perspectives</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="246">
+      <subfield code="i">Fiscal year 2020 also has title:</subfield>
+      <subfield code="a">Budget for a better America.</subfield>
+      <subfield code="p">Analytical perspectives</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="246">
+      <subfield code="i">Fiscal year 2021 also has title:</subfield>
+      <subfield code="a">Budget for America's future.</subfield>
+      <subfield code="p">Analytical perspectives</subfield>
+   </datafield>
+   <datafield ind1="1" ind2="4" tag="246">
+      <subfield code="a">Analytical perspectives of the U.S. Government</subfield>
+      <subfield code="f">2005</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="250">
+      <subfield code="a">[Dept. ed.].</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="1" tag="264">
+      <subfield code="a">Washington, D.C. :</subfield>
+      <subfield code="b">Executive Office of the President of the U.S., Office of Management
+              and Budget :</subfield>
+      <subfield code="b">United States Government Printing Office,</subfield>
+      <subfield code="c">1994-</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">volumes :</subfield>
+      <subfield code="b">illustrations ;</subfield>
+      <subfield code="c">28 cm</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="310">
+      <subfield code="a">Annual</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="336">
+      <subfield code="a">text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="337">
+      <subfield code="a">unmediated</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="338">
+      <subfield code="a">volume</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+   </datafield>
+   <datafield ind1="0" ind2=" " tag="362">
+      <subfield code="a">Fiscal year 1995-</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Includes CD-ROM in pocket containing supplemental materials, fiscal
+              year 2005-&lt;2013&gt;</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="515">
+      <subfield code="a">Vol. for Fiscal year 2009 issued in online format only.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="580">
+      <subfield code="a">Also issued 1996- as part of: United States. Office of Management and
+              Budget. Budget of the United States Government (CD-ROM version).</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="588">
+      <subfield code="a">Fiscal year 2022.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Budget</subfield>
+      <subfield code="z">United States</subfield>
+      <subfield code="v">Periodicals.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="651">
+      <subfield code="a">United States</subfield>
+      <subfield code="x">Appropriations and expenditures</subfield>
+      <subfield code="v">Periodicals.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Budget.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00840336</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Expenditures, Public.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00918345</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="651">
+      <subfield code="a">United States.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01204155</subfield>
+   </datafield>
+   <datafield ind1="1" ind2="7" tag="650">
+      <subfield code="a">Overheidsbegroting.</subfield>
+      <subfield code="2">gtt</subfield>
+   </datafield>
+   <datafield ind1="1" ind2="7" tag="650">
+      <subfield code="a">Federale regering.</subfield>
+      <subfield code="2">gtt</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="2" tag="650">
+      <subfield code="a">Financial Management.</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="2" tag="650">
+      <subfield code="a">Financing, Government.</subfield>
+   </datafield>
+   <datafield ind1="1" ind2="2" tag="650">
+      <subfield code="a">Budgets.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="2" tag="651">
+      <subfield code="a">United States.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Periodicals.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01411641</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Periodicals.</subfield>
+      <subfield code="2">lcgft</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="2" tag="655">
+      <subfield code="a">Periodical.</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="775">
+      <subfield code="a">United States. Office of Management and Budget.</subfield>
+      <subfield code="s">Budget of the United States Government (Doc. ed.). Analytical
+              perspectives</subfield>
+      <subfield code="x">2380-3622</subfield>
+      <subfield code="w">(DLC)sn 97028028</subfield>
+      <subfield code="w">(OCoLC)36507108</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="8" tag="776">
+      <subfield code="i">Online version:</subfield>
+      <subfield code="a">United States. Office of Management and Budget.</subfield>
+      <subfield code="s">Budget of the United States Government (Online). Analytical
+              perspectives</subfield>
+      <subfield code="x">1934-0036</subfield>
+      <subfield code="w">(DLC)sn 97028024</subfield>
+      <subfield code="w">(OCoLC)36402085</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="5" tag="780">
+      <subfield code="t">Budget system and concepts of the United States government</subfield>
+      <subfield code="x">2380-3592</subfield>
+      <subfield code="w">(DLC)sn 92023235</subfield>
+      <subfield code="w">(OCoLC)25311180</subfield>
+   </datafield>
+   <datafield ind1="0" ind2=" " tag="787">
+      <subfield code="a">United States.</subfield>
+      <subfield code="s">Budget of the United States Government (Dept. ed.).</subfield>
+      <subfield code="x">0163-2000</subfield>
+      <subfield code="w">(DLC) 70611049</subfield>
+      <subfield code="w">(OCoLC)932137</subfield>
+   </datafield>
+   <datafield ind1="0" ind2=" " tag="787">
+      <subfield code="a">United States. Office of Management and Budget.</subfield>
+      <subfield code="s">Budget of the United States Government (CD-ROM version)</subfield>
+      <subfield code="x">2380-338X</subfield>
+      <subfield code="w">(DLC) 2007219192</subfield>
+      <subfield code="w">(OCoLC)32716725</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="850">
+      <subfield code="a">CLU-L</subfield>
+      <subfield code="a">DLC</subfield>
+      <subfield code="a">DNAL</subfield>
+      <subfield code="a">DNLM</subfield>
+      <subfield code="a">NIC</subfield>
+      <subfield code="a">WaU</subfield>
+   </datafield>
+   <datafield ind1="4" ind2="1" tag="856">
+      <subfield code="z">Select desired fiscal year and scroll down listing of available
+              budget documents to "Analytical Perspectives"</subfield>
+      <subfield code="u">https://purl.fdlp.gov/GPO/LPS17351</subfield>
+   </datafield>
+   <datafield ind1="4" ind2="1" tag="856">
+      <subfield code="u">http://fraser.stlouisfed.org/publication/?pid=425</subfield>
+   </datafield>
+   <datafield ind1="2" ind2="0" tag="891">
+      <subfield code="9">853</subfield>
+      <subfield code="8">1</subfield>
+      <subfield code="a">fiscal year</subfield>
+      <subfield code="w">a</subfield>
+   </datafield>
+   <datafield ind1="4" ind2="1" tag="891">
+      <subfield code="9">863</subfield>
+      <subfield code="8">1.1</subfield>
+      <subfield code="a">1995</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">AU@</subfield>
+      <subfield code="b">000011567325</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">NLGGC</subfield>
+      <subfield code="b">138793492</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">NLM</subfield>
+      <subfield code="b">9606566</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">NLC</subfield>
+      <subfield code="b">000013653702</subfield>
+   </datafield>
+</marc:record>

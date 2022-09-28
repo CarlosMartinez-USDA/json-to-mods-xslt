@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim"
+        xmlns:oclcterms="http://purl.org/oclc/terms/"
+        xmlns:dc="http://purl.org/dc/elements/1.1/"
+        xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <leader>00000cmm a2200000Ia 4500</leader>
+   <controlfield tag="001">35622945</controlfield>
+   <controlfield tag="007">cr cnu||||||||</controlfield>
+   <controlfield tag="008">960924m19969999mdu o d f eng </controlfield>
+   <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">AGL</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">AGL</subfield>
+      <subfield code="d">OCL</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">COO</subfield>
+      <subfield code="d">OCLCO</subfield>
+      <subfield code="d">OCLCF</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">GILDS</subfield>
+      <subfield code="d">OCLCO</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="4" tag="050">
+      <subfield code="a">TX531</subfield>
+      <subfield code="b">.U83</subfield>
+   </datafield>
+   <datafield ind1="0" ind2=" " tag="070">
+      <subfield code="a">aTX531.U73</subfield>
+      <subfield code="b">1996</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="072">
+      <subfield code="a">Q500</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="072">
+      <subfield code="a">T000</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">USDA food composition data.</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="246">
+      <subfield code="i">Title from html header:</subfield>
+      <subfield code="a">Food composition data</subfield>
+   </datafield>
+   <datafield ind1="3" ind2=" " tag="246">
+      <subfield code="a">United States Department of Agriculture food composition
+              data</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">Riverdale, MD :</subfield>
+      <subfield code="b">Nutrient Data Laboratory, Agricultural Research Service, Beltsville
+              Human Nutrition Research Center,</subfield>
+      <subfield code="c">[1996]-</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="538">
+      <subfield code="a">Mode of access: WWW browser.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Caption title.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Title from title screen as viewed May 3, 2000.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="516">
+      <subfield code="a">Text (electronic publication).</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="520">
+      <subfield code="a">Data sets prepared by USDA-ARS's Nutrient Data Laboratory. These data
+              sets can be downloaded to your computer and used in your programs. Some of the data
+              sets available are the USDA Nutrient Database for Standard Reference, Nutritive Value
+              of Foods (HG-72), Sugar Content of Foods, the USDA Nutrient Database for Food
+              Consumption Surveys (and data sets used to create it: Primary Nutrient Data Set,
+              Recipe Files, and Nutrient Retention Factors) and data sets based on tables of special
+              interest.</subfield>
+   </datafield>
+   <datafield ind1="0" ind2=" " tag="505">
+      <subfield code="a">USDA nutrient database for standard reference, release 13 --
+              USDA-Iowa State University database on the isoflavone content of foods -- USDA table
+              of nutrient retention factors, release 4 -- USDA-NCC carotenoid database for U.S.
+              foods -- Selected foods containing trans fatty acids -- Sugar content of selected
+              foods -- Nutritive value of foods -- Vitamin K -- USDA classic food composition
+              publications -- Keyfoods -- Primary nutrient dataset for USDA nationwide food surveys
+              -- Selenium and Vitamin D.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Food</subfield>
+      <subfield code="x">Composition</subfield>
+      <subfield code="v">Databases.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Food</subfield>
+      <subfield code="x">Analysis</subfield>
+      <subfield code="v">Databases.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Nutrition</subfield>
+      <subfield code="v">Databases.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Food</subfield>
+      <subfield code="x">Analysis.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00930460</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Food</subfield>
+      <subfield code="x">Composition.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00930485</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Nutrition.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01042187</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Databases.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01411643</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Databases.</subfield>
+      <subfield code="2">lcgft</subfield>
+   </datafield>
+   <datafield ind1="2" ind2=" " tag="710">
+      <subfield code="a">Nutrient Data Laboratory (U.S.)</subfield>
+   </datafield>
+   <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="u">http://www.nal.usda.gov/fnic/foodcomp/Data/</subfield>
+   </datafield>
+</record>

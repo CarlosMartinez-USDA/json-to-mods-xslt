@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim"
+             xmlns:saxon="http://icl.com/saxon"
+             xmlns="http://www.loc.gov/MARC21/slim"
+             xmlns:oclcterms="http://purl.org/oclc/terms/"
+             xmlns:dc="http://purl.org/dc/elements/1.1/"
+             xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/"
+             xmlns:zs="http://www.loc.gov/zing/srw/"
+             xmlns:xlink="http://www.w3.org/1999/xlink"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="http://www.loc.gov/MARC21/slim https://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+   <leader>00000cam a2200000Ia 4500</leader>
+   <controlfield tag="001">32425525</controlfield>
+   <controlfield tag="008">950505s1995 dcu b 000 0 eng d</controlfield>
+   <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">UUS</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">UUS</subfield>
+      <subfield code="d">NGU</subfield>
+      <subfield code="d">AGL</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">UPM</subfield>
+      <subfield code="d">UKV3G</subfield>
+      <subfield code="d">OCLCF</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCLCO</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="015">
+      <subfield code="a">GB9568696</subfield>
+      <subfield code="2">bnb</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="019">
+      <subfield code="a">60303871</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="043">
+      <subfield code="a">n-us---</subfield>
+   </datafield>
+   <datafield ind1="1" ind2="4" tag="050">
+      <subfield code="a">LB2329.5</subfield>
+      <subfield code="b">.L36 1995</subfield>
+   </datafield>
+   <datafield ind1="0" ind2=" " tag="070">
+      <subfield code="a">LB2329.5.L36</subfield>
+      <subfield code="b">1995</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="072">
+      <subfield code="a">C100</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="072">
+      <subfield code="a">X800</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="4" tag="245">
+      <subfield code="a">The land-grant tradition /</subfield>
+      <subfield code="c">National Association of State Universities and Land-Grant
+              Colleges.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">Washington, DC :</subfield>
+      <subfield code="b">National Association of State Universities and Land-Grant
+              Colleges,</subfield>
+      <subfield code="c">[1995]</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">27 pages ;</subfield>
+      <subfield code="c">28 cm</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="336">
+      <subfield code="a">text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="337">
+      <subfield code="a">unmediated</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="338">
+      <subfield code="a">volume</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Cover title.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">"March 1995"--Page 2.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="504">
+      <subfield code="a">Includes bibliographical references (page 26).</subfield>
+   </datafield>
+   <datafield ind1="0" ind2=" " tag="505">
+      <subfield code="a">What is NASULGC? -- What is a land-grant college? -- Development of
+              the land-grant system, 1862-1995 -- A chronology of federal legislation affecting
+              public higher education -- The 105 land-grant colleges and universities, March, 1995
+              -- Text of federal legislation relating to land-grant colleges and universities (First
+              Morrill Act, Second Morrill Act, Hatch Act, Smith-Lever Act, Land-Grant Status Act of
+              1994, Tribal Colleges).</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="520">
+      <subfield code="a">Also available via remote access.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">State universities and colleges</subfield>
+      <subfield code="z">United States.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">State universities and colleges</subfield>
+      <subfield code="z">United States</subfield>
+      <subfield code="x">History.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Education, Higher</subfield>
+      <subfield code="x">Law and legislation</subfield>
+      <subfield code="z">United States.</subfield>
+   </datafield>
+   <datafield ind1="2" ind2="0" tag="610">
+      <subfield code="a">National Association of State Universities and Land-Grant
+              Colleges.</subfield>
+   </datafield>
+   <datafield ind1="2" ind2="7" tag="610">
+      <subfield code="a">National Association of State Universities and Land-Grant
+              Colleges.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00554599</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Education, Higher</subfield>
+      <subfield code="x">Law and legislation.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00903073</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">State universities and colleges.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01131923</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="651">
+      <subfield code="a">United States.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01204155</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">History.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01411628</subfield>
+   </datafield>
+   <datafield ind1="2" ind2=" " tag="710">
+      <subfield code="a">National Association of State Universities and Land-Grant
+              Colleges.</subfield>
+   </datafield>
+   <datafield ind1="4" ind2="1" tag="856">
+      <subfield code="u">http://www.nasulgc.org/publications/Land_Grant/Land_Grant_Main.htm</subfield>
+   </datafield>
+</marc:record>

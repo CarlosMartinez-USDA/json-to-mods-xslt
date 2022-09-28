@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim"
+        xmlns:oclcterms="http://purl.org/oclc/terms/"
+        xmlns:dc="http://purl.org/dc/elements/1.1/"
+        xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <leader>00000cam a2200000 i 4500</leader>
+   <controlfield tag="001">31814400</controlfield>
+   <controlfield tag="008">950113s1994 dcua bs f000 0 eng d</controlfield>
+   <datafield ind1=" " ind2=" " tag="010">
+      <subfield code="a"> 95138613 </subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">InU</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">DLC</subfield>
+      <subfield code="d">IUL</subfield>
+      <subfield code="d">AGL</subfield>
+      <subfield code="d">BTCTA</subfield>
+      <subfield code="d">NCCSL</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCLCO</subfield>
+      <subfield code="d">OCLCF</subfield>
+      <subfield code="d">OCLCA</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCLCA</subfield>
+      <subfield code="d">MTG</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="019">
+      <subfield code="a">70403917</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="042">
+      <subfield code="a">lccopycat</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="043">
+      <subfield code="a">n-us---</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="050">
+      <subfield code="a">HD1751</subfield>
+      <subfield code="b">.A91854 no. 680</subfield>
+      <subfield code="a">HD9120.U52</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="4" tag="055">
+      <subfield code="a">HD9120.U5</subfield>
+   </datafield>
+   <datafield ind1="0" ind2=" " tag="070">
+      <subfield code="a">A281.9</subfield>
+      <subfield code="b">Ag8A no.680</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="072">
+      <subfield code="a">L100</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="072">
+      <subfield code="a">L002</subfield>
+   </datafield>
+   <datafield ind1="0" ind2=" " tag="086">
+      <subfield code="a">A 1.107:680</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Hoff, Frederic L.,</subfield>
+      <subfield code="e">author.</subfield>
+   </datafield>
+   <datafield ind1="1" ind2="4" tag="245">
+      <subfield code="a">The U.S. beekeeping industry /</subfield>
+      <subfield code="c">Frederic L. Hoff, Lois Schertz Willett.</subfield>
+   </datafield>
+   <datafield ind1="3" ind2=" " tag="246">
+      <subfield code="a">United States beekeeping industry</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="1" tag="264">
+      <subfield code="a">Washington, D.C. :</subfield>
+      <subfield code="b">United States Department of Agriculture, Economic Research
+              Service,</subfield>
+      <subfield code="c">[1994]</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="2" tag="264">
+      <subfield code="a">Herndon, VA :</subfield>
+      <subfield code="b">ERS-NASS,</subfield>
+      <subfield code="c">[1994]</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">vii, 69 pages :</subfield>
+      <subfield code="b">illustrations ;</subfield>
+      <subfield code="c">28 cm.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="336">
+      <subfield code="a">text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="337">
+      <subfield code="a">unmediated</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="338">
+      <subfield code="a">volume</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="490">
+      <subfield code="a">Agricultural economic report ;</subfield>
+      <subfield code="v">no. 680</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Cover title.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">"May 1994"--Page i.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="504">
+      <subfield code="a">Includes bibliographical references (pages 68-69).</subfield>
+   </datafield>
+   <datafield ind1="3" ind2=" " tag="520">
+      <subfield code="a">An estimated 125-150,000 beekeepers in the United States operate
+              between 3.2 and 3.4 million honeybee colonies. Less than 2 percent of beekeepers are
+              full-time (commercial) operators (300 or more colonies), more than 90 percent are
+              hobbyists (fewer than 25 colonies), and the remainder are part-time (25-299 colonies).
+              Honeybee pollination is vital to U.S. agriculture. Most pollination is provided free
+              as a byproduct of honey production. In 1988, beekeepers derived 53 percent of their
+              income from honey program payments. Total honey program payments have declined from
+              $100 million in 1988 to $16 million in 1992. This report updates information on the
+              beekeeping industry and its relationship to agriculture and the
+              environment.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Honey trade</subfield>
+      <subfield code="z">United States.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Bee culture</subfield>
+      <subfield code="z">United States.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Beeswax industry</subfield>
+      <subfield code="z">United States.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Beekeepers</subfield>
+      <subfield code="z">United States.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Bee culture.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00829545</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Beekeepers.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00829730</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Beeswax industry.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00829816</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Honey trade.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00959944</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="651">
+      <subfield code="a">United States.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01204155</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Willett, Lois Schertz,</subfield>
+      <subfield code="e">author.</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="710">
+      <subfield code="a">United States.</subfield>
+      <subfield code="b">Department of Agriculture.</subfield>
+      <subfield code="b">Economic Research Service,</subfield>
+      <subfield code="e">issuing body.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="830">
+      <subfield code="a">Agricultural economic report ;</subfield>
+      <subfield code="v">no. 680.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="938">
+      <subfield code="a">Baker and Taylor</subfield>
+      <subfield code="b">BTCP</subfield>
+      <subfield code="n">95138613</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">AU@</subfield>
+      <subfield code="b">000040214303</subfield>
+   </datafield>
+</record>

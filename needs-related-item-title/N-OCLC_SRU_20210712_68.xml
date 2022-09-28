@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim"
+             xmlns:saxon="http://icl.com/saxon"
+             xmlns="http://www.loc.gov/MARC21/slim"
+             xmlns:oclcterms="http://purl.org/oclc/terms/"
+             xmlns:dc="http://purl.org/dc/elements/1.1/"
+             xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/"
+             xmlns:zs="http://www.loc.gov/zing/srw/"
+             xmlns:xlink="http://www.w3.org/1999/xlink"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="http://www.loc.gov/MARC21/slim https://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+   <leader>00000cam a2200000 a 4500</leader>
+   <controlfield tag="001">33981066</controlfield>
+   <controlfield tag="003">OCoLC</controlfield>
+   <controlfield tag="008">960103s1995 mnuab b f000 0 eng </controlfield>
+   <datafield ind1=" " ind2=" " tag="010">
+      <subfield code="a"> 96130711 </subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">DNAL</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">DLC</subfield>
+      <subfield code="d">AGL</subfield>
+      <subfield code="d">CAW</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">BTCTA</subfield>
+      <subfield code="d">OCLCO</subfield>
+      <subfield code="d">OCLCF</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">GZM</subfield>
+      <subfield code="d">AGM</subfield>
+      <subfield code="d">OCLCA</subfield>
+      <subfield code="d">WURST</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="019">
+      <subfield code="a">1039831121</subfield>
+      <subfield code="a">1230175689</subfield>
+      <subfield code="a">1231758552</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">AU@</subfield>
+      <subfield code="b">000022841660</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">NLGGC</subfield>
+      <subfield code="b">194671763</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="041">
+      <subfield code="a">eng</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="042">
+      <subfield code="a">lccopycat</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="043">
+      <subfield code="a">n-us-mi</subfield>
+      <subfield code="a">n-us-mn</subfield>
+      <subfield code="a">n-us-wi</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="050">
+      <subfield code="a">QH105.M5</subfield>
+      <subfield code="b">A63 1995</subfield>
+   </datafield>
+   <datafield ind1="0" ind2=" " tag="070">
+      <subfield code="a">aSD11.A352</subfield>
+      <subfield code="b">no.178</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="072">
+      <subfield code="a">P000</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="072">
+      <subfield code="a">P300</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="072">
+      <subfield code="a">B200</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="072">
+      <subfield code="a">B100</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="4" tag="082">
+      <subfield code="a">639.95</subfield>
+   </datafield>
+   <datafield ind1="0" ind2=" " tag="086">
+      <subfield code="a">A 13.88:NC-178</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Albert, Dennis A.</subfield>
+   </datafield>
+   <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Regional landscape ecosystems of Michigan, Minnesota, and Wisconsin
+              :</subfield>
+      <subfield code="b">a working map and classification /</subfield>
+      <subfield code="c">Dennis A. Albert.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="250">
+      <subfield code="a">4th rev., July 1994.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">St. Paul, Minn. :</subfield>
+      <subfield code="b">North Central Forest Experiment Station, Forest Service, U.S. Dept.
+              of Agriculture,</subfield>
+      <subfield code="c">1995.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">ii, 250 pages :</subfield>
+      <subfield code="b">illustrations, maps ;</subfield>
+      <subfield code="c">28 cm.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="336">
+      <subfield code="a">text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="337">
+      <subfield code="a">unmediated</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="338">
+      <subfield code="a">volume</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="490">
+      <subfield code="a">General technical report NC ;</subfield>
+      <subfield code="v">178</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">"By request of the Upper Great Lakes Biodiversity
+              Communities."</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="504">
+      <subfield code="a">Includes bibliographical references (pages 240-250).</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">One folded map attached to p. [3] of cover.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Biotic communities</subfield>
+      <subfield code="z">Michigan.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Biotic communities</subfield>
+      <subfield code="z">Minnesota.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Biotic communities</subfield>
+      <subfield code="z">Wisconsin.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Landscape ecology</subfield>
+      <subfield code="z">Michigan.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Landscape ecology</subfield>
+      <subfield code="z">Minnesota.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Landscape ecology</subfield>
+      <subfield code="z">Wisconsin.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="3" tag="650">
+      <subfield code="a">Landscape ecology.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="3" tag="650">
+      <subfield code="a">Ecosystems.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="3" tag="650">
+      <subfield code="a">Vegetation.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="3" tag="650">
+      <subfield code="a">Plant communities.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="3" tag="650">
+      <subfield code="a">Geology.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="3" tag="650">
+      <subfield code="a">Landforms.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="3" tag="650">
+      <subfield code="a">Land classification.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="3" tag="650">
+      <subfield code="a">Land use.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="3" tag="650">
+      <subfield code="a">Organisms.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="3" tag="651">
+      <subfield code="a">Michigan.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="3" tag="651">
+      <subfield code="a">Mississippi.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="3" tag="651">
+      <subfield code="a">Wisconsin.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Biotic communities.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00832828</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Landscape ecology.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00991909</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="651">
+      <subfield code="a">Michigan.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01208387</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="651">
+      <subfield code="a">Minnesota.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01204560</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="651">
+      <subfield code="a">Wisconsin.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01204595</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="653">
+      <subfield code="a">Mapping.</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="653">
+      <subfield code="a">biocenose</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="653">
+      <subfield code="a">biocoenosis</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="653">
+      <subfield code="a">biogeochemie</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="653">
+      <subfield code="a">biogeochemistry</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="653">
+      <subfield code="a">kringlopen</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="653">
+      <subfield code="a">cycling</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="653">
+      <subfield code="a">ecosystemen</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="653">
+      <subfield code="a">ecosystems</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="653">
+      <subfield code="a">bosbouw</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="653">
+      <subfield code="a">forestry</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="653">
+      <subfield code="a">landschap</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="653">
+      <subfield code="a">landscape</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="653">
+      <subfield code="a">landschapsecologie</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="653">
+      <subfield code="a">landscape ecology</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="653">
+      <subfield code="a">cartografie</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="653">
+      <subfield code="a">michigan</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="653">
+      <subfield code="a">minnesota</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="653">
+      <subfield code="a">plantenecologie</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="653">
+      <subfield code="a">plant ecology</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="653">
+      <subfield code="a">vegetatie</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="653">
+      <subfield code="a">vegetation</subfield>
+   </datafield>
+   <datafield ind1="1" ind2="0" tag="653">
+      <subfield code="a">Terrestrial Ecology</subfield>
+   </datafield>
+   <datafield ind1="1" ind2="0" tag="653">
+      <subfield code="a">Terrestrische ecologie</subfield>
+   </datafield>
+   <datafield ind1="2" ind2=" " tag="710">
+      <subfield code="a">North Central Forest Experiment Station (Saint Paul,
+              Minn.)</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="8" tag="776">
+      <subfield code="i">Online version:</subfield>
+      <subfield code="a">Albert, Dennis A.</subfield>
+      <subfield code="t">Regional landscape ecosystems of Michigan, Minnesota, and
+              Wisconsin.</subfield>
+      <subfield code="b">4th rev., July 1994.</subfield>
+      <subfield code="d">St. Paul, Minn. : North Central Forest Experiment Station, Forest
+              Service, U.S. Dept. of Agriculture, 1995</subfield>
+      <subfield code="w">(OCoLC)624441047</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="830">
+      <subfield code="a">General technical report NC ;</subfield>
+      <subfield code="v">178.</subfield>
+   </datafield>
+   <datafield ind1="4" ind2="1" tag="856">
+      <subfield code="u">http://www.treesearch.fs.fed.us/pubs/10242</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="938">
+      <subfield code="a">Baker and Taylor</subfield>
+      <subfield code="b">BTCP</subfield>
+      <subfield code="n">96130711</subfield>
+   </datafield>
+</marc:record>

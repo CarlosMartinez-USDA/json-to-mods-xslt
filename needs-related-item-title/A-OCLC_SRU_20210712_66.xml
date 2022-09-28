@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim"
+        xmlns:oclcterms="http://purl.org/oclc/terms/"
+        xmlns:dc="http://purl.org/dc/elements/1.1/"
+        xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <leader>00000cam a2200000Ia 4500</leader>
+   <controlfield tag="001">30387765</controlfield>
+   <controlfield tag="008">940506s1994 dcua f000 0 eng d</controlfield>
+   <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">GPO</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">GPO</subfield>
+      <subfield code="d">AGL</subfield>
+      <subfield code="d">GPO</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCLCO</subfield>
+      <subfield code="d">SFR</subfield>
+      <subfield code="d">OCLCF</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">CUT</subfield>
+      <subfield code="d">OCLCQ</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="019">
+      <subfield code="a">1034967293</subfield>
+      <subfield code="a">1225747846</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="043">
+      <subfield code="a">n-us---</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="4" tag="050">
+      <subfield code="a">TX297</subfield>
+      <subfield code="b">.H68</subfield>
+   </datafield>
+   <datafield ind1="0" ind2=" " tag="070">
+      <subfield code="a">1</subfield>
+      <subfield code="b">Ag84Hg no.260</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="072">
+      <subfield code="a">E700</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="072">
+      <subfield code="a">Q005</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="074">
+      <subfield code="a">0011</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="074">
+      <subfield code="a">0011 (online)</subfield>
+   </datafield>
+   <datafield ind1="1" ind2="4" tag="082">
+      <subfield code="a">1.77:260</subfield>
+   </datafield>
+   <datafield ind1="0" ind2=" " tag="086">
+      <subfield code="a">A 1.77:260</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">How to buy fresh fruits /</subfield>
+      <subfield code="c">prepared by Agricultural Marketing Service.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">[Washington, D.C.?] :</subfield>
+      <subfield code="b">U.S. Dept. of Agriculture,</subfield>
+      <subfield code="c">[1994]</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">26 pages :</subfield>
+      <subfield code="b">illustrations ;</subfield>
+      <subfield code="c">23 x 11 cm</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="336">
+      <subfield code="a">text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="337">
+      <subfield code="a">unmediated</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="338">
+      <subfield code="a">volume</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="490">
+      <subfield code="a">Home and garden bulletin ;</subfield>
+      <subfield code="v">no. 260</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">"Supersedes: How to buy fresh fruits, Home and garden bulletin no.
+              141 ... October 1967"--Page 26</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Shipping list no.: 94-0018-P.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">"Issued date: January 1994"--Page 26</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="530">
+      <subfield code="a">Also available via Internet from the U.S. Agricultural Marketing
+              Service web site. Address as of 7/8/99: http://www.ams.usda.gov/howtobuy/fruit.htm;
+              current access is available via PURL.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Fruit</subfield>
+      <subfield code="x">Quality</subfield>
+      <subfield code="z">United States.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Fruit</subfield>
+      <subfield code="x">Selection</subfield>
+      <subfield code="z">United States.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Consumer education</subfield>
+      <subfield code="z">United States.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Consumer education.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00876300</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Fruit</subfield>
+      <subfield code="x">Quality.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00935631</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="651">
+      <subfield code="a">United States.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01204155</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="710">
+      <subfield code="a">United States.</subfield>
+      <subfield code="b">Agricultural Marketing Service.</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="8" tag="776">
+      <subfield code="i">Online version:</subfield>
+      <subfield code="t">How to buy fresh fruits.</subfield>
+      <subfield code="d">[Washington, D.C.?] : U.S. Dept. of Agriculture, [1994]</subfield>
+      <subfield code="w">(OCoLC)624671611</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="830">
+      <subfield code="a">Home and garden bulletin ;</subfield>
+      <subfield code="v">no. 260.</subfield>
+   </datafield>
+   <datafield ind1="4" ind2="1" tag="856">
+      <subfield code="u">https://purl.fdlp.gov/GPO/LPS3010</subfield>
+   </datafield>
+   <datafield ind1="4" ind2="1" tag="856">
+      <subfield code="u">http://www.ams.usda.gov/howtobuy/index.htm</subfield>
+   </datafield>
+</record>

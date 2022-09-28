@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim"
+             xmlns:saxon="http://icl.com/saxon"
+             xmlns="http://www.loc.gov/MARC21/slim"
+             xmlns:oclcterms="http://purl.org/oclc/terms/"
+             xmlns:dc="http://purl.org/dc/elements/1.1/"
+             xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/"
+             xmlns:zs="http://www.loc.gov/zing/srw/"
+             xmlns:xlink="http://www.w3.org/1999/xlink"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="http://www.loc.gov/MARC21/slim https://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+   <leader>00000cam a2200000Ia 4500</leader>
+   <controlfield tag="001">32897874</controlfield>
+   <controlfield tag="003">OCoLC</controlfield>
+   <controlfield tag="008">950731s1995 dcu b 000 0 eng d</controlfield>
+   <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">LWG</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">LWG</subfield>
+      <subfield code="d">AGL</subfield>
+      <subfield code="d">AGA</subfield>
+      <subfield code="d">OCL</subfield>
+      <subfield code="d">WAU</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">NLGGC</subfield>
+      <subfield code="d">OCLCF</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCLCO</subfield>
+      <subfield code="d">WURST</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="019">
+      <subfield code="a">33841588</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">NLGGC</subfield>
+      <subfield code="b">194637387</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="4" tag="050">
+      <subfield code="a">SB437.5</subfield>
+      <subfield code="b">.P99</subfield>
+   </datafield>
+   <datafield ind1="0" ind2=" " tag="070">
+      <subfield code="a">aQK1.U47</subfield>
+      <subfield code="b">no.8</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="072">
+      <subfield code="a">F110</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="084">
+      <subfield code="a">42.58</subfield>
+      <subfield code="2">bcl</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Egolf, Donald R.</subfield>
+   </datafield>
+   <datafield ind1="1" ind2="2" tag="245">
+      <subfield code="a">A checklist of Pyracantha cultivars /</subfield>
+      <subfield code="c">by Donald R. Egolf and Anne O. Andrick.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">[Washington, D.C.] :</subfield>
+      <subfield code="b">U.S. Dept. of Agriculture, Agricultural Research Service,</subfield>
+      <subfield code="c">1995.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">v, 90 pages ;</subfield>
+      <subfield code="c">28 cm.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="336">
+      <subfield code="a">text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="337">
+      <subfield code="a">unmediated</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="338">
+      <subfield code="a">volume</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="490">
+      <subfield code="a">National Arboretum contribution ;</subfield>
+      <subfield code="v">no. 8</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">"Issued June 1995."</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="504">
+      <subfield code="a">Includes bibliographical references (pages 87-90).</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Pyracantha</subfield>
+      <subfield code="v">Nomenclature.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Pyracantha.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01084569</subfield>
+   </datafield>
+   <datafield ind1="1" ind2="7" tag="650">
+      <subfield code="a">Vuurdoorns.</subfield>
+      <subfield code="2">gtt</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="653">
+      <subfield code="a">pyracantha</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="653">
+      <subfield code="a">rosaceae</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="653">
+      <subfield code="a">controlelijsten</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="653">
+      <subfield code="a">checklists</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="653">
+      <subfield code="a">klassen</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="653">
+      <subfield code="a">genera</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="653">
+      <subfield code="a">soorten</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="653">
+      <subfield code="a">species</subfield>
+   </datafield>
+   <datafield ind1="1" ind2="0" tag="653">
+      <subfield code="a">Rosales</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Terminology.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01423880</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Andrick, Anne O.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="830">
+      <subfield code="a">National Arboretum contribution ;</subfield>
+      <subfield code="v">no. 8.</subfield>
+   </datafield>
+</marc:record>

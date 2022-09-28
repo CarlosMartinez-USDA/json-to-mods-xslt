@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim"
+        xmlns:oclcterms="http://purl.org/oclc/terms/"
+        xmlns:dc="http://purl.org/dc/elements/1.1/"
+        xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <leader>00000cam a2200000Ia 4500</leader>
+   <controlfield tag="001">34142774</controlfield>
+   <controlfield tag="006">m o d </controlfield>
+   <controlfield tag="007">cr cnu||||||||</controlfield>
+   <controlfield tag="008">960206s1995 dcua ob f000 0 eng d</controlfield>
+   <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">WAU</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="e">pn</subfield>
+      <subfield code="c">WAU</subfield>
+      <subfield code="d">AGL</subfield>
+      <subfield code="d">GPO</subfield>
+      <subfield code="d">NLM</subfield>
+      <subfield code="d">GPO</subfield>
+      <subfield code="d">OCL</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">MTG</subfield>
+      <subfield code="d">AMAZN</subfield>
+      <subfield code="d">OCLCE</subfield>
+      <subfield code="d">CDS</subfield>
+      <subfield code="d">CCO</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCLCF</subfield>
+      <subfield code="d">OCLCO</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">FUG</subfield>
+      <subfield code="d">UMK</subfield>
+      <subfield code="d">OCLCA</subfield>
+      <subfield code="d">STF</subfield>
+      <subfield code="d">OCLCQ</subfield>
+   </datafield>
+   <datafield ind1="7" ind2=" " tag="016">
+      <subfield code="a">9609369</subfield>
+      <subfield code="2">DNLM</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="019">
+      <subfield code="a">35716219</subfield>
+      <subfield code="a">297765085</subfield>
+      <subfield code="a">524891380</subfield>
+      <subfield code="a">605393802</subfield>
+      <subfield code="a">761869243</subfield>
+      <subfield code="a">1004923746</subfield>
+      <subfield code="a">1038941592</subfield>
+      <subfield code="a">1048314424</subfield>
+      <subfield code="a">1060526577</subfield>
+      <subfield code="a">1066998521</subfield>
+      <subfield code="a">1109150601</subfield>
+      <subfield code="a">1154391002</subfield>
+      <subfield code="a">1157375142</subfield>
+      <subfield code="a">1195706593</subfield>
+      <subfield code="a">1198443831</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">NLM</subfield>
+      <subfield code="b">9609369</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="037">
+      <subfield code="a">038-000-00590-1</subfield>
+      <subfield code="b">GPO</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="043">
+      <subfield code="a">n-us---</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="4" tag="050">
+      <subfield code="a">TP248.185</subfield>
+      <subfield code="b">.U54 1995</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="4" tag="060">
+      <subfield code="a">1996 F-361</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="4" tag="060">
+      <subfield code="a">TP 248.185</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="070">
+      <subfield code="a">TP248.185.U57</subfield>
+      <subfield code="b">1995</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="072">
+      <subfield code="a">X300</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="074">
+      <subfield code="a">0856-E-06</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="074">
+      <subfield code="a">0856-E-06 (online)</subfield>
+   </datafield>
+   <datafield ind1="0" ind2=" " tag="086">
+      <subfield code="a">PREX 8.111/2:995</subfield>
+   </datafield>
+   <datafield ind1="2" ind2=" " tag="110">
+      <subfield code="a">National Science and Technology Council (U.S.).</subfield>
+      <subfield code="b">Biotechnology Research Subcommittee.</subfield>
+   </datafield>
+   <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Biotechnology for the 21st century :</subfield>
+      <subfield code="b">new horizons : a report from the Biotechnology Research Subcommittee,
+              Committee on Fundamental Science, National Science and Technology Council.</subfield>
+   </datafield>
+   <datafield ind1="3" ind2=" " tag="246">
+      <subfield code="a">Biotechnology for the twenty-first century</subfield>
+   </datafield>
+   <datafield ind1="3" ind2="0" tag="246">
+      <subfield code="a">New horizons</subfield>
+   </datafield>
+   <datafield ind1="3" ind2="0" tag="246">
+      <subfield code="a">Report from the Biotechnology Research Subcommittee, Committee on
+              Fundamental Science, National Science and Technology Council</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">Washington, DC :</subfield>
+      <subfield code="b">The Subcommittee :</subfield>
+      <subfield code="b">For sale by the U.S. G.P.O. Supt. of Docs.,</subfield>
+      <subfield code="c">[1995]</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">1 online resource (xv, 89 pages) :</subfield>
+      <subfield code="b">color illustrations</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="336">
+      <subfield code="a">text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="337">
+      <subfield code="a">computer</subfield>
+      <subfield code="b">c</subfield>
+      <subfield code="2">rdamedia</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="338">
+      <subfield code="a">online resource</subfield>
+      <subfield code="b">cr</subfield>
+      <subfield code="2">rdacarrier</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Shipping list.: no. 1996-0166-P.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">"July 1995."</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="504">
+      <subfield code="a">Includes bibliographical references.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="506">
+      <subfield code="3">Use copy</subfield>
+      <subfield code="f">Restrictions unspecified</subfield>
+      <subfield code="5">MiAaHDL</subfield>
+      <subfield code="2">star</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="538">
+      <subfield code="a">Master and use copy. Digital master created according to Benchmark
+              for Faithful Digital Reproductions of Monographs and Serials, Version 1. Digital
+              Library Federation, December 2002.</subfield>
+      <subfield code="u">http://purl.oclc.org/DLF/benchrepro0212</subfield>
+      <subfield code="5">MiAaHDL</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="583">
+      <subfield code="a">digitized</subfield>
+      <subfield code="c">2010</subfield>
+      <subfield code="h">HathiTrust Digital Library</subfield>
+      <subfield code="l">committed to preserve</subfield>
+      <subfield code="5">MiAaHDL</subfield>
+      <subfield code="2">pda</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Biotechnology</subfield>
+      <subfield code="x">Research</subfield>
+      <subfield code="z">United States.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Biotechnology</subfield>
+      <subfield code="x">Research.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00832769</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="651">
+      <subfield code="a">United States.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01204155</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="4" tag="655">
+      <subfield code="a">Computer network resources.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="655">
+      <subfield code="a">Electronic government information</subfield>
+      <subfield code="z">United States.</subfield>
+   </datafield>
+   <datafield ind1="1" ind2="2" tag="650">
+      <subfield code="a">Biotechnology</subfield>
+      <subfield code="x">trends.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="2" tag="651">
+      <subfield code="a">United States.</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="8" tag="776">
+      <subfield code="i">Print version:</subfield>
+      <subfield code="a">National Science and Technology Council (U.S.). Biotechnology
+              Research Subcommittee.</subfield>
+      <subfield code="t">Biotechnology for the 21st century.</subfield>
+      <subfield code="d">[Washington, D.C.] : The Council ; Washington, D.C. : For sale by the
+              U.S.G.P.O., Supt. of Docs., [1995]</subfield>
+      <subfield code="w">(OCoLC)82998841</subfield>
+   </datafield>
+   <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="3">Google</subfield>
+      <subfield code="u">http://books.google.com/books?id=_dNTAAAAMAAJ</subfield>
+   </datafield>
+   <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="3">Google</subfield>
+      <subfield code="u">http://books.google.com/books?id=9faK1f0rrlcC</subfield>
+   </datafield>
+   <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="3">HathiTrust Digital Library, Full view</subfield>
+      <subfield code="u">http://catalog.hathitrust.org/api/volumes/oclc/34142774.html</subfield>
+   </datafield>
+   <datafield ind1="4" ind2="1" tag="856">
+      <subfield code="u">https://purl.fdlp.gov/GPO/LPS6161</subfield>
+   </datafield>
+   <datafield ind1="4" ind2="1" tag="856">
+      <subfield code="u">https://purl.fdlp.gov/GPO/LPS6161</subfield>
+   </datafield>
+   <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="3">HathiTrust Digital Library</subfield>
+      <subfield code="u">http://catalog.hathitrust.org/api/volumes/oclc/82998841.html</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="938">
+      <subfield code="a">AMAZON</subfield>
+      <subfield code="b">AMZN</subfield>
+      <subfield code="n">B0030ZT0LC</subfield>
+   </datafield>
+</record>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim"
+             xmlns:saxon="http://icl.com/saxon"
+             xmlns="http://www.loc.gov/MARC21/slim"
+             xmlns:oclcterms="http://purl.org/oclc/terms/"
+             xmlns:dc="http://purl.org/dc/elements/1.1/"
+             xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/"
+             xmlns:zs="http://www.loc.gov/zing/srw/"
+             xmlns:xlink="http://www.w3.org/1999/xlink"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="http://www.loc.gov/MARC21/slim https://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+   <leader>00000cas a2200000 a 4500</leader>
+   <controlfield tag="001">32636280</controlfield>
+   <controlfield tag="008">950613c19959999mdu x m f0 a0eng c</controlfield>
+   <datafield ind1=" " ind2=" " tag="010">
+      <subfield code="a">sf 95010252 </subfield>
+      <subfield code="z">sn 95004996 </subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">NSD</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">NSD</subfield>
+      <subfield code="d">DLC</subfield>
+      <subfield code="d">AGL</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCLCF</subfield>
+      <subfield code="d">OCLCO</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCL</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="012">
+      <subfield code="i">9510</subfield>
+      <subfield code="k">1</subfield>
+      <subfield code="l">1</subfield>
+   </datafield>
+   <datafield ind1="0" ind2=" " tag="022">
+      <subfield code="a">1082-9644</subfield>
+      <subfield code="l">1082-9644</subfield>
+      <subfield code="2">1</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="037">
+      <subfield code="b">Animal Welfare Information Center, 10301 Baltimore Blvd., Beltsville,
+              MD 20705-2351</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="042">
+      <subfield code="a">nsdp</subfield>
+      <subfield code="a">pcc</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="050">
+      <subfield code="a">CLASSED SEPARATELY</subfield>
+   </datafield>
+   <datafield ind1="0" ind2=" " tag="070">
+      <subfield code="a">aHV4701.A94</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="072">
+      <subfield code="a">L110</subfield>
+   </datafield>
+   <datafield ind1="1" ind2="0" tag="082">
+      <subfield code="a">179</subfield>
+      <subfield code="2">12</subfield>
+   </datafield>
+   <datafield ind1="0" ind2=" " tag="210">
+      <subfield code="a">AWIC resour. ser.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="222">
+      <subfield code="a">AWIC resource series</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">AWIC resource series /</subfield>
+      <subfield code="c">[United States Department of Agriculture, National Agricultural
+              Library, Animal Welfare Information Center].</subfield>
+   </datafield>
+   <datafield ind1="3" ind2=" " tag="246">
+      <subfield code="a">Animal Welfare Information Center resource series</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">Beltsville, MD :</subfield>
+      <subfield code="b">U.S. Dept. of Agriculture, National Agricultural Library,</subfield>
+      <subfield code="c">1995-</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">volumes ;</subfield>
+      <subfield code="c">28 cm</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="310">
+      <subfield code="a">Irregular</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="336">
+      <subfield code="a">text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="337">
+      <subfield code="a">unmediated</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="338">
+      <subfield code="a">volume</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+   </datafield>
+   <datafield ind1="0" ind2=" " tag="362">
+      <subfield code="a">No. 1-</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="588">
+      <subfield code="a">Latest issue consulted: No. 2, published in 1995.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Animal welfare.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Animal welfare</subfield>
+      <subfield code="v">Bibliography.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Animal welfare.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00809431</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Bibliographies.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01919895</subfield>
+   </datafield>
+   <datafield ind1="2" ind2=" " tag="710">
+      <subfield code="a">Animal Welfare Information Center (U.S.)</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="850">
+      <subfield code="a">DLC</subfield>
+      <subfield code="a">DNAL</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">AU@</subfield>
+      <subfield code="b">000011781263</subfield>
+   </datafield>
+</marc:record>

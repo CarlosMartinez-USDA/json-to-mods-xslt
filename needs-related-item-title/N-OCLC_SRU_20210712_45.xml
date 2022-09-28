@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim"
+             xmlns:saxon="http://icl.com/saxon"
+             xmlns="http://www.loc.gov/MARC21/slim"
+             xmlns:oclcterms="http://purl.org/oclc/terms/"
+             xmlns:dc="http://purl.org/dc/elements/1.1/"
+             xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/"
+             xmlns:zs="http://www.loc.gov/zing/srw/"
+             xmlns:xlink="http://www.w3.org/1999/xlink"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="http://www.loc.gov/MARC21/slim https://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+   <leader>00000cam a2200000 a 4500</leader>
+   <controlfield tag="001">34283431</controlfield>
+   <controlfield tag="003">OCoLC</controlfield>
+   <controlfield tag="008">960131s1996 dcu b 001 0 eng </controlfield>
+   <datafield ind1=" " ind2=" " tag="010">
+      <subfield code="a"> 96004946 </subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">DLC</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">DLC</subfield>
+      <subfield code="d">AGL</subfield>
+      <subfield code="d">BAKER</subfield>
+      <subfield code="d">BTCTA</subfield>
+      <subfield code="d">YDXCP</subfield>
+      <subfield code="d">UQ1</subfield>
+      <subfield code="d">ZCU</subfield>
+      <subfield code="d">DEBBG</subfield>
+      <subfield code="d">TTS</subfield>
+      <subfield code="d">BDX</subfield>
+      <subfield code="d">OCLCF</subfield>
+      <subfield code="d">UY0</subfield>
+      <subfield code="d">COF</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OLDSC</subfield>
+      <subfield code="d">WURST</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">0309053307</subfield>
+      <subfield code="q">(alk. paper)</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9780309053303</subfield>
+      <subfield code="q">(alk. paper)</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">AU@</subfield>
+      <subfield code="b">000012194394</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">DEBBG</subfield>
+      <subfield code="b">BV010873646</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">NLGGC</subfield>
+      <subfield code="b">147123437</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">NZ1</subfield>
+      <subfield code="b">4131240</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">YDXCP</subfield>
+      <subfield code="b">176330</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="050">
+      <subfield code="a">SB950</subfield>
+      <subfield code="b">.E365 1996</subfield>
+   </datafield>
+   <datafield ind1="0" ind2=" " tag="070">
+      <subfield code="a">SB950.E365</subfield>
+      <subfield code="b">1996</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="072">
+      <subfield code="a">F821</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="072">
+      <subfield code="a">F822</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="072">
+      <subfield code="a">H000</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="072">
+      <subfield code="a">F300</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="072">
+      <subfield code="a">K001</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="082">
+      <subfield code="a">632/.96</subfield>
+      <subfield code="2">20</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="084">
+      <subfield code="a">LAN 081f</subfield>
+      <subfield code="2">stub</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="084">
+      <subfield code="a">LAN 274f</subfield>
+      <subfield code="2">stub</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="084">
+      <subfield code="a">WN 9850</subfield>
+      <subfield code="2">rvk</subfield>
+   </datafield>
+   <datafield ind1="0" ind2=" " tag="086">
+      <subfield code="a">NA 2.2/2:EC 7/2</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">Ecologically based pest management :</subfield>
+      <subfield code="b">new solutions for a new century /</subfield>
+      <subfield code="c">Committee on Pest and Pathogen Control Through Management of
+              Biological Control Agents and Enhanced Cycles and Natural Processes, Board on
+              Agriculture, National Research Council.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">Washington, D.C. :</subfield>
+      <subfield code="b">National Academy Press,</subfield>
+      <subfield code="c">1996.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">xiii, 144 pages ;</subfield>
+      <subfield code="c">24 cm</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="336">
+      <subfield code="a">text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="337">
+      <subfield code="a">unmediated</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="338">
+      <subfield code="a">volume</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="504">
+      <subfield code="a">Includes bibliographical references (pages 117-132) and
+              index.</subfield>
+   </datafield>
+   <datafield ind1="0" ind2=" " tag="505">
+      <subfield code="a">Executive summary -- Lessons from the past provide direction for the
+              future -- Defining and implementing ecologically based pest management -- Accelerating
+              research and development -- Public oversight of ecologically based pest
+              management.</subfield>
+   </datafield>
+   <datafield ind1="3" ind2=" " tag="520">
+      <subfield code="a">This volume offers a vision and strategies for creating a solid,
+              comprehensive knowledge base to support a pest management system that incorporates
+              ecosystem processes supplemented by a continuum of inputs - biological organisms,
+              products, and cultural controls. The result will be safe, profitable, and durable pest
+              management strategies. The book evaluates the feasibility of Ecologically Based Pest
+              Management by examining optimal examples and how to move these into mainstream
+              agriculture</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Agricultural pests</subfield>
+      <subfield code="x">Integrated control.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Agricultural pests</subfield>
+      <subfield code="x">Integrated control</subfield>
+      <subfield code="x">Environmental aspects.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Agricultural ecology.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Agricultural ecology.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00800685</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Agricultural pests</subfield>
+      <subfield code="x">Integrated control.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00801166</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Agricultural pests</subfield>
+      <subfield code="x">Integrated control</subfield>
+      <subfield code="x">Environmental aspects.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00801169</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Agrarökologie</subfield>
+      <subfield code="2">gnd</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Integrierter Pflanzenschutz</subfield>
+      <subfield code="2">gnd</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Écologie agricole.</subfield>
+      <subfield code="2">rasuqam</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Ennemi des cultures.</subfield>
+      <subfield code="2">rasuqam</subfield>
+   </datafield>
+   <datafield ind1="1" ind2="7" tag="650">
+      <subfield code="a">Lutte antiparasitaire.</subfield>
+      <subfield code="2">rasuqam</subfield>
+   </datafield>
+   <datafield ind1="1" ind2="7" tag="650">
+      <subfield code="a">Lutte intégrée (Environnement)</subfield>
+      <subfield code="2">rasuqam</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="653">
+      <subfield code="a">gewasbescherming</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="653">
+      <subfield code="a">plant protection</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="653">
+      <subfield code="a">biologische bestrijding</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="653">
+      <subfield code="a">biological control</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="653">
+      <subfield code="a">bestrijdingsmethoden</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="653">
+      <subfield code="a">control methods</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="653">
+      <subfield code="a">plantenplagen</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="653">
+      <subfield code="a">plant pests</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="653">
+      <subfield code="a">plantenziekten</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="653">
+      <subfield code="a">plant diseases</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="653">
+      <subfield code="a">integrated pest management</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="653">
+      <subfield code="a">integrated control</subfield>
+   </datafield>
+   <datafield ind1="1" ind2="0" tag="653">
+      <subfield code="a">Biological Control</subfield>
+   </datafield>
+   <datafield ind1="2" ind2="0" tag="653">
+      <subfield code="a">Integrated Control, Integrated Pest Management</subfield>
+   </datafield>
+   <datafield ind1="1" ind2="0" tag="653">
+      <subfield code="a">Biologische bestrijding</subfield>
+   </datafield>
+   <datafield ind1="2" ind2=" " tag="710">
+      <subfield code="a">National Research Council (U.S.).</subfield>
+      <subfield code="b">Committee on Pest and Pathogen Control Through Management of
+              Biological Control Agents and Enhanced Cycles and Natural Processes.</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="8" tag="776">
+      <subfield code="i">Online version:</subfield>
+      <subfield code="t">Ecologically based pest management.</subfield>
+      <subfield code="d">Washington, D.C. : National Academy Press, 1996</subfield>
+      <subfield code="w">(OCoLC)805946342</subfield>
+   </datafield>
+   <datafield ind1="4" ind2="1" tag="856">
+      <subfield code="3">National Academies Press</subfield>
+      <subfield code="u">http://www.nap.edu/books/0309053307/html/index.html</subfield>
+   </datafield>
+   <datafield ind1="4" ind2="1" tag="856">
+      <subfield code="u">http://www.nap.edu/catalog/5135.html</subfield>
+   </datafield>
+   <datafield ind1="4" ind2="1" tag="856">
+      <subfield code="3">Free Access</subfield>
+      <subfield code="u">http://www.nap.edu/catalog.php?record_id=5135</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="938">
+      <subfield code="a">Baker &amp; Taylor</subfield>
+      <subfield code="b">BKTY</subfield>
+      <subfield code="c">39.95</subfield>
+      <subfield code="d">39.95</subfield>
+      <subfield code="i">0309053307</subfield>
+      <subfield code="n">0002826005</subfield>
+      <subfield code="s">active</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="938">
+      <subfield code="a">Brodart</subfield>
+      <subfield code="b">BROD</subfield>
+      <subfield code="n">49257471</subfield>
+      <subfield code="c">$37.95</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="938">
+      <subfield code="a">Baker and Taylor</subfield>
+      <subfield code="b">BTCP</subfield>
+      <subfield code="n">96004946</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="938">
+      <subfield code="a">YBP Library Services</subfield>
+      <subfield code="b">YANK</subfield>
+      <subfield code="n">176330</subfield>
+   </datafield>
+</marc:record>

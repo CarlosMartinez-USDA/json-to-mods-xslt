@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim"
+        xmlns:oclcterms="http://purl.org/oclc/terms/"
+        xmlns:dc="http://purl.org/dc/elements/1.1/"
+        xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <leader>00000cam a2200000 a 4500</leader>
+   <controlfield tag="001">35646966</controlfield>
+   <controlfield tag="003">OCoLC</controlfield>
+   <controlfield tag="008">961206s1996 mnu b f000 0 eng </controlfield>
+   <datafield ind1=" " ind2=" " tag="010">
+      <subfield code="a"> 96227363 </subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">DLC</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">DLC</subfield>
+      <subfield code="d">AGL</subfield>
+      <subfield code="d">CAW</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">BTCTA</subfield>
+      <subfield code="d">OCLCG</subfield>
+      <subfield code="d">OCLCO</subfield>
+      <subfield code="d">WRJ</subfield>
+      <subfield code="d">OCLCF</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">AGM</subfield>
+      <subfield code="d">WURST</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">GBVCP</subfield>
+      <subfield code="b">224727117</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">NLGGC</subfield>
+      <subfield code="b">19476981X</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">NZ1</subfield>
+      <subfield code="b">4789297</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="043">
+      <subfield code="a">n-us-mn</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="050">
+      <subfield code="a">QL458.42.P39</subfield>
+      <subfield code="b">J45 1996</subfield>
+   </datafield>
+   <datafield ind1="0" ind2=" " tag="070">
+      <subfield code="a">aSD11.A352</subfield>
+      <subfield code="b">no.185</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="072">
+      <subfield code="a">L700</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="072">
+      <subfield code="a">L001</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="082">
+      <subfield code="a">595.4/4</subfield>
+      <subfield code="2">21</subfield>
+   </datafield>
+   <datafield ind1="0" ind2=" " tag="086">
+      <subfield code="a">A 13.88:NC-185</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Jennings, Daniel T.</subfield>
+   </datafield>
+   <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Crab spiders (Araneae:Philodromidae, Thomisidae) of Ramsey County,
+              Minnesota /</subfield>
+      <subfield code="c">Daniel T. Jennings and Bruce Cutler.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">St. Paul, Minn. (1992 Folwell Ave., St. Paul 55108) :</subfield>
+      <subfield code="b">U.S. Dept. of Agriculture, Forest Service, North Central Forest
+              Experiment Station,</subfield>
+      <subfield code="c">1996.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">35 pages ;</subfield>
+      <subfield code="c">28 cm.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="336">
+      <subfield code="a">text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="337">
+      <subfield code="a">unmediated</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="338">
+      <subfield code="a">volume</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="490">
+      <subfield code="a">General technical report NC ;</subfield>
+      <subfield code="v">185</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Cover title.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="504">
+      <subfield code="a">Includes bibliographical references (pages 30-35).</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Philodromidae</subfield>
+      <subfield code="z">Minnesota</subfield>
+      <subfield code="z">Ramsey County.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Thomisidae</subfield>
+      <subfield code="z">Minnesota</subfield>
+      <subfield code="z">Ramsey County.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="3" tag="650">
+      <subfield code="a">Araneae.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="3" tag="651">
+      <subfield code="a">Mississippi.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Philodromidae.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01060686</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Thomisidae.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01150181</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="651">
+      <subfield code="a">Minnesota</subfield>
+      <subfield code="z">Ramsey County.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01213443</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="653">
+      <subfield code="a">araneae</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="653">
+      <subfield code="a">minnesota</subfield>
+   </datafield>
+   <datafield ind1="1" ind2="0" tag="653">
+      <subfield code="a">Arachnida</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Cutler, Bruce,</subfield>
+      <subfield code="d">1943-</subfield>
+   </datafield>
+   <datafield ind1="2" ind2=" " tag="710">
+      <subfield code="a">North Central Forest Experiment Station (Saint Paul,
+              Minn.)</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="830">
+      <subfield code="a">General technical report NC ;</subfield>
+      <subfield code="v">185.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="938">
+      <subfield code="a">Baker and Taylor</subfield>
+      <subfield code="b">BTCP</subfield>
+      <subfield code="n">96227363</subfield>
+   </datafield>
+</record>

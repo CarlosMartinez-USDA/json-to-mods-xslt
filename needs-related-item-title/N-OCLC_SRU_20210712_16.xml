@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim"
+             xmlns:saxon="http://icl.com/saxon"
+             xmlns="http://www.loc.gov/MARC21/slim"
+             xmlns:oclcterms="http://purl.org/oclc/terms/"
+             xmlns:dc="http://purl.org/dc/elements/1.1/"
+             xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/"
+             xmlns:zs="http://www.loc.gov/zing/srw/"
+             xmlns:xlink="http://www.w3.org/1999/xlink"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="http://www.loc.gov/MARC21/slim https://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+   <leader>00000cam a2200000Ia 4500</leader>
+   <controlfield tag="001">33470777</controlfield>
+   <controlfield tag="008">951113s1995 orua b f000 0 eng </controlfield>
+   <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">AGL</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">AGL</subfield>
+      <subfield code="d">CAW</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">NTE</subfield>
+      <subfield code="d">GPO</subfield>
+      <subfield code="d">OSO</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCLCF</subfield>
+      <subfield code="d">AGM</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">GBVCP</subfield>
+      <subfield code="b">191367060</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="4" tag="050">
+      <subfield code="a">SD11</subfield>
+      <subfield code="b">.P883 no.351, 1995</subfield>
+   </datafield>
+   <datafield ind1="0" ind2=" " tag="070">
+      <subfield code="a">aSD11.A46</subfield>
+      <subfield code="b">no.351</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="072">
+      <subfield code="a">P300</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="072">
+      <subfield code="a">X200</subfield>
+   </datafield>
+   <datafield ind1="0" ind2=" " tag="086">
+      <subfield code="a">A 13.88:PNW-GTR-351</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">McGarigal, Kevin.</subfield>
+   </datafield>
+   <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">FRAGSTATS :</subfield>
+      <subfield code="b">spatial pattern analysis program for quantifying landscape structure
+              /</subfield>
+      <subfield code="c">[Kevin McGarigal and Barbara J. Marks].</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">Portland, Or. :</subfield>
+      <subfield code="b">U.S. Dept. of Agriculture, Forest Service, Pacific Northwest Research
+              Station,</subfield>
+      <subfield code="c">[1995]</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">122 pages :</subfield>
+      <subfield code="b">illustrations ;</subfield>
+      <subfield code="c">28 cm.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="336">
+      <subfield code="a">text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="337">
+      <subfield code="a">unmediated</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="338">
+      <subfield code="a">volume</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="490">
+      <subfield code="a">General technical report PNW ;</subfield>
+      <subfield code="v">GTR-351</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Cover title.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">"August 1995."</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="504">
+      <subfield code="a">Includes bibliographical references (pages 54-59).</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="630">
+      <subfield code="a">FRAGSTATS.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Landscape ecology</subfield>
+      <subfield code="x">Computer programs.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Spatial analysis (Statistics)</subfield>
+      <subfield code="x">Computer programs.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Spatial analysis (Statistics)</subfield>
+      <subfield code="x">Computer programs.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01128785</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="3" tag="650">
+      <subfield code="a">Landscape ecology.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="3" tag="650">
+      <subfield code="a">Models.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="3" tag="650">
+      <subfield code="a">Statistical analysis.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="3" tag="650">
+      <subfield code="a">Landscapes.</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Marks, Barbara J.</subfield>
+   </datafield>
+   <datafield ind1="2" ind2=" " tag="710">
+      <subfield code="a">Pacific Northwest Research Station (Portland, Or.)</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="8" tag="776">
+      <subfield code="i">Online version:</subfield>
+      <subfield code="t">FRAGSTATS, spatial pattern analysis program for quantifying landscape
+              structure.</subfield>
+      <subfield code="h">1 online resource (122 p.)</subfield>
+      <subfield code="w">(OCoLC)469142064</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="8" tag="776">
+      <subfield code="i">Microfiche:</subfield>
+      <subfield code="t">FRAGSTATS, spatial pattern analysis program for quantifying landscape
+              structure.</subfield>
+      <subfield code="h">2 microfiches</subfield>
+      <subfield code="w">(OCoLC)34553045</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="8" tag="776">
+      <subfield code="i">Online version:</subfield>
+      <subfield code="a">McGarigal, Kevin.</subfield>
+      <subfield code="t">FRAGSTATS.</subfield>
+      <subfield code="d">Portland, Or. : U.S. Dept. of Agriculture, Forest Service, Pacific
+              Northwest Research Station, [1995]</subfield>
+      <subfield code="w">(OCoLC)624689111</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="830">
+      <subfield code="a">General technical report PNW ;</subfield>
+      <subfield code="v">351.</subfield>
+   </datafield>
+</marc:record>

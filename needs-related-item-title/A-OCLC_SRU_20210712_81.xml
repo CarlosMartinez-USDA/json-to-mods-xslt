@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim"
+        xmlns:oclcterms="http://purl.org/oclc/terms/"
+        xmlns:dc="http://purl.org/dc/elements/1.1/"
+        xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <leader>00000cas a2200000 a 4500</leader>
+   <controlfield tag="001">56105665</controlfield>
+   <controlfield tag="006">m o d f </controlfield>
+   <controlfield tag="007">cr mn|||||||||</controlfield>
+   <controlfield tag="008">040806d19692018dcuar so f0 a0eng c</controlfield>
+   <datafield ind1=" " ind2=" " tag="010">
+      <subfield code="a"> 2004231514</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">GPO</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="e">pn</subfield>
+      <subfield code="c">GPO</subfield>
+      <subfield code="d">NSD</subfield>
+      <subfield code="d">GPO</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCLCF</subfield>
+      <subfield code="d">OCLCO</subfield>
+      <subfield code="d">NKM</subfield>
+      <subfield code="d">GPO</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">GPO</subfield>
+      <subfield code="d">FEM</subfield>
+      <subfield code="d">DLC</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">GILDS</subfield>
+      <subfield code="d">OCLCO</subfield>
+      <subfield code="d">OCL</subfield>
+      <subfield code="d">GPO</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">ORU</subfield>
+      <subfield code="d">OCLCE</subfield>
+      <subfield code="d">DE#</subfield>
+      <subfield code="d">OCLCO</subfield>
+      <subfield code="d">YOU</subfield>
+      <subfield code="d">WYU</subfield>
+      <subfield code="d">ZQP</subfield>
+      <subfield code="d">GPO</subfield>
+      <subfield code="d">OCLCA</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">GPO</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="012">
+      <subfield code="l">a</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="019">
+      <subfield code="a">34582491</subfield>
+      <subfield code="a">44280884</subfield>
+      <subfield code="a">47870428</subfield>
+      <subfield code="a">47870430</subfield>
+      <subfield code="a">48804998</subfield>
+      <subfield code="a">49389969</subfield>
+      <subfield code="a">78444546</subfield>
+      <subfield code="a">563100476</subfield>
+      <subfield code="a">664399256</subfield>
+      <subfield code="a">760153102</subfield>
+      <subfield code="a">811205062</subfield>
+      <subfield code="a">966190870</subfield>
+      <subfield code="a">1003820879</subfield>
+      <subfield code="a">1013238288</subfield>
+      <subfield code="a">1014250069</subfield>
+      <subfield code="a">1014254745</subfield>
+      <subfield code="a">1039497634</subfield>
+      <subfield code="a">1048420001</subfield>
+      <subfield code="a">1049991421</subfield>
+      <subfield code="a">1053807680</subfield>
+      <subfield code="a">1054434552</subfield>
+      <subfield code="a">1056746877</subfield>
+      <subfield code="a">1059224069</subfield>
+      <subfield code="a">1059571923</subfield>
+      <subfield code="a">1083993900</subfield>
+      <subfield code="a">1084298662</subfield>
+      <subfield code="a">1084841540</subfield>
+      <subfield code="a">1089520253</subfield>
+      <subfield code="a">1117536347</subfield>
+      <subfield code="a">1119583293</subfield>
+      <subfield code="a">1120916890</subfield>
+      <subfield code="a">1121657273</subfield>
+      <subfield code="a">1126534198</subfield>
+      <subfield code="a">1128107935</subfield>
+      <subfield code="a">1129522920</subfield>
+      <subfield code="a">1132908662</subfield>
+      <subfield code="a">1135273898</subfield>
+      <subfield code="a">1140199123</subfield>
+      <subfield code="a">1140268528</subfield>
+   </datafield>
+   <datafield ind1="0" ind2=" " tag="022">
+      <subfield code="a">1555-0192</subfield>
+      <subfield code="l">0097-7799</subfield>
+      <subfield code="2">1</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="042">
+      <subfield code="a">pcc</subfield>
+      <subfield code="a">nsdp</subfield>
+      <subfield code="a">dlr</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="043">
+      <subfield code="a">n-us---</subfield>
+   </datafield>
+   <datafield ind1="1" ind2="0" tag="050">
+      <subfield code="a">ISSN RECORD</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="074">
+      <subfield code="a">0853-A-09 (online)</subfield>
+   </datafield>
+   <datafield ind1="1" ind2="0" tag="082">
+      <subfield code="a">338</subfield>
+      <subfield code="2">13</subfield>
+   </datafield>
+   <datafield ind1="0" ind2=" " tag="086">
+      <subfield code="a">PREX 2.20:</subfield>
+   </datafield>
+   <datafield ind1="0" ind2=" " tag="130">
+      <subfield code="a">Catalog of federal domestic assistance (Online)</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="222">
+      <subfield code="a">Catalog of federal domestic assistance</subfield>
+      <subfield code="b">(Online)</subfield>
+   </datafield>
+   <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Catalog of federal domestic assistance.</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="246">
+      <subfield code="i">Also known as:</subfield>
+      <subfield code="a">CFDA.gov</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">Washington, DC :</subfield>
+      <subfield code="b">Executive Office of the President, Office of Management and Budget
+              :</subfield>
+      <subfield code="b">U.S. General Services Administration,</subfield>
+      <subfield code="c">-2018.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">1 online resource (volumes)</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="310">
+      <subfield code="a">Annual</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="336">
+      <subfield code="a">text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="337">
+      <subfield code="a">computer</subfield>
+      <subfield code="b">c</subfield>
+      <subfield code="2">rdamedia</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="338">
+      <subfield code="a">online resource</subfield>
+      <subfield code="b">cr</subfield>
+      <subfield code="2">rdacarrier</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="362">
+      <subfield code="a">Print began with: Jan. 1969.</subfield>
+   </datafield>
+   <datafield ind1="0" ind2=" " tag="362">
+      <subfield code="a">-2018.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="506">
+      <subfield code="3">Use copy</subfield>
+      <subfield code="f">Restrictions unspecified</subfield>
+      <subfield code="2">star</subfield>
+      <subfield code="5">MiAaHDL</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="520">
+      <subfield code="a">Identifies and describes specific government assistance opportunities
+              such as loans, grants, counseling, and procurement contracts available under many
+              agencies and programs.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="530">
+      <subfield code="a">Also issued on CD-ROM; with title: Federal grants, funding locator;
+              also paired with title: Federal assistance award data system. Also available on
+              diskette.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="533">
+      <subfield code="a">Electronic reproduction.</subfield>
+      <subfield code="b">[Place of publication not identified] :</subfield>
+      <subfield code="c">HathiTrust Digital Library,</subfield>
+      <subfield code="d">2010.</subfield>
+      <subfield code="5">MiAaHDL</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="538">
+      <subfield code="a">Master and use copy. Digital master created according to Benchmark
+              for Faithful Digital Reproductions of Monographs and Serials, Version 1. Digital
+              Library Federation, December 2002.</subfield>
+      <subfield code="u">http://purl.oclc.org/DLF/benchrepro0212</subfield>
+      <subfield code="5">MiAaHDL</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="538">
+      <subfield code="a">Mode of access: Internet from the GSA web site. Previously available
+              as of 8/6/2004: http://www.cfda.gov.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="580">
+      <subfield code="a">Selected data published also in: Federal funding sources for rural
+              areas.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="580">
+      <subfield code="a">Absorbed by the online database: beta.SAM.gov.</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="583">
+      <subfield code="a">digitized</subfield>
+      <subfield code="c">2010</subfield>
+      <subfield code="h">HathiTrust Digital Library</subfield>
+      <subfield code="l">committed to preserve</subfield>
+      <subfield code="2">pda</subfield>
+      <subfield code="5">MiAaHDL</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="588">
+      <subfield code="a">Description based on: 2004; title from title screen (viewed Aug. 6,
+              2004).</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="588">
+      <subfield code="a">Latest issue consulted: 2018 (viewed June 18, 2019).</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Economic assistance, Domestic</subfield>
+      <subfield code="z">United States</subfield>
+      <subfield code="v">Periodicals.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Grants-in-aid</subfield>
+      <subfield code="z">United States</subfield>
+      <subfield code="v">Periodicals.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Government lending</subfield>
+      <subfield code="z">United States</subfield>
+      <subfield code="v">Periodicals.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Public contracts</subfield>
+      <subfield code="z">United States</subfield>
+      <subfield code="v">Periodicals.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Economic assistance, Domestic.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00901671</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Government lending.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00945388</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Grants-in-aid.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00946429</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Public contracts.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01082170</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="651">
+      <subfield code="a">United States.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01204155</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="2" tag="650">
+      <subfield code="a">Financing, Government.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Periodicals.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01411641</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Periodicals.</subfield>
+      <subfield code="2">lcgft</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="2" tag="655">
+      <subfield code="a">Statistics.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="655">
+      <subfield code="a">Government publications</subfield>
+      <subfield code="z">United States.</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="710">
+      <subfield code="a">United States.</subfield>
+      <subfield code="b">Office of Management and Budget.</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="710">
+      <subfield code="a">United States.</subfield>
+      <subfield code="b">General Services Administration.</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="8" tag="776">
+      <subfield code="i">Print version:</subfield>
+      <subfield code="t">Catalog of federal domestic assistance</subfield>
+      <subfield code="x">0097-7799</subfield>
+      <subfield code="w">(DLC) 73600118</subfield>
+      <subfield code="w">(OCoLC)2239457</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="8" tag="776">
+      <subfield code="i">Diskette version:</subfield>
+      <subfield code="t">Catalog of federal domestic assistance (Diskette)</subfield>
+      <subfield code="w">(DLC) 2015230614</subfield>
+      <subfield code="w">(OCoLC)30885406</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="8" tag="776">
+      <subfield code="i">CD-ROM version:</subfield>
+      <subfield code="t">Catalog of federal domestic assistance (CD-ROM)</subfield>
+      <subfield code="w">(DLC)sn 98034370</subfield>
+      <subfield code="w">(OCoLC)38716667</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="8" tag="776">
+      <subfield code="i">CD-ROM version:</subfield>
+      <subfield code="t">Federal grants, funding locator</subfield>
+      <subfield code="w">(DLC) 98655070</subfield>
+      <subfield code="w">(OCoLC)30762570</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="4" tag="785">
+      <subfield code="t">beta.SAM.gov.</subfield>
+      <subfield code="d">[Washington, D.C.] : GSA, General Services Administration,
+              2018-</subfield>
+      <subfield code="w">(DLC) 2018231108</subfield>
+      <subfield code="w">(OCoLC)1044749597</subfield>
+   </datafield>
+   <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="u">https://purl.fdlp.gov/GPO/gpo121910</subfield>
+   </datafield>
+   <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="u">https://purl.fdlp.gov/GPO/LPS1729</subfield>
+   </datafield>
+   <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="3">HathiTrust Digital Library, Full view</subfield>
+      <subfield code="u">http://catalog.hathitrust.org/api/volumes/oclc/2239457.html</subfield>
+   </datafield>
+   <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="3">Google</subfield>
+      <subfield code="u">http://books.google.com/books?id=5MnB673SKb0C</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">AU@</subfield>
+      <subfield code="b">000026111580</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">NZ1</subfield>
+      <subfield code="b">13419639</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">NZ1</subfield>
+      <subfield code="b">16067141</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">NZ1</subfield>
+      <subfield code="b">16234126</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">OCLCS</subfield>
+      <subfield code="b">48109</subfield>
+   </datafield>
+</record>

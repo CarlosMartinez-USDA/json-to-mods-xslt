@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim"
+             xmlns:saxon="http://icl.com/saxon"
+             xmlns="http://www.loc.gov/MARC21/slim"
+             xmlns:oclcterms="http://purl.org/oclc/terms/"
+             xmlns:dc="http://purl.org/dc/elements/1.1/"
+             xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/"
+             xmlns:zs="http://www.loc.gov/zing/srw/"
+             xmlns:xlink="http://www.w3.org/1999/xlink"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="http://www.loc.gov/MARC21/slim https://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+   <leader>00000cam a2200000 a 4500</leader>
+   <controlfield tag="001">35244381</controlfield>
+   <controlfield tag="006">m o d f </controlfield>
+   <controlfield tag="007">cr unu||||||||</controlfield>
+   <controlfield tag="008">960815s1995 vau ob f000 0 eng c</controlfield>
+   <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">AGL</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">AGL</subfield>
+      <subfield code="d">GPO</subfield>
+      <subfield code="d">OCL</subfield>
+      <subfield code="d">AGL</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">GPO</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCLCO</subfield>
+      <subfield code="d">OCLCF</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCLCO</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">NJR</subfield>
+      <subfield code="d">LWA</subfield>
+      <subfield code="d">HCO</subfield>
+      <subfield code="d">INT</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">MNU</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="019">
+      <subfield code="a">1039358290</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="042">
+      <subfield code="a">pcc</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="043">
+      <subfield code="a">n-us---</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="4" tag="050">
+      <subfield code="a">TD223</subfield>
+   </datafield>
+   <datafield ind1="0" ind2=" " tag="070">
+      <subfield code="a">TD223.I5762</subfield>
+      <subfield code="b">1995</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="072">
+      <subfield code="a">P200</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="074">
+      <subfield code="a">0621 (online)</subfield>
+   </datafield>
+   <datafield ind1="0" ind2=" " tag="086">
+      <subfield code="a">I 19.2:W 29/48</subfield>
+      <subfield code="z">I 19.2:W 29/49</subfield>
+   </datafield>
+   <datafield ind1="2" ind2=" " tag="110">
+      <subfield code="a">Intergovernmental Task Force on Monitoring Water Quality
+              (U.S.)</subfield>
+   </datafield>
+   <datafield ind1="1" ind2="4" tag="245">
+      <subfield code="a">The strategy for improving water-quality monitoring in the United
+              States :</subfield>
+      <subfield code="b">final report of the Intergovernmental Task Force on Monitoring Water
+              Quality.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="256">
+      <subfield code="a">Electronic data.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">[Reston, Va.?] :</subfield>
+      <subfield code="b">USGS Water Information Coordination Program,</subfield>
+      <subfield code="c">[1995?]</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">1 online resource</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="336">
+      <subfield code="a">text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="337">
+      <subfield code="a">computer</subfield>
+      <subfield code="b">c</subfield>
+      <subfield code="2">rdamedia</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="338">
+      <subfield code="a">online resource</subfield>
+      <subfield code="b">cr</subfield>
+      <subfield code="2">rdacarrier</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="516">
+      <subfield code="a">Text (electronic publication).</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="538">
+      <subfield code="a">Mode of access: Internet from USGS web site. Addresses as of 1/3/05:
+              http://water.usgs.gov/wicp/Summary.html (executive summary),
+              http://water.usgs.gov/wicp/lopez.main.html (main report),
+              http://water.usgs.gov/wicp/appendixes/ (appendices); current access available via
+              PURLs.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="530">
+      <subfield code="a">Also available in paper.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="520">
+      <subfield code="a">In response to increased technological advances and burgeoning
+              demands on available water supplies, the federal government and the private sector are
+              joining forces to reshape the network and broaden the focus of water quality
+              monitoring efforts in the United States.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="504">
+      <subfield code="a">Includes bibliographical references.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Water quality management</subfield>
+      <subfield code="z">United States.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Water quality management.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01171900</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="651">
+      <subfield code="a">United States.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01204155</subfield>
+   </datafield>
+   <datafield ind1="2" ind2=" " tag="710">
+      <subfield code="a">Geological Survey (U.S.).</subfield>
+      <subfield code="b">Water Information Coordination Program.</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="776">
+      <subfield code="a">Intergovernmental Task Force on Monitoring Water Quality
+              (U.S.).</subfield>
+      <subfield code="t">Strategy for improving water-quality monitoring in the United
+              States</subfield>
+      <subfield code="h">xiii, 25 p.</subfield>
+      <subfield code="w">(OCoLC)34202494</subfield>
+   </datafield>
+   <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="3">Appendices</subfield>
+      <subfield code="u">https://purl.fdlp.gov/GPO/LPS56796</subfield>
+   </datafield>
+   <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="3">Executive summary</subfield>
+      <subfield code="u">https://purl.fdlp.gov/GPO/LPS56794</subfield>
+   </datafield>
+   <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="3">Main report</subfield>
+      <subfield code="u">https://purl.fdlp.gov/GPO/LPS56795</subfield>
+   </datafield>
+   <datafield ind1="4" ind2="1" tag="856">
+      <subfield code="u">http://h2o.usgs.gov/public/wicp/lopez.main.html</subfield>
+   </datafield>
+   <datafield ind1="4" ind2="1" tag="856">
+      <subfield code="u">https://purl.fdlp.gov/GPO/LPS56794</subfield>
+      <subfield code="z">connect to summary.</subfield>
+   </datafield>
+   <datafield ind1="4" ind2="1" tag="856">
+      <subfield code="u">https://purl.fdlp.gov/GPO/LPS56795</subfield>
+      <subfield code="z">connect to final report.</subfield>
+   </datafield>
+   <datafield ind1="4" ind2="1" tag="856">
+      <subfield code="u">https://purl.fdlp.gov/GPO/LPS56796</subfield>
+      <subfield code="z">connect to appendices.</subfield>
+   </datafield>
+</marc:record>

@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim"
+        xmlns:oclcterms="http://purl.org/oclc/terms/"
+        xmlns:dc="http://purl.org/dc/elements/1.1/"
+        xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <leader>00000cas a2200000 a 4500</leader>
+   <controlfield tag="001">56406380</controlfield>
+   <controlfield tag="006">m o d </controlfield>
+   <controlfield tag="007">cr un|||||||||</controlfield>
+   <controlfield tag="008">040901c19699999is qr pso 0 a0eng d</controlfield>
+   <datafield ind1=" " ind2=" " tag="010">
+      <subfield code="a"> 2020207430</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">NTD</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="e">pn</subfield>
+      <subfield code="c">NTD</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">CUI</subfield>
+      <subfield code="d">OCLCE</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCLCF</subfield>
+      <subfield code="d">OCLCO</subfield>
+      <subfield code="d">HUL</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCLCO</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">CUS</subfield>
+      <subfield code="d">OCLCO</subfield>
+      <subfield code="d">OCLCA</subfield>
+      <subfield code="d">CRU</subfield>
+      <subfield code="d">OCLCO</subfield>
+      <subfield code="d">UKMGB</subfield>
+      <subfield code="d">OCLCA</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">CNTRU</subfield>
+      <subfield code="d">OCLCO</subfield>
+      <subfield code="d">OCLCA</subfield>
+      <subfield code="d">UAB</subfield>
+      <subfield code="d">DLC</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="015">
+      <subfield code="a">GBB613670</subfield>
+      <subfield code="2">bnb</subfield>
+   </datafield>
+   <datafield ind1="7" ind2=" " tag="016">
+      <subfield code="a">016309304</subfield>
+      <subfield code="2">Uk</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="019">
+      <subfield code="a">741464348</subfield>
+      <subfield code="a">1178676153</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="022">
+      <subfield code="a">2223-8980</subfield>
+      <subfield code="l">0792-9978</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="037">
+      <subfield code="a">ISSN_07929978_21</subfield>
+      <subfield code="b">Portico</subfield>
+      <subfield code="n">Taylor &amp; Francis</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="042">
+      <subfield code="a">lccopycat</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="043">
+      <subfield code="a">a-is---</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="050">
+      <subfield code="a">QK1</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="4" tag="060">
+      <subfield code="a">W1 IS637U</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="070">
+      <subfield code="a">QK1.I935</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="072">
+      <subfield code="a">F000</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="4" tag="082">
+      <subfield code="a">581/.05</subfield>
+      <subfield code="2">20</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="222">
+      <subfield code="a">Israel journal of plant sciences</subfield>
+      <subfield code="b">(Online)</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">Israel journal of plant sciences.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">Jerusalem :</subfield>
+      <subfield code="b">Laser Pages Pub.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">Online resource</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="310">
+      <subfield code="a">Four no. a year</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="336">
+      <subfield code="a">text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="337">
+      <subfield code="a">computer</subfield>
+      <subfield code="b">c</subfield>
+      <subfield code="2">rdamedia</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="338">
+      <subfield code="a">online resource</subfield>
+      <subfield code="b">cr</subfield>
+      <subfield code="2">rdacarrier</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="362">
+      <subfield code="a">Began with Vol. 18, issue 4 (May 1969).</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="525">
+      <subfield code="a">Has occasional supplements.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="538">
+      <subfield code="a">Mode of access: World Wide Web.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="580">
+      <subfield code="a">Original print version of this title was preceded by an earlier title
+              called: Israel journal of botany.</subfield>
+   </datafield>
+   <datafield ind1="0" ind2=" " tag="588">
+      <subfield code="a">Vol. 18, issue 4 (1969); title from table of contents screen for
+              issue (MetaPress, viewed Aug. 24, 2004).</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="588">
+      <subfield code="a">Vol. 2020, issue 1 (Feb. 2020) (Brill online, viewed Sept. 3,
+              2020).</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="540">
+      <subfield code="a">Current copyright fee: GBP22.00</subfield>
+      <subfield code="c">74\0.</subfield>
+      <subfield code="5">Uk</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="506">
+      <subfield code="a">Access restricted to authorized users and institutions.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Botany</subfield>
+      <subfield code="v">Periodicals.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Botany</subfield>
+      <subfield code="z">Israel</subfield>
+      <subfield code="v">Periodicals.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Plants</subfield>
+      <subfield code="z">Israel</subfield>
+      <subfield code="v">Periodicals.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="2" tag="650">
+      <subfield code="a">Botany</subfield>
+      <subfield code="v">Periodicals.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Botany.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00836869</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Plants.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01065823</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="651">
+      <subfield code="a">Israel.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01204236</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Botanik</subfield>
+      <subfield code="2">gnd</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Zeitschrift</subfield>
+      <subfield code="2">gnd</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="2" tag="655">
+      <subfield code="a">Periodical.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Periodicals.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01411641</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="8" tag="776">
+      <subfield code="i">Print version, -2009:</subfield>
+      <subfield code="t">Israel journal of plant sciences</subfield>
+      <subfield code="x">0792-9978</subfield>
+      <subfield code="w">(DLC) 95648028</subfield>
+      <subfield code="w">(OCoLC)30600706</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="780">
+      <subfield code="t">Israel journal of botany (1963)</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="850">
+      <subfield code="a">DLC</subfield>
+   </datafield>
+   <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="3">Google, VOL. 42 1994</subfield>
+      <subfield code="u">http://books.google.com/books?id=NrFFAQAAIAAJ</subfield>
+   </datafield>
+   <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="3">Google, VOL. 43 1995</subfield>
+      <subfield code="u">http://books.google.com/books?id=oLFFAQAAIAAJ</subfield>
+   </datafield>
+   <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="3">Google, VOL. 44 1996</subfield>
+      <subfield code="u">http://books.google.com/books?id=77FFAQAAIAAJ</subfield>
+   </datafield>
+   <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="3">Google, VOL. 45 1997</subfield>
+      <subfield code="u">http://books.google.com/books?id=QrJFAQAAIAAJ</subfield>
+   </datafield>
+   <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="3">Google, VOL. 46 1998</subfield>
+      <subfield code="u">http://books.google.com/books?id=lLJFAQAAIAAJ</subfield>
+   </datafield>
+   <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="3">Google, VOL.47 1999 +INDEX</subfield>
+      <subfield code="u">http://books.google.com/books?id=xLJFAQAAIAAJ</subfield>
+   </datafield>
+   <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="3">Google, VOL.48-50 2000-2002 INDEXES</subfield>
+      <subfield code="u">http://books.google.com/books?id=HLRFAQAAIAAJ</subfield>
+   </datafield>
+   <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="3">Google, VOL.48 2000</subfield>
+      <subfield code="u">http://books.google.com/books?id=I7NFAQAAIAAJ</subfield>
+   </datafield>
+   <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="3">Google, VOL.49 2001 +SUPPLEMENT</subfield>
+      <subfield code="u">http://books.google.com/books?id=p7NFAQAAIAAJ</subfield>
+   </datafield>
+   <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="3">Google, VOL.50 2002 +SUPPLEMENT</subfield>
+      <subfield code="u">http://books.google.com/books?id=G7RFAQAAIAAJ</subfield>
+   </datafield>
+   <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="3">Google, VOL.51 2003</subfield>
+      <subfield code="u">http://books.google.com/books?id=nLRFAQAAIAAJ</subfield>
+   </datafield>
+   <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="3">Google, VOL.52 2004</subfield>
+      <subfield code="u">http://books.google.com/books?id=AbVFAQAAIAAJ</subfield>
+   </datafield>
+   <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="3">Google, VOL.52 2004</subfield>
+      <subfield code="u">http://books.google.com/books?id=QOlPAQAAIAAJ</subfield>
+   </datafield>
+   <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="3">Google, VOL.53 2005</subfield>
+      <subfield code="u">http://books.google.com/books?id=b-lPAQAAIAAJ</subfield>
+   </datafield>
+   <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="3">Google, VOL.54 2008</subfield>
+      <subfield code="u">http://books.google.com/books?id=nulPAQAAIAAJ</subfield>
+   </datafield>
+   <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="3">Google, VOL.55 2007</subfield>
+      <subfield code="u">http://books.google.com/books?id=1OlPAQAAIAAJ</subfield>
+   </datafield>
+   <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="3">Google, VOL.56 2008</subfield>
+      <subfield code="u">http://books.google.com/books?id=D-pPAQAAIAAJ</subfield>
+   </datafield>
+   <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="3">Google, VOL.57 2009</subfield>
+      <subfield code="u">http://books.google.com/books?id=SOpPAQAAIAAJ</subfield>
+   </datafield>
+   <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="3">HathiTrust Digital Library Limited view (search only)</subfield>
+      <subfield code="u">http://catalog.hathitrust.org/api/volumes/oclc/30600706.html</subfield>
+   </datafield>
+   <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="u">http://www.metapress.com/link.asp?id=300170</subfield>
+   </datafield>
+   <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="u">http://www.tandfonline.com/loi/tips20</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="856">
+      <subfield code="3">1850-9999</subfield>
+      <subfield code="u">http://www.tandfonline.com/</subfield>
+      <subfield code="x">BLDSS</subfield>
+   </datafield>
+   <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="u">http://www.tandfonline.com/toc/tips20/current</subfield>
+   </datafield>
+   <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="3">University of Alberta Access: 1994-</subfield>
+      <subfield code="u">http://resolver.library.ualberta.ca/resolver?ctx_enc=info%3Aofi%2Fenc%3AUTF-8&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fualberta.ca%3Aopac&amp;rft.genre=journal&amp;rft.object_id=954925545257&amp;rft.issn=&amp;rft.eissn=&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;url_ctx_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Actx&amp;url_ver=Z39.88-2004</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="891">
+      <subfield code="9">853</subfield>
+      <subfield code="8">1</subfield>
+      <subfield code="a">v.</subfield>
+      <subfield code="b">1</subfield>
+      <subfield code="i">(year)</subfield>
+   </datafield>
+   <datafield ind1="4" ind2="1" tag="891">
+      <subfield code="9">863</subfield>
+      <subfield code="8">1</subfield>
+      <subfield code="a">&lt;42&gt;-</subfield>
+      <subfield code="i">&lt;1994&gt;-</subfield>
+      <subfield code="x">provisional</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">NZ1</subfield>
+      <subfield code="b">13744755</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">OCLCS</subfield>
+      <subfield code="b">12203</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">OCLCS</subfield>
+      <subfield code="b">OP-14520</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">AU@</subfield>
+      <subfield code="b">000053166702</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">UKMGB</subfield>
+      <subfield code="b">016309304</subfield>
+   </datafield>
+</record>

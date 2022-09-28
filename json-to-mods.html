@@ -1,0 +1,32 @@
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <title></title>
+      <link rel="stylesheet" type="text/css" href="file:/C:/Users/Carlos.Martinez/AppData/Roaming/com.oxygenxml/extensions/v24.0/frameworks/https_github.com_wendellpiez_JATSKit_raw_master_oXygenJATSframework.xml/JATSKit-6227420b173caf9dd0b5df7a1f869822ad17940e/jats-preview-xslt/jats-preview.css">
+   </head>
+   <body>Created on: September 21, 2021Author:Carlos MartinezEdited by:Carlos Martinez Last Edited on:November 8, 2021Purpose:This stylesheet transforms Treesearch metadata in JSON to XML
+      then maps the transformed map, into MODS 3.7Root template for local testingThis stylesheet may be run without pre-setting any parameters.Step 1:Choose the JSON file you wish to transform.Step 2: Apply the transformation scenario or select a
+      debugging button to begin.Step 3:Comment out this template or remove entirely before
+      putting into production.For Development and Productionuncommment this template when testing on the server or putting into productionhttp://www.w3.org/1999/xlinkhttp://www.w3.org/2001/XMLSchema-instanceThe Mapping TemplateAfter the JSON file is converted into XML via the json-to-xml() function,This template matches and maps the string key values to MODS elementstextarticleengEnglishhttp://purl.org/eprint/accessRights/OpenAccessJSON to MODS title/titleInfo transformationoutput:A string value containing the main title of an article.Tests count of key values matching pub_authors. 4 creates corporate entry.processing the first author in the group, assign an attribute ofusage with a value of "primary."United States Department of Agriculture, Forest Service, , primary'pub_authors' array contains the key values for author name's and uses numbers and
+      acronyms to provide affiliation informationAn author's given and family name are parsed from the JSON
+      map/array/map/string[@key='name'] string key valuedisplayName matches on the 'name' string key value.affiliation uses one external stylesheet and one xml lookup file to match
+      station_ids matching numbers and names with their respective whole name and
+      addressroleTerm is hardcoded to "author"United States Department of Agriculture, Forest Service, , , , , , authorTransforms, in order of preference, the publication-related date metadata-01-01--note type="treesearch-status""Controlled Vocabulary (NRTE)" or "Keywords" transforms into MODS
+      Subject/ObjectCondtionalWhen the National Research Taxonomy Elements (NRTE) JSON
+      array is not null the string key values within the nrt_title tag are selectedOtherwise the string key "keywords" value is selectedIf neither of these fields contain string values no MODS Subject/Object is
+      createdThe national research taxonomy elements are the preferred controlled vocabulary
+      chosen for inclusion in subject/topic MODS metadata. When the array for national research taxonomy elements is not present, the keywords
+      listed are used for the subject/topicTreesearch Publication titles to MODS relatedItem titlePublication info as a string to be parsedJournal host info: base doi, origin, agency, sub-agency, research station,
+      research unit, page numbersThe "@type" attribute contains one of two possible choices in this instanceIf a title matches one of the titles contained within the $p_series, that means
+      its a USFS series publication and thus carries the @type="series" attributeAll others are set to match the "pub_publication" field until the first period
+      encountered. test 1: pub_publication, substring-before, periodtest 2: pub_publication, substring-before, commatest 3: pub_publication substr1`-ing_before periodtest 4:pub_publication tokenize any non-alphanumeric character and digitstest 5: pub_publication, substring-before, commatest 6: pub_publication translate digits all numbers and charactestest 7: substring() then replace(), citation, two white spacestest 8: substring-after-last-match, citation, two white spacestest 9: citation, tokenize, colontest 10: citation, tokenize, colonmods:part is a subelement to the v.no.Use RegEx to comment out testing commentsFind: Replace with: $1Matches "pub_page_start" and "pub_page_end" stiing key valuesIf not, looks for a hyphenated value within the "pub_page" field, and performs the
+      mathWhen none of these fields used, no page numbers appear within the outputBelow a commmented out template runs through six conditions in an attempt to
+      capture fieldsIf all page numbers are desired, the citation field or th eTest 1: Special case for page numbers starting with "S" (maybe obsolete)relatedItem/part/text/@type="year, month and day"using key values "modified_on" or "created_on" or "production_year"The following identifiers are matched and mappped to MODS:DOI (digital object identifier) - ubiquitous usage of this identifer makes
+      it useful to researchers because it provides direct access to an
+      articleproduct_idtreesearch_pub_id - while only functional locally, this identifer also
+      provides direct access to the surrogate respresntion of the articlehttps://dx.doi.org/https://www.fs.usda.gov/treesearch/pubs/vendor NameMetadata supplier name (e.g., Brill,
+      Springer,Elsevier)filename_extFilename from source metadata (eg.
+      filename.xml,filename.json or filename.zip)filenamefilename w/o the extension (i.e., xml, json or zip)workingDirDirectory the source file is transformedUnited States. Forest service</body>
+</html>

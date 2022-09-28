@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim"
+        xmlns:oclcterms="http://purl.org/oclc/terms/"
+        xmlns:dc="http://purl.org/dc/elements/1.1/"
+        xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <leader>00000cam a2200000 a 4500</leader>
+   <controlfield tag="001">35183414</controlfield>
+   <controlfield tag="008">960803s1996 dcua b 001 0 eng </controlfield>
+   <datafield ind1=" " ind2=" " tag="010">
+      <subfield code="a"> 96197028 </subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">DNAL</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">DLC</subfield>
+      <subfield code="d">AGL</subfield>
+      <subfield code="d">BTCTA</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">EUW</subfield>
+      <subfield code="d">GBVCP</subfield>
+      <subfield code="d">ORE</subfield>
+      <subfield code="d">OCLCF</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCLCA</subfield>
+      <subfield code="d">ORX</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">AU@</subfield>
+      <subfield code="b">000012899335</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">GBVCP</subfield>
+      <subfield code="b">220589658</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="042">
+      <subfield code="a">lccopycat</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="043">
+      <subfield code="a">n-us---</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="050">
+      <subfield code="a">HD1751</subfield>
+      <subfield code="b">.A91854 no. 735</subfield>
+   </datafield>
+   <datafield ind1="0" ind2=" " tag="070">
+      <subfield code="a">A281.9.Ag8A</subfield>
+      <subfield code="b">no.735</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="072">
+      <subfield code="a">A500</subfield>
+   </datafield>
+   <datafield ind1="0" ind2=" " tag="086">
+      <subfield code="a">A 1.107:735</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="088">
+      <subfield code="a">ERS-AER-735</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">Agricultural research and development :</subfield>
+      <subfield code="b">public and private investments under alternative markets and
+              institutions /</subfield>
+      <subfield code="c">Keith Fuglie [and others].</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">Washington, DC (1301 New York Ave., NW, Washington 20005-4788)
+              :</subfield>
+      <subfield code="b">U.S. Dept. of Agriculture, ERS,</subfield>
+      <subfield code="c">[1996]</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">viii, 74 pages :</subfield>
+      <subfield code="b">illustrations ;</subfield>
+      <subfield code="c">28 cm.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="336">
+      <subfield code="a">text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="337">
+      <subfield code="a">unmediated</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="338">
+      <subfield code="a">volume</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="490">
+      <subfield code="a">Agricultural economic report ;</subfield>
+      <subfield code="v">no. 735</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="490">
+      <subfield code="a">An Economic Research Service report</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Cover title.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="504">
+      <subfield code="a">Includes bibliographical references (pages 64-69) and
+              index.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="530">
+      <subfield code="a">Also available through remote access.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Agriculture</subfield>
+      <subfield code="x">Economic aspects</subfield>
+      <subfield code="x">Research</subfield>
+      <subfield code="z">United States.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Agriculture</subfield>
+      <subfield code="x">Economic aspects</subfield>
+      <subfield code="x">Research.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00801459</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="651">
+      <subfield code="a">United States.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01204155</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Agrarwissenschaft</subfield>
+      <subfield code="0">(DE-601)091346142</subfield>
+      <subfield code="0">(DE-STW)13446-2</subfield>
+      <subfield code="2">stw</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Forschungs- und Technologiepolitik</subfield>
+      <subfield code="0">(DE-601)091360765</subfield>
+      <subfield code="0">(DE-STW)10437-4</subfield>
+      <subfield code="2">stw</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Öffentliche Investition</subfield>
+      <subfield code="0">(DE-601)091380960</subfield>
+      <subfield code="0">(DE-STW)11556-5</subfield>
+      <subfield code="2">stw</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Return on Investment</subfield>
+      <subfield code="0">(DE-601)091386721</subfield>
+      <subfield code="0">(DE-STW)12487-0</subfield>
+      <subfield code="2">stw</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">USA</subfield>
+      <subfield code="0">(DE-601)091396867</subfield>
+      <subfield code="0">(DE-STW)17829-1</subfield>
+      <subfield code="2">stw</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="653">
+      <subfield code="a">Agriculture</subfield>
+      <subfield code="a">Research</subfield>
+      <subfield code="a">Economic aspects</subfield>
+      <subfield code="a">United States</subfield>
+   </datafield>
+   <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Fuglie, Keith Owen.</subfield>
+   </datafield>
+   <datafield ind1="0" ind2="8" tag="776">
+      <subfield code="i">Online version:</subfield>
+      <subfield code="t">Agricultural research and development.</subfield>
+      <subfield code="d">Washington, DC (1301 New York Ave., NW, Washington 20005-4788) : U.S.
+              Dept. of Agriculture, ERS, [1996]</subfield>
+      <subfield code="w">(OCoLC)1085124215</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="830">
+      <subfield code="a">Agricultural economic report ;</subfield>
+      <subfield code="v">no. 735.</subfield>
+   </datafield>
+   <datafield ind1=" " ind2="0" tag="830">
+      <subfield code="a">Economic Research Service report.</subfield>
+   </datafield>
+   <datafield ind1="4" ind2="1" tag="856">
+      <subfield code="u">http://www.ers.usda.gov/publications/aer-agricultural-economic-report/aer735.aspx#.UUeMp6xv5O4</subfield>
+   </datafield>
+   <datafield ind1="4" ind2=" " tag="856">
+      <subfield code="u">http://www.ers.usda.gov/publications/AER735/</subfield>
+   </datafield>
+   <datafield ind1=" " ind2=" " tag="938">
+      <subfield code="a">Baker and Taylor</subfield>
+      <subfield code="b">BTCP</subfield>
+      <subfield code="n">96197028</subfield>
+   </datafield>
+</record>
